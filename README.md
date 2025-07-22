@@ -11,7 +11,8 @@ Wedlock {Custody}(Legal/Physical & Intervention & Vol. Term, Invol. Term), Adopt
 State Rules, Statutes, Doctrine, Precedent, Etc
 
 -Chrome v126+  
--chrome://flags enable OCR-document containers marked with _ have text in the original file-ctrl-r, after any document containers fail to load, until all are loaded  
+-chrome://flags enable OCR-document containers marked with _ have text in the original file  
+-if after the page stops loading, any document containers have failed to load, refresh the page. the browser usually caches the documents locally for some time  
 -document containers with documents unavailable for hot-linking include a url to the original and a local copy of such within the document container  
 -version with document containers expanded to full document height available at https://
 
