@@ -1,18 +1,38 @@
 ## Hi there 👋
 
-Chrome v126+ chrome://flags enable OCR
+This is a
+
+Mercer County, Pennsylvania
+
+Wedlock [Custody](Legal/Physical & Intervention & Vol. Term, Invol. Term), Adoption, Paternity & Support[DRS], Abuse[Protection] Resource
+
+State Rules, Statutes, Doctrine, Precedent, Etc
+
+-Chrome v126+
+-chrome://flags enable OCR
+-document containers marked with _ have text in the original file
+-ctrl-r, after any document containers fail to load, until all are loaded
+-document containers with documents unavailable for hot-linking include a url to the original and a local copy of such within the document container
+-version with document containers expanded to full document height available at https://
+
+ctrl-f shortcut list:
+-
+-
+-
 
 ######
 
+Mercer County, PA
 LOCAL RULES of the COURT OF COMMON PLEAS OF MERCER COUNTY , 35th JUDICIAL DISTRICT, Updated June 2025  
 https://www.mercercountypa.gov/localrules/Civil/Local.Rules.of.Civil.Procedure.pdf
-<iframe src="https://judicious-priority.github.io/assets/mcpalrocp" width="120%" height="700px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoCP" width="120%" height="700px"></iframe>
 
 ######
 
-(Mercer County, PA) Rules of Judicial Administration
+Mercer County, PA
+LOCAL RULES OF JUDICIAL ADMINISTRATION
 https://www.mercercountypa.gov/localrules/Administration/LOCAL.RULES.OF.JUDICIAL.ADMINISTRATION.pdf
-<iframe src="https://judicious-priority.github.io/assets/mcpalroja" width="120%" height="700px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoJA" width="120%" height="700px"></iframe>
 
 ######
 
