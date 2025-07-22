@@ -143,24 +143,32 @@ Rule
 
 Chapter	
 I.‎ ‎ ‎ ‎ ‎ PRELIMINARY RULES   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8001/231_8001.pdf" width="120%" height="700px"></iframe>
 
 II.‎ ‎ ‎ ‎ ACCOUNTS, OBJECTIONS AND DISTRIBUTIONS   
 
 III.‎ ‎ ‎ PETITION PRACTICE AND PLEADING   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8003/231_8003.pdf" width="120%" height="700px"></iframe>
 
 IV.‎ ‎ ‎ ‎ FORMAT AND SERVICE OF LEGAL PAPER BY PARTIES AND COURT; ELECTRONIC FILING   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8004/231_8004.pdf" width="120%" height="700px"></iframe>
 
 V.‎ ‎ ‎ ‎ ‎ RULES GOVERNING SPECIFIC TYPES OF PETITIONS   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8005/231_8005.pdf" width="120%" height="700px"></iframe>
 
 VI.‎ ‎ ‎ ‎ [Reserved]   
 
 VII.‎ ‎ ‎ RULES RELATING TO PRE-HEARING AND HEARING PROCEDURE   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8007/231_8007.pdf" width="120%" height="700px"></iframe>
 
 VIII.‎ ‎ ‎RECONSIDERATION   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8008/231_8008.pdf" width="120%" height="700px"></iframe>
 
 IX.‎ ‎ ‎ ‎ AUDITORS AND HEARING OFFICERS   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8009/231_8009.pdf" width="120%" height="700px"></iframe>
 
 X.‎ ‎ ‎ ‎ ‎ REGISTER OF WILLS   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8010/231_8010.pdf" width="120%" height="700px"></iframe>
 
 XI.‎ ‎ ‎ ‎ [Reserved]   
 
@@ -171,8 +179,13 @@ XIII.‎ ‎ [Reserved]
 XIV.‎ ‎ ‎ GUARDIANSHIPS OF INCAPACITATED PERSONS   
 
 XV.‎ ‎ ‎ ‎ ADOPTIONS   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8015/231_8015.pdf" width="120%" height="700px"></iframe>
 
 XVI.‎ ‎ ‎ PROCEEDINGS PURSUANT TO SECTION 3206 OF THE ABORTION CONTROL ACT APPENDIX   
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8016/231_8016.pdf" width="120%" height="700px"></iframe>
+
+APPENDIX  
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter8017a/231_8017a.pdf" width="120%" height="700px"></iframe>
 
 ######
 
@@ -357,7 +370,7 @@ Title 79: SUPPLEMENTARY PROVISIONS
 
 
 Uniform Child Custody Jurisdiction and Enforcement Act
-see: § 5402
+see: § 5402 et seq
 https://www.lrcvaw.org/laws/uccjea.pdf
 
 https://www.kansas-divorce.com/uploads/uccja-uccjea_side-by-side.pdf
