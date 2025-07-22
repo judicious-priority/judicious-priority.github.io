@@ -1,22 +1,27 @@
 ## Hi there 👋
 
-######
-
-LOCAL RULES of the COURT OF COMMON PLEAS OF MERCER COUNTY , 35th JUDICIAL DISTRICT
-<iframe src="https://www.mercercountypa.gov/localrules/Civil/Local.Rules.of.Civil.Procedure.pdf" width="120%" height="700px"></iframe>
+Chrome v126+ chrome://flags enable OCR
 
 ######
 
-(Local) Rules of Judicial Administration
-<iframe src="https://www.mercercountypa.gov/localrules/Administration/LOCAL.RULES.OF.JUDICIAL.ADMINISTRATION.pdf" width="120%" height="700px"></iframe>
+LOCAL RULES of the COURT OF COMMON PLEAS OF MERCER COUNTY , 35th JUDICIAL DISTRICT, Updated June 2025  
+https://www.mercercountypa.gov/localrules/Civil/Local.Rules.of.Civil.Procedure.pdf
+<iframe src="https://judicious-priority.github.io/assets/mcpalrocp" width="120%" height="700px"></iframe>
+
+######
+
+(Mercer County, PA) Rules of Judicial Administration
+https://www.mercercountypa.gov/localrules/Administration/LOCAL.RULES.OF.JUDICIAL.ADMINISTRATION.pdf
+<iframe src="https://judicious-priority.github.io/assets/mcpalroja" width="120%" height="700px"></iframe>
 
 ######
 
 TITLE 231, RULES OF CIVIL PROCEDURE, Part I. GENERAL
 
+Chapter‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Rule
+
 1.‎ ‎ ‎ ‎ APPEALS FROM CERTAIN ADMINISTRATIVE AGENCIES … [Rescinded]
 
-Chapter‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Rule
 100.‎ ‎ RULES OF CONSTRUCTION … 51
 <iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter100/231_0100.pdf" width="120%" height="700px"></iframe>
 
@@ -33,6 +38,7 @@ Chapter‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ �
 1350. FORMS … 1351
 
 1400. ACTS OF ASSEMBLY … 1401
+1401. https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter1400/231_1400.pdf
 
 1480.‎ ABOLITION OF SPECIAL ACTIONS … 1480
 
@@ -244,10 +250,13 @@ Title 42: JUDICIARY AND JUDICIAL PROCEDURE
 Title 43: LABOR
  
 Title 44: LAW AND JUSTICE
+https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=44
 
 Title 45: LEGAL NOTICES
+https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=45
  
 Title 46: LEGISLATURE
+<iframe src="https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=46" width="120%" height="700px"></iframe>
  
 Title 47: LIQUOR
  
@@ -312,6 +321,7 @@ Title 77: WORKMEN'S COMPENSATION
 Title 78: ZONING AND PLANNING
 
 Title 79: SUPPLEMENTARY PROVISIONS
+<iframe src="https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=79" width="120%" height="700px"></iframe>
 
 ######
  
@@ -328,11 +338,13 @@ Title 79: SUPPLEMENTARY PROVISIONS
 
 
 
+Uniform Child Custody Jurisdiction and Enforcement Act
+see: § 5402
+https://www.lrcvaw.org/laws/uccjea.pdf
 
+https://www.kansas-divorce.com/uploads/uccja-uccjea_side-by-side.pdf
 
-
-
-
+https://www.uccja
 
 
 
@@ -353,5 +365,13 @@ Title 79: SUPPLEMENTARY PROVISIONS
 <iframe src="" width="120%" height="700px"></iframe>
 
 <iframe src="" width="120%" height="700px"></iframe>
+
+https://constitution.congress.gov/resources/decisions-overruled/
+https://constitution.congress.gov/resources/unconstitutional-laws/
+https://constitution.congress.gov/resources/cases-cited/
+
+https://www.govinfo.gov/content/pkg/GPO-CONAN-2022/pdf/GPO-CONAN-2022.pdf
+https://constitution.congress.gov/browse/essay/intro-1-1/ALDE_00000027/
+https://www.senate.gov/civics/resources/pdf/US_Constitution-Senate_Publication_103-21.pdf
 
 <iframe src="" width="120%" height="700px"></iframe>
