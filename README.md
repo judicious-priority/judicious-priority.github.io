@@ -23,14 +23,14 @@ ctrl-f shortcut list:
 Mercer County, PA
 LOCAL RULES of the COURT OF COMMON PLEAS OF MERCER COUNTY , 35th JUDICIAL DISTRICT, Updated June 2025  
 https://www.mercercountypa.gov/localrules/Civil/Local.Rules.of.Civil.Procedure.pdf
-<iframe src="https://judicious-priority.github.io/assets/LRoCP" width="120%" height="700px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoCP.pdf" width="120%" height="700px"></iframe>
 
 ######
 
 Mercer County, PA
 LOCAL RULES OF JUDICIAL ADMINISTRATION
 https://www.mercercountypa.gov/localrules/Administration/LOCAL.RULES.OF.JUDICIAL.ADMINISTRATION.pdf
-<iframe src="https://judicious-priority.github.io/assets/LRoJA" width="120%" height="700px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoJA.pdf" width="120%" height="700px"></iframe>
 
 ######
 
