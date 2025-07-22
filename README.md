@@ -4,15 +4,13 @@ This is a
 
 Mercer County, Pennsylvania
 
-Wedlock [Custody](Legal/Physical & Intervention & Vol. Term, Invol. Term), Adoption, Paternity & Support[DRS], Abuse[Protection] Resource
+Wedlock {Custody}(Legal/Physical & Intervention & Vol. Term, Invol. Term), Adoption, Paternity & Support{DRS}, Abuse{Protection} Resource
 
 State Rules, Statutes, Doctrine, Precedent, Etc
 
--Chrome v126+
--chrome://flags enable OCR
--document containers marked with _ have text in the original file
--ctrl-r, after any document containers fail to load, until all are loaded
--document containers with documents unavailable for hot-linking include a url to the original and a local copy of such within the document container
+-Chrome v126+  
+-chrome://flags enable OCR-document containers marked with _ have text in the original file-ctrl-r, after any document containers fail to load, until all are loaded  
+-document containers with documents unavailable for hot-linking include a url to the original and a local copy of such within the document container  
 -version with document containers expanded to full document height available at https://
 
 ctrl-f shortcut list:
