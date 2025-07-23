@@ -26,7 +26,7 @@ Mercer County, PA
 LOCAL RULES of the COURT OF COMMON PLEAS OF MERCER COUNTY , 35th JUDICIAL DISTRICT, Updated June 2025  
 https://www.mercercountypa.gov/localrules/Civil/Local.Rules.of.Civil.Procedure.pdf  
 @
-<iframe src="https://judicious-priority.github.io/assets/LRoCP.pdf" width="100%" height="1000px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoCP.pdf" width="100%" height="950px"></iframe>
 
 ######
 
@@ -34,7 +34,7 @@ Mercer County, PA
 LOCAL RULES OF JUDICIAL ADMINISTRATION
 https://www.mercercountypa.gov/localrules/Administration/LOCAL.RULES.OF.JUDICIAL.ADMINISTRATION.pdf  
 @
-<iframe src="https://judicious-priority.github.io/assets/LRoJA.pdf" width="100" height="950px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoJA.pdf" width="100%" height="925px"></iframe>
 
 ######
 
@@ -46,15 +46,15 @@ Chapter‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ �
 
 100.‎ ‎ RULES OF CONSTRUCTION … 51  
 @
-<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter100/231_0100.pdf" width="100%" height="900px"></iframe>
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter100/231_0100.pdf" width="100%" height="920px"></iframe>
 
 200.‎ ‎ BUSINESS OF COURTS … 201  
 @
-<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter200/231_0200.pdf" width="100%" height="850px"></iframe>
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter200/231_0200.pdf" width="100%" height="910px"></iframe>
 
 400.‎ ‎ SERVICE OF ORIGINAL PROCESS … 400  
 @
-<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter400/231_0400.pdf" width="100%" height="800px"></iframe>
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter400/231_0400.pdf" width="100%" height="900px"></iframe>
 
 1000. ACTIONS … 1001
 
