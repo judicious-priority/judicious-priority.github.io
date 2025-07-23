@@ -26,7 +26,7 @@ Mercer County, PA
 LOCAL RULES of the COURT OF COMMON PLEAS OF MERCER COUNTY , 35th JUDICIAL DISTRICT, Updated June 2025  
 https://www.mercercountypa.gov/localrules/Civil/Local.Rules.of.Civil.Procedure.pdf  
 @
-<iframe src="https://judicious-priority.github.io/assets/LRoCP.pdf" width="120%" height="53600px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoCP.pdf" width="120%" height="850px"></iframe>
 
 ######
 
@@ -34,7 +34,7 @@ Mercer County, PA
 LOCAL RULES OF JUDICIAL ADMINISTRATION
 https://www.mercercountypa.gov/localrules/Administration/LOCAL.RULES.OF.JUDICIAL.ADMINISTRATION.pdf  
 @
-<iframe src="https://judicious-priority.github.io/assets/LRoJA.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://judicious-priority.github.io/assets/LRoJA.pdf" width="120%" height="800px"></iframe>
 
 ######
 
@@ -46,7 +46,7 @@ Chapter‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ �
 
 100.‎ ‎ RULES OF CONSTRUCTION … 51  
 @
-<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter100/231_0100.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://www.pacodeandbulletin.gov/secure/pacode/data/231/chapter100/231_0100.pdf" width="120%" height="750px"></iframe>
 
 200.‎ ‎ BUSINESS OF COURTS … 201  
 @
