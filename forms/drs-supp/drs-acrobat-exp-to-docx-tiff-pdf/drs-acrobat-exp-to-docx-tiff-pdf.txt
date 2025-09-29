@@ -1,9 +1,1 @@
-judicious-priority.github.io
-/
-forms
-/
-drs-supp
-/
-drs-acrobat-exp-to-docx-tiff-pdf
-/
-drs-acrobat-exp-to-docx-tiff-pdf.txt
+judicious-priority.github.io/forms/drs-supp/drs-acrobat-exp-to-docx-tiff-pdf/drs-acrobat-exp-to-docx-tiff-pdf.txt
