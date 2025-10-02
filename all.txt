@@ -1,3 +1,1614 @@
+
+[ Rules, Regs, & Laws [!] ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ Local Code [!] ]
+
+
+
+
+1
+LOCAL RULES
+of the
+COURT OF COMMON PLEAS OF MERCER
+COUNTY, 35th JUDICIAL DISTRICT
+Supplementing the
+Rules of Civil Procedure
+Promulgated by the
+Supreme Court of Pennsylvania
+Local Rules Committee:
+Peter C. Acker, Esq., Chairman
+Updated June 2025
+JUDGES OF THE COURT OF COMMON PLEAS OF
+MERCER COUNTY, 35th JUDICIAL DISTRICT
+Honorable Daniel P. Wallace, President Judge
+Honorable Tedd C. Nesbit, Judge
+Honorable Ronald D. Amrhein, Jr., Judge
+Honorable D. Neil McEwen, Judge
+2
+PREFACE
+The Rules of the Court of Common Pleas of Mercer County, 35th Judicial District, are
+intended to supplement the Rules of Civil Procedure promulgated by the Supreme Court
+of Pennsylvania. The latter's system of numbering has been preserved. Each local rule
+dealing with the same subject matter as one of the Rules of Civil Procedure has been
+given the same number. All local rules are preceded by the letter "L" to indicate their
+local character. All local rules must be read in connection with the Rules of Civil
+Procedure bearing the same numbers.
+3
+LOCAL RULES
+of the
+Court of Common Pleas of Mercer County, 35th Judicial District
+Supplementing the
+Rules of Civil Procedure
+Promulgated by the
+Supreme Court of Pennsylvania
+TABLE OF CONTENTS
+BUSINESS OF COURTS
+Rule L200 Attorneys
+Rule L205.2(a) Filing Legal Papers With the Prothonotary
+Rule L205.2(b) Cover Sheet
+Rule L206.1(a) Petition. Definition. Content. Form.
+Rule L206.4(c) Rule to Show Cause. Alternative Procedures
+Rule L208.2(c) Motion. Statement of Applicable Authority.
+Rule L208.2(d) Uncontested Motions
+Rule L208.2(e) Motions Relating to Discovery
+Rule L208.3(a) Motion Procedures
+Rule L208.3(b) Motions Practice. Filing of Argument Court Briefs.
+Rule L210 Form of Briefs
+Rule L212 Pre-Trial Conference
+Rule L225 Addresses and Summing Up
+Rule L227.1 Post Trial Conferences
+COURT MATTERS
+Rule L301.1 Copies of Writings
+Rule L306 Prothonotary
+Rule L309 Trial and Trial List
+Rule L310 Court Calendar
+Rule L312 Security for Costs
+Rule L315 Bills of Costs
+4
+Rule L316.1 Judgment by Agreement
+Rule L 316.3 Striking or Opening Judgments
+Rule L316.4 Judgments: Re-indexing
+Rule L317 Notification. Assignment. Conference.
+Rule L230.2 Termination of Inactive Cases
+
+
+MISCELLANEOUS MATTERS
+Rule L321 Auditors and Auditors' Reports
+Rule L323 Assignees for Creditors
+Rule L324 Sheriff
+Rule L325 Surveyors
+Rule L326 Money Paid Into Court
+Rule L327 Law Library
+Rule L328 Official Legal Publication
+Rule L329 Pre-Trial Order
+CIVIL ACTIONS AT LAW
+Rule L1018.1 Notice to Defend
+Rule L1028(c) Preliminary Objection
+Rule L1033 Amendment
+Rule L1034(a) Motion for Judgment on the Pleadings
+Rule L1035.2(a) Motion for Summary Judgment
+ACTION TO QUIET TITLE
+Rule L1066 Form of Judgments on Order
+RESIDENTIAL MORTGAGE FORECLOSURE CONCILIATION PORGRAM
+Rule L1147 Residential Mortgage Foreclosure Program
+ARBITRATION
+Rule L1301 Scope
+Rule L1302 List of Arbitrators. Appointment to Board. Oath.
+5
+Rule L1308 Appeal. Arbitrators’ Compensation. Notice.
+ACTIONS FOR PRIMARY PHYSICAL CUSTODY AND PARTIAL PHYSICAL
+CUSTODY OF MINOR CHILDREN
+Rule L1915.1 Office of the Custody Conciliator
+Rule L1915.3 Commencement of Action. Complaint. Order
+Rule L1915.4-1 Conciliator Hearings for Partial Custody
+Rule L1915.4-2 Conciliator Hearings by Default. Partial Custody Order
+Rule L1915.4-3 Conciliator Conference
+ACTION OF DIVORCE OR ANNULMENT OF MARRIAGE
+Rule L1920.51 Hearing by Court. Appointment of Master. Notice of Hearing
+Rule L1920.53 Hearing of Master. Report
+Rule L1920.54 Hearing by Master. Report. Related Claim
+Rule L1920.55-2 Master's Report. Notice. Exceptions. Final Decree
+RULES RELATING TO DOMESTIC RELATIONS MATTERS GENERALLY
+Rule L1930.7 Flat Filing of Papers
+Rule L1930.8 Clerk of the Domestic Relations Section
+Rule L1930.9 Information to Consumer Credit Bureaus
+INCAPACITATED PERSONS AS PARTIES
+Rule L2056 Procedure When Incapacity of a Party Is Ascertained
+UNINCORPORATED ASSOCIATIONS AS PARTIES
+Rule L2152 Actions by Associations
+ACTIONS FOR WRONGFUL DEATH
+Rule L2205 Notice to Persons Entitled to Damages
+CONFESSION OF JUDGMENT FOR MONEY
+Rule L2952 Confessed Judgments
+6
+ENFORCEMENT OF MONEY JUDGMENTS FOR THE PAYMENT OF MONEY
+Rule L3110 Execution Against Contents of Safe Deposit Box
+Rule L3112 Service of the Writ Upon Garnishee, Real Property of Defendant
+in Name of Third Party
+Rule L3123 Debtor’s Exemption
+Rule L3128 Notice of Sale Personal Property
+DEPOSITIONS AND DISCOVERY
+Rule L4010 Physical and Mental Examination of Persons
+7
+Local Rules of the Court of Common Pleas of Mercer County,
+35th Judicial District
+Rules of Civil Procedure
+BUSINESS OF COURTS
+RULE L200
+ATTORNEYS
+(a) During the month of January of each year, the secretary of the Bar Association
+shall certify to the Prothonotary, the recorder of deeds, the register of wills, and
+the clerk of the Orphans' Court Division, any change in the members of the
+Mercer County Bar. Each of these officers shall retain a register of such list in his
+offices.
+(b) One-tenth of all arbitrators' and auditors' fees and $27.50 of each master's fee
+shall be deducted there from by the Prothonotary, clerk of courts or other officer
+and paid over to the treasurer of the Mercer County Bar Association. The funds
+from this source shall be used by said treasurer to pay the dues of the members of
+the Mercer County Bar Association in the Pennsylvania Bar Association. The
+surplus, if any, remaining after the payment of said dues to the Pennsylvania Bar
+Association shall be used for the general purposes of the Mercer County Bar
+Association.
+(c) No attorney shall be admitted as surety in any action pending in court and the
+Prothonotary shall not accept any bond or surety unless by leave of court for
+special cause shown.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin]
+RULE L205.2(a)
+FILING LEGAL PAPERS WITH THE PROTHONOTARY
+All pleadings and other legal papers filed with the Prothonotary shall be prepared for flat
+filing on paper 8 ½” x 11” in size and be bound by staples or similar binding.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+8
+RULE L205.2(b)
+COVER SHEET
+All pleadings and other legal papers filed with the Prothonotary shall contain on the face
+sheet the following information: designation of the Court, date of filing, file number,
+caption, title of pleading, notice to plead or other form of notice, certification where
+applicable, and name, address, Supreme Court number, and telephone number of the
+attorney or law firm filing the pleading upon whom papers may be served.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L206.1(a)
+PETITION. DEFINITION. CONTENT. FORM.
+“Petition,” as used in this chapter, shall mean an application for relief other than a motion
+including:
+(1) an application to open a default judgment or a judgment of non pros;
+(2) a request for special relief, unless the request seeks an expedited hearing date, a
+stay, or interim pre-hearing relief;
+(3) a petition for civil contempt, except in a support or custody action;
+(4) a motion for delay damages; and
+(5) a petition for relief from a judgment by confession;
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L206.4(c)
+RULE TO SHOW CAUSE. ALTERNATIVE PROCEDURES
+(1) A petition seeking only the issuance of a rule to show cause shall be presented to
+the Court Administrator. No advance notice of the presentation need be given to
+any party. The Court Administrator shall transmit the petition to a Judge for
+disposition. It shall then be transmitted promptly to the Prothonotary for filing.
+(2) A rule to show cause shall be issued by the Court as of course upon petition,
+pursuant to Pa.R.C.P 206.6. The rule shall direct that an answer be filed to the
+petition within (20) days after service of the petition on the respondent. The
+Court may, in appropriate circumstances, direct that an answer be filed within a
+shorter period of time, or dispense with the necessity of filing an answer
+altogether. Every petition shall have attached to it a proposed order, providing for
+an evidentiary hearing. The Court on its own motion or upon request of a party
+9
+may require a case to be submitted on the basis of the pleadings, depositions
+and/or oral argument instead of an evidentiary hearing.
+(3) The petitioner shall attach to the petition a proposed order substantially in the
+following form:
+IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
+Plaintiff(s) :
+:
+vs. :
+: NO. ______ --2004
+Defendant(s) :
+ORDER
+AND NOW, this _____ day of ____________, 20__, upon consideration of the foregoing
+petition, it is hereby ordered and decreed that
+(1) a rule is issued upon the respondent to show cause why the petitioner is not entitled to the
+relief requested;
+(2) the respondent shall file an answer to the petition within twenty (20) days of service upon the
+respondent;
+(3) the petition shall be decided under Pa.R.C.P. 206.7;
+(4) depositions shall be completed within _____ days of this date;
+(5) a hearing shall be held on __________, ____________, 20__ in Courtroom ____ of the
+Mercer County Courthouse at ________ a.m./p.m.;
+(6) notice of the entry of this order shall be provided to all parties by the petitioner.
+BY THE COURT:
+___________________________
+____________________ J.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L208.2(c)
+MOTION. STATEMENT OF APPLICABLE AUTHORITY.
+A motion shall include a brief statement of the applicable authority for the relief
+requested.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+10
+RULE L208.2(d)
+UNCONTESTED MOTIONS
+If the moving party intends to present the motion as uncontested, the motion shall include
+a written consent by opposing counsel and unrepresented parties; or the motion shall
+include a certification that the moving party has contacted opposing counsel and
+unrepresented parties and that opposing counsel and unrepresented parties do not contest
+the motion.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L208.2(e)
+MOTIONS RELATING TO DISCOVERY
+Any motion relating to discovery shall include a certification by the moving party that the
+moving party has conferred or attempted to confer with opposing counsel and
+unrepresented parties having an interest in the motion in order to resolve the matter
+without court action.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L208.3(a)
+MOTION PROCEDURES
+(1) The scheduling of all motions or other matters will depend on whether a judge has
+issued a case management order in the case pursuant to Local Rule L317(C).
+(a) If a judge has not issued a case management order pursuant to Rule L317(C)
+when the motion or other matter is filed, the Court Administrator shall assign
+the motion or other matter to a judge on a rotating basis.
+(b) If a judge has issued a case management order pursuant to Rule L317(C) prior
+to the filing of the motion or other matter, the Court Administrator shall assign
+the motion or other matter to the judge attached to the case by virtue of the
+case management order.
+[Adopted July 18, 2023, effective 30 days after publication in the Pennsylvania Bulletin.]
+(2) All motions or other matters shall contain a scheduling order, a proposed order,
+and a certification that notice of the hearing has been given to opposing counsel or
+the opposing party. The certification shall also set forth the manner of notice
+11
+given. All proposed orders shall list the names of counsel of record and the party
+represented by each counsel. All motions and other matters shall first be filed in
+the proper row office and then delivered to the Court Administrator for
+scheduling.
+[Adopted July 18, 2023, effective 30 days after publication in the Pennsylvania Bulletin.]
+(3) Ex parte orders in adversary proceedings
+(a) Ex Parte Motions to the court in an adversary proceeding will not be
+considered without prior notice of presentation to all parties with the
+opportunity to be heard, except in the following cases:
+(1) Motions for relief which are routinely granted as of course, on a
+presumption of assent, such as motions for appointment of legal counsel
+and guardians ad litem, and the like.
+(2) Motions affecting the issuance of service of initial papers upon another
+who is not yet subject to the jurisdiction of the court, such as applications
+for substituted service, extensions of time, and the like.
+(3) Motions for preliminary orders granting or scheduling a hearing thereon,
+or directing process or notice to bring the opponent before the court to
+answer.
+(4) Motions for stay orders in license suspension appeals.
+(5) Cases in which the adverse party has waived the opportunity to be heard
+or has consented to the requested action.
+(6) Cases in which there are special or compelling circumstances which the
+court finds justifies ex parte action.
+(b) Prior notice of presentation of a motion to the court shall state the date, time
+and place of intended presentation and shall be accompanied by a copy of the
+motion and the proposed order.
+(c) In cases where an ex parte order is made, a copy of the motion and order shall
+be served promptly on the opponent and on all other parties, who may file a
+prompt application for reconsideration of the order.
+(d) In all cases where prior notice of presentation is required under statute or rule
+of court, the motion shall state that the requisite prior notice was given; the
+date, time and manner of giving notice. If the right to ex parte relief is based
+on the existence of special or compelling circumstances, the motion shall state
+such circumstances.
+(4)Scheduling of Matters
+(a) Argument Court
+(1) Matters for Argument Court and all other matters to be scheduled by
+praecipe shall be scheduled by praecipe as set forth in subsection (b)
+below.
+(2) Courts for hearing arguments shall be held on the first Monday of each
+month unless otherwise ordered by the court.
+(3) The Prothonotary shall keep an argument docket wherein shall be set
+down all cases or matters requiring argument, special examination by the
+12
+court, and the taking of testimony, except trials by jury and other matters
+specifically regulated by Act of Assembly.
+(4) All cases for argument shall be placed on the argument docket at least
+thirty (30) days prior to the argument day by a praecipe as set forth in
+subsection (b) below.
+(5) The praecipe to the Prothonotary shall include the name of opposing
+counsel, the precise nature of the matter requiring argument, and whether
+the matter listed requires the taking of testimony.
+(6) The Court Administrator shall give notice to all counsel that the case has
+been placed on the argument list. Said notice shall contain the date upon
+which argument will be held, and the nature of the matter requiring
+argument. The argument list shall be published in the Mercer County Law
+Journal prior to Argument Court.
+(b) Scheduling by Praecipe.
+(1) Matters for Argument Court and all other matters to be scheduled by
+praecipe shall be scheduled by praecipe filed at the same time as the
+pleading and/or matters to be heard with the Prothonotary and shall be
+signed by counsel of record or an unrepresented party.
+Amended November 3, 2016 – Effective January 1, 2017
+(2) The praecipe shall be served promptly on all other counsel and
+unrepresented parties in the case.
+(3) Upon receipt of a scheduling praecipe any party may object as follows:
+(a) If the objection is to an assertion in the praecipe of readiness of the
+case for disposition by the court, the objection shall be made promptly
+to the court in accordance with Motions Court practice with notice to
+other parties.
+(b) If an objection relates to any other assertion in the praecipe, the
+objecting party shall promptly file a counter praecipe stating only the
+matter challenged.
+(4) If a party files a scheduling praecipe, knowing that the matter is not ready
+for disposition by the court, or knowing that the matters certified to in the
+scheduling praecipe are not true, the court may impose sanctions on the
+offending party. Sanctions may include assessment of reasonable counsel
+fees incurred by other parties as the result of such conduct, prohibition of
+additional discovery, or other appropriate order.
+(5) Form of Scheduling Praecipe: The praecipe shall identify the nature of the
+matter to be scheduled, all opposing counsel, and designate any Judge who
+has previously entered a ruling in the case.
+(5) Preparation and Form of Orders and Decrees. Copies for Distribution.
+(a) Unless otherwise directed by the court, decrees and orders requested by a
+party shall be drafted by the attorney at whose instance they are to be made,
+and shall be submitted to the court for approval.
+(b) All proposed orders presented to the court shall list the names of all counsel of
+record and shall indicate the party represented by each.
+13
+(c) The proposed order and any accompanying documents shall be transmitted by
+the parties to the Court Administrator for scheduling. The order and
+documents shall then be filed in the proper office.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin. Amended September 8, 2014, effective 30 days after publication in the
+Pennsylvania Bulletin.]
+RULE L208.3(b)
+MOTIONS PRACTICE. FILING OF ARGUMENT COURT BRIEFS
+(1) When a moving party files a scheduling praecipe for Argument Court, the
+moving party’s brief shall be filed with the Court Administrator at the time the
+scheduling praecipe is presented, and the moving party shall serve copies of
+the brief on opposing counsel and unrepresented parties. All other parties
+shall file with the Court Administrator a brief within fifteen (15) days after
+service.
+(2) When a non-moving party files a scheduling praecipe, the moving party shall
+file with the Court Administrator and with all other parties a brief within
+fifteen (15) days after filing of the praecipe. All other parties shall file with
+the Court Administrator and all other parties a brief within ten (10) days of
+receipt of the moving party’s brief.
+(3) If a party’s brief is not timely filed, the court may, in its discretion:
+(a) Disregard any untimely brief;
+(b) Refuse oral argument by the offending party;
+(c) Consider the issues raised by the offending party to be waived;
+(d) Order argument continued;
+(e) Enter such other order as the interests of justice may require.
+14
+RULE L210
+FORM OF BRIEFS
+Briefs shall be in the form prescribed by Pennsylvania Rule of Civil Procedure 210, and
+shall consist of concise and summary statements, separately and distinctly titled, of the
+following items in the order listed:
+(1) Matter before the Court: State the particular pleading (motion, petition,
+objection, exception, application, etc.) before the court for disposition, and the
+particular relief requested therein.
+(2) Statement of the question(s) involved: State the issue(s) in question form
+containing factual context sufficient to present the precise matter to be decided by
+the Court; each susceptible of a yes or no answer; each followed by the answer
+advocated.
+(3) Facts: State the material facts.
+(4) Argument: State the reason(s) why the court should answer the questions
+involved as proposed, including proper citation of authorities.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L212
+PRE-TRIAL CONFERENCE
+(a) All civil actions at law and in equity, both jury and non-jury, excluding those
+within the jurisdictional limits of compulsory arbitration and not appealed, and
+actions of divorce or annulment shall be pretried unless dispensed with by special
+order as unnecessary.
+No other civil action need be pretried unless required by special order of this
+court.
+(b) Any and all admissions of fact or documents, amendments to pleadings,
+agreements of counsel and any other matters resolved or determined by the court
+at the pre-trial conference shall be made into an order by the court and made a
+part of the record.
+(c) At the pre-trial conference, each counsel of record representing a party to the
+action shall present to the court, and serve a copy on all other counsel, a narrative
+statement of the facts that will be offered by oral or documentary evidence at trial,
+and a statement of any unusual questions of law that may arise.
+(d) Each person or corporation having an actual interest in the case -- whether as a
+party, as the insurance carrier of a party, or otherwise--shall either be personally
+present at the pre-trial conference or shall there be represented by someone
+authorized to speak for him or it with respect to the trial of the case and its
+settlement.
+(e) All unusual questions of law shall be presented to the pre-trial judge with a
+statement of the authority supporting the position of that party. If a party desires,
+15
+he may present such questions in the absence of the opposing party and his
+counsel.
+(f) Exhibits may be marked prior to trial by the court stenographer. It is
+recommended, although it is not required, that a list of exhibits, including a
+description of each, be given to the court and to the stenographer at the
+commencement of the trial.
+(g) At the pre-trial conference, each party shall submit to the court and to opposing
+counsel the following:
+(1) A list of the names and addresses of all witnesses that party proposes to
+call, classifying them as witnesses to liability or to damages. The listing of
+a witness by a party shall impose no obligation on the party to call the
+witness or to procure attendance at the trial.
+(2) A copy of any plan or plot that party proposes to introduce into evidence.
+(h) If a party, in the exercise of reasonable diligence, first becomes aware of the
+necessity or the desirability of using a witness or a plan or plot subsequent to the
+pre-trial conference, that party shall forthwith file the name, address and
+classification of the witness or a copy of the plan or plot with the court and serve
+a copy upon opposing counsel. Filing and service less than forty-eight hours
+before the opening of the trial shall not be deemed compliance with this
+subsection.
+(i) A party may not call a witness nor offer a plan or plot without complying with
+sub-section (g) or (h) hereof unless that party shall first secure the permission of
+the court upon cause shown.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L225
+ADDRESSES AND SUMMING UP
+(a) Opening addresses may be made by all parties or groups of parties at the
+commencement of the trial in the order of their appearing in the pleadings. Any
+party may reserve opening address until immediately before presenting evidence.
+(b) After the close of the testimony each party or group of parties shall have the right
+of final address or argument. The party or parties having the burden of proof shall
+have the right of final address or argument to the jury. However, a party who has
+presented no evidence and who does not appear on the record in another capacity
+shall not have the right of final argument.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+16
+RULE L227.1
+POST-TRIAL RELIEF.
+Unless the court shall deem it unnecessary in a particular case, a post-trial conference
+shall be held, at a time fixed by the court, in every case in which a post-trial motion has
+been filed. The purpose of such conference will be to limit the issue which must be
+considered by the court in ruling upon the post-trial motion and to determine how much
+of the stenographic record of the trial should be transcribed.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+17
+COURT MATTERS
+RULE L301.1
+COPIES OF WRITINGS
+Whenever a copy of a writing is attached to a pleading, brief or other paper submitted to
+the court, whether such copy is mechanically produced or otherwise, it shall be clearly
+legible and faithfully represent the original in every respect, and unless the original itself
+is not legible the court may require a substitute copy to be made and filed before the
+pleadings shall be considered valid or the brief or other paper considered.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L306
+PROTHONOTARY
+(a) The Prothonotary shall immediately endorse all papers filed with the date of such
+filing. Such endorsement upon a bond shall not constitute approval thereof. The
+Prothonotary shall enter all rules, pleadings and other papers filed in every case in
+the Prothonotary docket.
+(b) The Prothonotary shall be responsible for the safe keeping of all records and
+papers belonging to his/her office.
+(c) Any attorney who takes a paper from the files of Prothonotary shall give his/her
+receipt for it. He/She shall be responsible for the same and for damages arising
+from any loss of same.
+(d) Only the Prothonotary, clerks, and attorneys registered in the office of the
+Prothonotary shall be permitted access to the files.
+(e) No entries shall be made in the docket except at the direction of the Prothonotary
+or by order of the courts, except an entry of appearance of counsel.
+(f) All papers filed with the Prothonotary shall be designated numerically starting
+with the number one for each calendar year. Civil Actions 2004-1
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+18
+RULE L309
+TRIAL AND TRIAL LIST
+1. Pursuant to Local Rules L317(c)(3) and L317(c)(4), regarding case management
+Orders for regular and complex cases, all matters shall be placed on the trial list utilizing
+a Praecipe for Trial.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.
+Amended September 8, 2014, effective 30 days after publication in the Pennsylvania
+Bulletin. Amended April 19, 2024, effective 30 days after publication in the Pennsylvania
+Bulletin]
+RULE L310
+COURT CALENDAR
+At the beginning of each calendar year, the court shall publish in the Mercer County Law
+Journal, a court calendar for the current year which shall have the effect of a rule of court
+for the matters and dates set forth therein.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L312
+SECURITY FOR COSTS
+(a) The defendant or any interested party may require the plaintiff who resides out of
+state, or who is in bankruptcy, or has insolvency proceedings pending against
+him, to file security for costs.
+(b) The court, by special order upon cause shown, may require a plaintiff or a
+defendant who seeks affirmative relief to enter security for costs.
+(c) The claimant in a sheriff’s interpleader issue shall be construed to be a plaintiff
+within the meaning of this rule.
+(d) In default of security entered at the time fixed by the court, judgment of default or
+other appropriate court order may be made in favor of the party obtaining the
+order.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+19
+RULE L315
+BILLS OF COSTS
+(a) Bills of costs must contain the names of the witnesses, the dates of their
+attendance, the number of miles actually traveled by them, and the place from
+which mileage is claimed. The bill shall be verified by the affidavit of the party
+filing it or by his/her agent or attorney that the witnesses named were actually
+present in court, and that, in his opinion, they were material witnesses. A copy of
+the bill of costs shall be served on opposing counsel.
+(b) The party upon whom a bill of costs has been served may, within ten (10) days
+after such service, file exception thereto, and the issue shall be determined by the
+court. Failure to file exception within ten (10) days shall be deemed a waiver of
+all objections.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE 316.1
+JUDGMENT BY AGREEMENT
+Except in actions to which a minor or an incapacitated person is a party and in actions for
+wrongful death in which a minor or incapacitated person has an interest, verdicts and
+non-suits, and judgments by agreement may be entered at any time but only upon written
+stipulation signed by the parties or by their counsel of record and filed in the case.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L316.3
+STRIKING OR OPENING JUDGMENTS
+(a) Petition to open or strike a judgment shall be made to the court and, upon cause
+shown, a rule may be granted to show cause why the judgment should not be
+opened or stricken and the petitioner let in to a defense, with any further order
+proper in the discretion of the court. If a rule is granted by the court, a copy of the
+petition and order made thereto, shall be served upon the plaintiff or his attorney
+of record within five (5) days from the date of the order. It shall be the duty of the
+plaintiff, if he desires to make answer to the petition, to file said answer within
+twenty (20) days after service of the petition and order upon him or his attorney of
+record, unless the period for filing of an answer is otherwise ordered by the court,
+and also to serve a copy of said answer upon petitioner or his attorney of record at
+the time of filing the same.
+(b) The prayer of the petition shall set forth whether a supersedeas is requested or not.
+20
+(c) In instances of petitions after execution has been issued, the court may, in its
+discretion, order a bond be filed for costs. Unless the order of the court provides
+otherwise, in cases where there is a levy made, the lien of any levy shall remain
+and continue until the matter is finally disposed of.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L316.4
+JUDGMENTS: RE-INDEXING
+Judgments entered on confession may be subsequently re-indexed against any defendant
+under any alias name upon the plaintiff’s attorney filing a praecipe therefore supported by
+an affidavit that such alias defendant is the same person against whom the judgment was
+originally entered and indexed. The subsequent re-indexing shall be noted on the docket
+at the original number and term and shall be re-indexed on a separate line in the judgment
+index, clearly showing the date of such re-indexing.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L317
+ NOTIFICATION. ASSIGNMENT. CONFERENCE.
+(A) The Prothonotary of Mercer County shall notify the Mercer County Court
+Administrator within five (5) days of the filing of every new civil complaint.
+(B) The Mercer County Court Administrator shall assign the case to a judge on a rotating
+basis.
+(C ) A status conference shall be held no sooner than 60 days after the filing of the
+ complaint nor later than 90 days.
+(1) At said conference, the Court shall, after consultation with the parties, designate
+whether the matter is an arbitration case, regular case or a complex case. Each
+party shall present to the Court at said conference a summary of their case. Said
+summary shall be no longer than 3 pages in length (double spaced).
+(2) If the matter is designated an arbitration case, the Court shall enter a case
+management order requiring that all discovery be completed within three (3)
+months of the order and the matter listed for an arbitration hearing within 60 days
+of the end of discovery. The parties may agree to forego discovery prior to the
+arbitration hearing and do discovery only if there is an appeal from the Board of
+Arbitrator’s decision. If this option is chosen, the Court shall immediately refer
+the case to arbitration.
+(i ) The parties shall notify the assigned judge no later than one (1) month
+ whether or not the parties have settled their dispute. If the dispute is
+21
+ not settled, the court will enter an order requiring a Board of
+ Arbitrators be appointed.
+(ii ) If an appeal is taken, from the decision of the Board of Arbitration,
+ the Prothonotary shall notify the assigned judge who will enter an
+ order placing the matter on the next available trial term.
+(3) If the matter is designated a regular case, the court shall enter a case management
+order requiring that all discovery be completed within six (6) months of the
+order, that all summary judgment motions be filed within seven (7) months of the
+date of the order and placing the matter on the trial list for a month no sooner
+than eight (8) months nor more than ten (10) months from the date of the order.
+ (i ) A review conference shall be held before the assigned judge no sooner
+ than four (4) months nor more than five (5) months of the initial
+ conference, or earlier if a party requests.
+ (ii ) If a summary judgment is filed, the court shall enter an order resolving
+ the motion within thirty (30) days of argument on said motion.
+(4) If the matter is designated a complex case, the court shall enter a case
+management order requiring that all discovery be completed within fifteen (15)
+months of the date of the order; that all summary judgments be filed within
+seventeen (17) months of the date of that order and placing the matter on the trial
+list for a month no sooner than nineteen (19) months nor more than twenty-one
+(21) months from the date of the order.
+ (i ) Review conferences shall be held every five (5) months before the
+ assigned judge, or earlier if a party requests.
+ (ii ) If a summary judgment motion is filed, the court shall enter an order
+ resolving the motion within forty-five (45) days of oral argument on
+ said motion.
+(5) If a matter is designated an appeal from the judgment of a Magisterial District
+Judge affecting the delivery of possession of real property pursuant to
+Pa.R.Civ.P. M.D.J. 1002, the court shall enter an order requiring that all
+discovery be completed within forty-five (45) days of the date of the order. The
+matter shall then be listed for a bench trial in front of the assigned judge within
+sixty (60) days of the end of discovery. A Board of Arbitrators shall not be
+appointed for an appeal affecting the delivery of possession of real property.
+(Adopted June 18, 2025, effective 30 days after publication in the Pennsylvania Bulletin.)
+(D ) Case designations shall be in accordance with the following:
+ (1) Arbitration case – a case shall be designated as an arbitration case where the
+ demand for relief is $35,000.00 or less;
+ (2) Complex case – a case shall be any case involving a mass tort, professional
+ malpractice, more than four (4) parties, any case where the demand for relief
+ exceeds $500,000.00 or any case the parties and the court agree should be
+ designated as a complex case.
+(3) Regular case – any case that is not designated either an arbitration case or a
+ complex case.
+22
+(4) Appeal from the judgment of a Magisterial District Judge affecting the delivery of
+possession of real property.
+(Adopted June 18, 2025, effective 30 days after publication in the Pennsylvania Bulletin.)
+(E ) All times for filing discovery, filing summary judgment motions or placing the
+ matter on the trial list may only be modified by court order.
+(F ) All expert reports shall be provided to opposing counsel no later than the time set
+ for the end of discovery under the terms of this Rule.
+(G ) All motions filed in the case shall be heard by the assigned judge unless that judge
+ is not available and need not be heard at Motions Court.
+[Adopted September 8, 2014, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+Amendment to Rule L317:
+(H) Procedure for handling cases initiated by Writs of Summons:
+(1) A status conference shall be held no sooner than 60 days nor more than 90 days
+after the filing of the Writ.
+(a) At the initial conference, the Court shall make inquiry of Plaintiff’s
+counsel when counsel anticipates filing a complaint.
+(i ) If the complaint is anticipated to be filed within 90 days of the
+conference, the Court shall enter an order designating the nature of the
+case, setting a discovery, motion and trial schedule consistent with the
+designation;
+ (ii) If the complaint is not anticipated to be filed within 90 days of the
+ conference, the Court shall schedule a review conference no sooner than
+ 180 days nor more than 200 days after said conference. At the review
+ conference, the Court shall make inquiry as to when a complaint is
+ anticipated to be filed and enter an order consistent with subparagraph (i),
+ or if a complaint is anticipated to be filed within 90 days or another status
+ conference if it is not; or enter any other order deemed appropriate by the
+ nature and circumstances of the case.
+(Adopted November 13, 2015, effective 30 days after publication in the Pennsylvania
+Bulletin.)
+23
+RULE L230.2
+TERMINATION OF INACTIVE CASES
+(a) At least once a year, the Prothonotary of Mercer County shall provide to the
+President Judge a list of all those cases that have had no activity of record for two
+years or more.
+(b) Pursuant to Pa.R.C.P. Rule 230.2(b)(1), the Prothonotary shall then send Notices
+of Proposed Termination to counsel of record, or to the parties if not represented,
+for those cases having no activity of record for two years or more.
+(c) Pursuant to Rule of Judicial Administration Rule 1901(c)(2), the Prothonotary
+shall advertise one time in the Mercer County Law Journal the list of all those
+cases where the Notice of Proposed Termination could not be given by mail or
+had been returned undelivered. In addition to the list of cases, said advertisement
+shall include a Notice of Proposed Termination and the statement: “You have
+thirty (30) days to respond to this Notice by filing a Statement of Intention to
+Proceed pursuant to Pa.R.C.P. Rule 230.2(g).”
+(d) The Prothonotary shall comply with all other provisions found in Pa.R.C.P. Rule
+230.2 when terminating inactive cases that have been property served a Notice of
+Termination.
+(e) The President Judge shall comply with Rule 230.2(d) regarding an aggrieved
+party seeking to reinstate a terminated case.
+[Adopted March 15, 2022, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+MISCELLANEOUS MATTERS
+RULE L321
+AUDITORS AND AUDITORS’ REPORTS
+(a) Auditors shall be appointed by the Court sua sponte or upon petition.
+(b) Auditors’ hearings shall be held at the Courthouse except with leave of court and
+testimony shall be taken by a court stenographer or by a stenographer agreed upon
+by the parties.
+(c) Auditors shall give all parties notice of the time and place of hearings before them
+and give public notice by advertisement once per week for two successive weeks
+in the Mercer County Law Journal and in one daily newspaper of general
+circulation of this county, stating that all persons must prove their claims or they
+will be disallowed. Auditors shall obtain from the assignors or debtors, a list of
+their creditors, and if the proceeds of the sale of real estate are to be distributed,
+identify all liens and encumbrances thereon and award distribution after
+determining any objections thereto.
+24
+(d) Argument before the court shall be confined to the exceptions filed with the
+auditor. The court may take additional testimony on exceptions if justice requires.
+(e) When facts are controverted before the auditor, he/she shall report the proven
+facts in a concise form and shall state concisely the questions of law raised before
+rendering decisions thereon, with the reasons therefore. When distribution is
+made a schedule of the liens on the funds, paid and unpaid, shall be made and
+presented with the report showing the disposition made. All testimony shall be
+returned separately and filed with the report.
+(f) Upon a claim of misconduct or unreasonable delay on the part of any auditor, the
+court may either vacate the appointment or issue a rule to show cause why the
+auditor should not proceed forthwith in the duties of appointment.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L323
+ASSIGNEES FOR CREDITORS
+(a) Assignees for the benefit of creditors and receivers shall, after they have entered
+security, give notice of their appointment, to every creditor and party in interest of
+whom they have knowledge, and shall also publish notice thereof once a week for
+two successive weeks in the Mercer County Law Journal and in one newspaper of
+general circulation published within the county.
+(b) The assignee shall file with the account a petition for distribution in form similar
+to that of petitions for distribution required by the Orphans’ Court Division of this
+Court and all such accounts and petitions for distribution shall be filed in the
+office of the Prothonotary.
+(c) The assignee shall give written notice of the filing of the account, the petition for
+distribution and of the call for the audit or confirmation thereof to all interested
+parties. Such notice shall be given by mailing to the last known address of such
+parties, at least three weeks before the presentation of the account to the court,
+and shall also be published by the Prothonotary for two successive weeks in one
+newspaper of general circulation published in Mercer County and in the Mercer
+County Law Journal.
+(d) Any account filed for audit and confirmation shall be audited preliminarily by the
+Prothonotary and then presented to the court, together with the proofs of
+publication and proof of the giving of the required notice to interested parties at
+the time fixed for the audit or confirmation thereof. If no exceptions have been
+filed, the account may be confirmed absolutely.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+25
+RULE L324
+SHERIFF
+It shall be the duty of the sheriff, or his/her deputy, to be always present in the
+Courthouse during the sitting of a court and promptly to execute all orders of the
+court and process issued.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE 325
+SURVEYORS
+(a) All cases affecting real estate wherein questions of boundary or of conflicting
+surveys may arise, the court, on application of any party, or a judge at chambers,
+on proof of ten days’ notice to all the other parties or their attorneys of such
+intended applications, may appoint a registered civil engineer or professional land
+surveyor who, upon reasonable notice to both parties, shall survey and ascertain
+such boundaries and conflicts and furnish a diagram thereof describing the same,
+and any other circumstances material to a proper investigation of the subject, and
+if, on trial, or otherwise, such survey appears to have been necessary or proper,
+the reasonable expenses of the same shall be taxed and paid as other costs.
+(b) The person so appointed, before entering upon his/her duties, shall take or
+subscribe an oath of affirmation that he/she will impartially, to the best of his/her
+skill and judgment, do and perform all things enjoined and required of him/her
+under said appointment, which oath or affirmation shall be filed in the cause.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L326
+MONEY PAID INTO COURT
+(a) A party to an action may, upon motion and such notice to the adverse party as the
+court may direct, pay into court the amount admitted to be due, together with
+costs, if any. The party entitled to the money may accept the money and settle and
+discontinue the action or may refuse the money and proceed with the action. If the
+adverse party shall not recover more than the amount paid into court, all
+additional costs shall be deducted from the money. This tender into court shall in
+no way alter the rights of the parties as to legal tender made before suit.
+(b) Parties wishing to extinguish liens upon real estate in which they have an interest
+may, on motion and such notice to the creditor as the court may direct, pay into
+court the amount due and have satisfaction entered upon the lien.
+26
+(c) Upon payment of money into court, it shall be deposited by the Prothonotary in an
+account in the name of the Prothonotary kept for such purposes, and shall be
+payable only by a check signed by the Prothonotary pursuant to order of court. A
+book shall be kept in the office of the Prothonotary, in which shall be entered all
+moneys paid into court, with the name of the case in which it shall have been
+paid.
+(d) In matters of bulk transfer, the petition of the transferee shall, inter alia, provide
+the name, address and amount of claims of creditors of the transferor insofar as
+known to the transferee and may request the appointment of an auditor. If the
+petition be approved by the court, an auditor may be appointed to determine
+which creditors of the transferor are entitled to recommend distribution to the
+court. The auditor shall give notice of appointment. Notice of the time of filing
+claims shall be given to the transferors and transferees, or their attorneys, by
+registered or certified mail to each known creditor whose name and address is set
+forth in the petition.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+Rule L327
+LAW LIBRARY
+(a) The Mercer County Law Library shall be managed by a law librarian. A Law
+Library committee shall be appointed by the President Judge of the Court of
+Common Pleas of Mercer County and shall consist of three (3) members of the
+Mercer County Bar Association.
+(b) The committee shall recommend to the President Judge such rules and regulations
+for the management of the library as may be expedient and necessary for its
+proper care and preservation.
+(c) The Mercer County Law Library shall provide research facilities for the Court of
+Common Pleas, Mercer County Bar Association, county offices and the general
+public. As mandated by Title 42 of the Pennsylvania Consolidated Statute,
+Section 3724, the County Law Library shall receive from the county such
+necessary funds, accommodations, goods and services, as shall be specified by
+general rules or recommendations of the State Law Library. The law library shall
+also be operated in conformity with the Rules of the Court of Common Pleas of
+Mercer County and shall be available to the general public.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+27
+RULE L328
+OFFICIAL LEGAL PUBLICATION
+The Mercer County Law Journal is designated as the place of legal publication for the
+publication of legal notices.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+Rule L329
+PRE-TRIAL ORDER
+(a) Upon receipt of a praecipe for the trial list, the court shall issue an order in the
+form set forth below providing for the parties to object to the certification of the
+case as being ready for trial, limiting the taking of depositions for use at trial, and
+providing for the scheduling of the trial and the pre-trial conference.
+(b) All depositions for use at trial shall be completed not later than five (5) days after
+the date of the pre-trial conference as scheduled by the court administrator, and
+the order shall so provide.
+(c) Any party who does not agree with the praecipe’s certification of the readiness of
+the case for trial shall file a written objection to the certification within ten (10)
+days of the entry of the order. The written objection shall include a proposed court
+order setting the date and time for a hearing on this objection. For good cause
+shown at the hearing, the case will be stricken from the trial list. If no written
+objections to the certification are filed, continuances from the trial list will not be
+granted except for compelling circumstances not known to counsel for the parties
+at the time the order is entered.
+(d) Appropriate sanctions may be imposed for failure to comply with the order,
+including the striking of the case from the trial list and the assessment of
+attorney’s fees and costs resulting from the delay. The court’s contempt powers
+and the availability of damages for delay under Pennsylvania Rule of Civil
+Procedure 238 are not limited by this rule.
+ORDER
+AND NOW, this ______ day of ____________________, 20___, this case having been praeciped onto the
+trial list and the party filing the praecipe having thereby certified pursuant to Local Rule of Court L309 that
+all motions have been disposed of, that all discovery has been completed, and that this case is ready for
+trial, IT IS HEREBY ORDERED AND DECREED that any party who does not agree with that
+certification shall file a written objection to the certification within ten (10) days of the entry of this Order.
+If any objection is filed, a hearing will be scheduled on the objection to determine whether the case should
+28
+be stricken from the trial list. The written objection shall include a proposed Order setting the date and time
+for this hearing. Whether or not written objections are filed, the Court Administrator will place this case on
+the trial list for _________________ and schedule the pre-trial conference for the _______ day of
+______________________, 20____. No continuances from the trial list will be granted hereafter by reason
+of the need to take or complete depositions for use at trial or on the basis that the case is not otherwise
+ready for trial, unless a timely, written objection to the certification of readiness for trial is filed.
+IT IS FURTHER ORDERED AND DECREED that, if this case is not stricken from the trial list, all
+depositions to perpetuate testimony for use at trial shall be completed not later than five days after the pretrial conference date scheduled by the Court Administrator. In their pre-trial statements required by Local
+Rule of Court L212, the parties shall list all depositions taken or to be taken to perpetuate testimony for use
+at trial. For those depositions yet to be taken, the parties shall list the dates and times within the five days
+after the pre-trial conference when they will be taken.
+Failure to comply with this Order shall result in appropriate sanctions, including the striking of the case
+from the trial list and the assessment of attorney’s fees and costs resulting from the delay. This Court’s
+contempt powers and the availability of damages for delay under Pennsylvania Rule of Civil Procedure 238
+are not limited by this Order.
+The purpose of this Order is to insure that this case, which has been certified as ready for trial, is in fact in
+that posture. It is the intention of this Court that meaningful stipulations and settlement discussions occur at
+the pre-trial conference and that the integrity of the trial list be preserved. There shall be no variations from
+this procedure.
+BY THE COURT:
+______________________________
+President Judge
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+29
+ CIVIL ACTIONS
+RULE L1018.1
+NOTICE TO DEFEND
+The organization to be named in The Notice to Defend from whom legal help can be
+obtained is:
+Mercer County Lawyers Referral Service
+c/o Mercer County Bar Association
+P.O. BOX 1302
+Hermitage, PA 16148
+Telephone: (724) 342-3111
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L1028(c)
+PRELIMINARY OBJECTIONS PROCEDURE
+(1) Preliminary objections shall be scheduled for Argument Court by the filing of a
+praecipe in accordance with the procedure set forth in Local Rule L208.3(a)(4)
+(2) Briefs shall be filed and in the form set forth in L210 and subject to L208.3(b).
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L1033
+AMENDMENT
+Whenever an amended pleading is filed involving more than one paragraph of the
+original pleading, it shall be a complete pleading and not merely the amendments to the
+former pleadings. The amended pleading shall clearly indicate that it is an amended
+pleading and the paragraphs shall be appropriately re-numbered.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+30
+RULE L1034(a)
+MOTION FOR JUDGMENT ON THE PLEADINGS PROCEDURE
+(1) Motions for judgment on the pleadings shall be scheduled for Argument Court by
+the filing of a scheduling praecipe in accordance with the procedure set forth in
+Local Rule L208.3(a)(4)
+(2) Briefs shall be filed and be in the form set forth L210 and subject to L208.3(b).
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULE L1035.2(a)
+MOTION FOR SUMMARY JUDGMENT PROCEDURE
+(1) Argument on motions for summary judgment shall be scheduled for argument by
+the filing of a praecipe in accordance with the procedure set forth in Local Rule
+L208.3(a)(4), provided however, no case shall be praeciped for argument until all
+parties have filed a response or thirty (30) days after filing the motion, whichever
+occurs first.
+(2) Briefs shall be filed and be in the form set forth in L210 and subject to L208.3(b).
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+ACTION TO QUIET TITLE
+RULE L1066
+FORM OF JUDGMENTS ON ORDER
+Any order entered under subsection R.C.P. 1066 (b)(1) shall include a description of the
+property.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+31
+RESIDENTIAL MORTGAGE FORECLOSURE
+CONCILIATION PROGRAM
+RULE L1147. COURT OF COMMON PLEAS OF MERCER COUNTY
+ RESIDENTIAL MORTGAGE FORECLOSURE
+ CONCILIATION PROGRAM
+1. Complaints in Mortgage Foreclosure presented for filing seeking foreclosure on a
+mortgage of a Mercer County owner-occupied residence shall be accompanied
+with an additional URGENT NOTICE, a copy of which is attached hereto as
+Exhibit “A”. Said URGENT NOTICE shall be affixed to the Complaint when
+presented for filing and shall also be affixed to the copy of the Complaint served
+upon the Defendant(s).
+2. If the Defendant(s) call Housing Opportunities, Inc., and if the Defendant(s)
+attend a meeting with a Housing Opportunities Counselor, and if the Housing
+Opportunities Counselor makes a determination that the Defendant(s) is/are
+eligible to participate in the Mercer County Mortgage Foreclosure Conciliation
+Program, the Housing Opportunities Counselor shall secure the signature(s) of the
+Defendant(s) on a “Certificate of Participation”; file the same with the
+Prothonotary of Mercer County; and serve a copy thereof in the Court
+Administration Office of Mercer County, all within thirty (30) days following
+service of the Complaint and URGENT NOTICE upon the Defendant(s).
+3. Upon timely filing of a completed “Certificate of Participation” from Housing
+Opportunities, Inc. with the Prothonotary of the Court of Common Pleas of
+Mercer County (a copy of which is attached hereto as Exhibit “B”), the case will
+proceed as follows:
+The Court will issue the following Order in each case where the Certificate of
+Participation has been timely filed by Housing Opportunities, Inc. on behalf of the
+Defendant(s):
+ORDER OF COURT
+AND NOW, this _______ day of _______________________, 20____, a Certificate of
+Participation in the Mercer County Residential Mortgage Conciliation Program having been
+timely filed by the Defendant(s) in the above-captioned matter, no further action shall be
+taken in this case for at least sixty (60) days from the date of this Order, except upon Order
+of this Court.
+It is hereby ORDERED AND DIRECTED that a Court-Supervised Conciliation
+Conference is scheduled to be held on the _____ day of ________________________, 20
+______ at ______ o’clock _____.m., in Courtroom No. ____ of the Mercer County
+Courthouse, 100 North Diamond Street, Mercer, PA 16137.
+It is further ORDERED AND DIRECTED that, unless an agreement in this case has
+been reached prior to the scheduled Conciliation Conference, a representative of the
+Plaintiff/Lender/Investor who has actual authority to modify mortgages and/or enter into
+alternate payment agreements with the Defendant(s) or otherwise resolve the action, shall be
+available telephonically. Failure of the Plaintiff, or of a representative of the Plaintiff with
+such authority, to appear for the Conciliation Conference may result in the rescheduling of
+32
+the Conciliation Conference and further postponement of any action in this matter, including
+timely filing of an Answer, filing of Preliminary Objections, filing of Motions for Summary
+Judgment and/or Judgment on the Pleadings and taking of final Judgment in the action.
+Failure of the Defendant(s) to attend the Conciliation Conference shall result in the
+lifting of any stay.
+This Order is to be docketed by the Prothonotary of Mercer County and served
+upon the Defendant(s) at their address(es) as reflected on the Certificate of Participation,
+any attorney of record for any party at the address included on any pleading and/or
+appearance, and upon Housing Opportunities, Inc., at 2418 Wilmington Road, New Castle,
+PA 16105, all by First-Class Mail.
+4. If the “Certificate of Participation” is not filed within the thirty (30) day time
+period set forth in Paragraph 2, the filing of an untimely “Certificate of
+Participation” and participation in the Residential Mortgage Foreclosure
+Conciliation Program shall be allowed upon leave of Court only.
+5. Limited Appearance and Withdrawal Forms for Pro Bono Counsel/Reduced-Fee
+Counsel are attached hereto as Exhibit “C” and Exhibit “D”.
+6. Failure of Defendant(s) to fully participate in conciliation or failure of the parties
+to reach an alternate settlement arrangement following conciliation shall result in
+entry of an Order, as attached hereto as Exhibit “E”.
+URGENT NOTICE
+A Complaint in Mortgage Foreclosure has been filed with the Court of Common Pleas of Mercer
+that may cause you to lose your home.
+You may be able to participate in a Court-Supervised Conciliation Conference in an effort to
+resolve this matter with the Lender.
+However, you must act now.
+To secure an opportunity to participate in a Court-Supervised Conciliation Conference, you must
+call Housing Opportunities, Inc. at (724) 728-7511 and attend a meeting with a Housing
+Opportunities Counselor. This must happen within the next thirty (30) days of receiving this Notice
+or you will lose your eligibility to participate in the Mercer County Mortgage Foreclosure
+Conciliation Program. The Housing Opportunities Counselor will inform you what to do next and
+will schedule your Conference. Pro Bono Legal Assistance may be available to you at the
+Conciliation Conference.
+MAKE THIS CALL TO SAVE YOUR HOME
+THIS PROGRAM IS FREE!
+EXHIBIT “A”
+33
+IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
+CIVIL ACTION – LAW
+:
+Plaintiff :
+v. : No.
+:
+:
+Defendant :
+CERTIFICATION OF PARTICIPATION
+I am the owner of the property listed below:
+Premises Address: ____________________________________
+____________________________________
+Mercer County, Pennsylvania
+This property is my primary residence. It is the subject of foreclosure, and I would like to try to
+save my residence from foreclosure.
+I have contacted the Housing Counselor at Housing Opportunities, Inc. I am cooperating with the
+Housing Counselor and have already submitted, or will submit at least fifteen (15) days before the
+Conciliation/Case Management Conference, a complete written proposal to the Plaintiff to avoid
+foreclosure.
+I understand the assistance of the Housing Counselor is free of charge to me and I understand any
+Pro Bono assistance that I may receive from an attorney assigned to my case by the Mercer County Bar
+Association’s Lawyer Referral Service shall be for the limited purpose of advising me of my rights and
+representing my interests for this case only and said representation will terminate at the conclusion of the
+Conciliation Conference.
+I certify that this filing complies with the provision of the Public Access Policy of the Unified
+Judicial System of Pennsylvania Case Records of the Appellate and Trial Courts that require filing
+confidential information and documents differently than non-confidential information and documents.
+_______________________________ _______________________________
+Signature Signature
+_______________________________ _______________________________
+Printed Name Printed Name
+_______________________________ _______________________________
+Full Mailing Address Full Mailing Address
+Must be returned and filed with the Prothonotary of Mercer County within thirty (30) days following
+service of the Complaint and URGENT NOTICE upon Defendant(s).
+Exhibit “B”
+34
+IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
+CIVIL ACTION – LAW
+:
+Plaintiff :
+v. : No.
+:
+Defendant :
+PRAECIPE FOR ENTRY OF LIMITED APPEARANCE
+To the Prothootary:
+Kindly enter my limited appearance for _____________________________
+___________________________ , Defendant(s) in the above-captioned matter. This appearance is
+limited to providing representation and advice to the Defendant(s) at any Court-Supervised
+Conciliation Conference scheduled in this Mortgage Foreclosure proceeding, said limited appearance
+being authorized by Administrative Order No. L11147.
+I hereby certify that this filing complies with the provisions of the Public Access Policy of the Unified
+Judicial System of Pennsylvania Case Records of the Appellate and Trial Courts that require filing
+confidential information and documents differently than non-confidential information and
+documents.
+_________________________________
+Name of Attorney
+Attorney for Defendant(s)
+Address __________________________________
+_________________________________________
+Telephone No. ____________________________
+Supreme Court ID# _______________________
+Exhibit “C”
+35
+IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
+CIVIL ACTION – LAW
+:
+Plaintiff :
+v. : No.
+:
+Defendant :
+PRAECIPE FOR WITHDRAWAL OF LIMITED APPEARANCE
+To the Prothonotary:
+Kindly withdraw my limited appearance for _______________________
+_________________________________(Defendant(s) in the above-captioned matter. Withdrawal of
+this limited appearance is permitted pursuant to Administrative Order No. L1147. All further
+notices should be sent directly to _________
+______________________________(Defendants), at _________________________
+_____________________________(last known address).
+I certify that this filing complies with the provisions of the Public Access Policy of the Unified
+Judicial System of Pennsylvania Case Records of the Appellate and Trial Courts that require filing
+confidential information and documents differently than non-confidential information and
+documents.
+_________________________________
+Name of Attorney
+Attorney for Defendant(s)
+Address __________________________________
+_________________________________________
+Telephone No. ____________________________
+Supreme Court ID# _______________________
+Exhibit “D”
+36
+IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
+CIVIL ACTION – LAW
+:
+Plaintiff :
+v. : No.
+:
+:
+Defendant :
+ORDER
+AND NOW, this _______ day of ____________________________, 20___, as the (date of
+Conciliation Conference) Court-Supervised Conciliation Conference in this matter has not resulted in an
+alternate payment arrangement acceptable to both Plaintiff and Defendant(s), it is hereby ORDERED AND
+DIRECTED as follows:
+1. The stay issued in this matter by the (date of Order) Order is lifted.
+2. Defendant(s) is/are advised that within twenty (20) days of the date of this Order (he/she/they)
+must act as set forth in the Notice to Defend that was attached to the Complaint in Mortgage
+Foreclosure that was served on (him/her/them) by Plaintiff. A copy of the Notice to Defend is
+attached to this Order, and Defendant’s (s’) attention is directed to said Notice.
+3. In the event Defendant(s) fail(s) to act as set forth in the attached Notice to Defend within twenty
+(20) days of the date of this Order, Plaintiff shall provide the appropriate ten (10) day notice as
+required by Pa.R.C.P. 237.5.
+BY THE COURT:
+___________________________________P.J.
+Daniel P. Wallace, President Judge
+Exhibit “E”
+[Adopted January 22, 2025, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+37
+ARBITRATION
+RULE L1301
+SCOPE
+All cases which are now or later at issue where the amount in controversy shall be thirtyfive thousand dollars ($35,000) or less, exclusive of interest and costs, except those
+involving title to real estate, shall be submitted to and heard by a board of arbitrators
+consisting of three (3) members of the Bar in active practice in this county.
+[Adopted March 29, 2019, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULE L1302
+LIST OF ARBITRATORS. APPOINTMENT TO BOARD. OATH.
+(a) Upon the filing of a praecipe for arbitration, the Prothonotary shall notify the
+court administrator who shall thereupon nominate a board of potential arbitrators
+consisting of three (3) attorneys, plus one (1) attorney for each counsel of record
+and each unrepresented party. The nomination shall be made from a list of
+members of the bar qualified to act as arbitrators, which shall be kept by the court
+administrator. Nomination shall be made in the order of listing, except where
+attorneys are excused on account of incapacity or illness, or for other reasons
+herein set forth. Not more than one (1) member of a firm or association of
+attorneys shall be appointed to the same board and no members of a firm or
+association of attorneys shall be appointed to a board to hear a case where another
+member of such firm or association of attorneys is counsel for any of the parties
+litigant.
+(b) The list of attorneys nominated to the potential board shall be sent by the court
+administrator to the attorney for each party and to each unrepresented party. Each
+such party may strike off one (1) attorney so named and return the list to the court
+administrator within five (5) days of receipt. The remaining three (3) attorneys
+shall constitute the board of arbitration. If both or all parties strike the same name
+or no name from the list, the first three (3) remaining names will make up the
+board.
+(c) As soon as the court administrator receives the returned list from the parties, or
+after (5) days if a list is not returned, he shall notify the Prothonotary of the
+arbitrators selected. The Prothonotary shall, within ten (10) days, notify the
+arbitrators in writing of their selection.
+(d) The first member listed for a board who has been admitted to the practice of law
+not less than three (3) years shall be chairman of the board and shall be
+38
+responsible for the setting of the date and place of hearing, for giving notice
+thereof to opposing counsel and to the Prothonotary, and for the filing of the
+board's report and award if any. The hearing must be set within sixty (60) days of
+the appointment of the board.
+(e) Once an arbitration hearing is scheduled it may be continued once by the
+chairperson of the board. There may be no further continuances without leave of
+Court.
+(f) The members of the board shall be sworn as arbitrators before entering upon their
+duties by a person authorized to administer oaths.
+(g) All arbitration hearings shall be held in the Mercer County Courthouse unless
+otherwise approved by the Court at the request of the chairperson. When the
+hearing is to be held outside of the Courthouse, the original file shall remain at the
+Courthouse; and the arbiters and parties shall familiarize themselves with the file
+and obtain copies thereof as necessary.
+[Adopted July 19, 2014, effective 30 days after publication in the Pennsylvania Bulletin.]
+Rule L1308
+APPEAL. ARBITRATORS’ COMPENSATION. NOTICE
+(a) Each member of the Board of Arbitrators shall be paid by the county a fee, as fixed
+by the court from time to time, for each case heard, upon the filing of the board's
+report and award, if any.
+(b) Upon the filing of the board's report or award, the Prothonotary shall certify to the
+county commissioners and to the county controller that the report and award, if any,
+has been filed, together with the names of the members of the board serving in the
+case, and thereupon the county shall pay the aforesaid fee to each member of the
+board serving in the case.
+(c) In the event a case is settled, compromised or withdrawn after the chairperson has
+scheduled a hearing and has mailed notice of the arbitration hearing, but before the
+arbiters are sworn, the chairperson shall receive a $75.00 fee. The other two
+arbiters shall receive no fee. If the case is settled, compromised or withdrawn after
+the arbiters are sworn, fees for one-half (1/2) day’s service shall be paid to all
+arbiters. The Board of Arbitration for a case which has been settled, withdrawn or
+terminated after the arbiters have been appointed but not sworn shall be assigned by
+the Prothonotary to hear the next case proper for arbitration. In the event an arbiter
+shall be disqualified from serving on the next case, such disqualified arbiter shall be
+appointed to a Board of Arbitration upon the first case for which the arbiter is
+eligible.
+(d) The fees payable or paid to the members of the board of arbitrators under these
+rules shall not be taxed as costs, nor follow the award with other costs.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+39
+ACTIONS FOR PRIMARY PHYSICAL CUSTODY
+AND PARTIAL PHYSICAL CUSTODY OF MINOR
+CHILDREN
+RULE L1915.1
+OFFICE OF THE CUSTODY CONCILIATOR
+(a) The Mercer County Office of the Hearing Master is hereby renamed the Mercer
+County Office of the Custody Conciliator.
+[Adopted October 25, 2021, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULE L1915.3
+COMMENCEMENT OF ACTION. COMPLAINT. ORDER.
+(a) Except for a custody action asserted in a divorce complaint, a plaintiff shall
+commence a custody action by filing a verified complaint substantially in the form
+provided by Pa.R.C.P. No. 1915.15(a)
+(b) A motion for the appointment of a Conciliator shall be filed with any pleading that
+includes a claim for primary physical custody or partial physical custody. The
+motion and accompanying order shall comply with Pa.R.C.P. No.1920.74.
+However, the party shall substitute the title “Conciliator” for “Master” where
+appropriate in the motion.
+(c) No fee shall be assessed for a Conciliator conference.
+(d) The order accompanying the motion for appointment of a Conciliator in all
+primary physical custody or partial physical custody actions shall comply with
+Pa.R.C.P. No. 1915.3(b) and Pa.R.C.P. No. 1915.15(c). The party filing the
+motion shall obtain from the Office of the Custody Conciliator the date, time, and
+place of the Conciliator conference.
+(e) If a party is represented, the Office of the Custody Conciliator shall serve the order
+scheduling the Conciliator conference on the party’s counsel by first class mail. If
+a party is unrepresented, the Office of the Custody Conciliator shall serve the order
+upon the party by first class mail at the party’s last known address.
+40
+(f) The Office of the Custody Conciliator shall also file a copy of the order
+accompanying the motion for appointment of Conciliator with the Prothonotary.
+(g) All Conciliator conferences regarding partial custody or supervised physical
+custody shall comply with Pa.R.C.P. No. 1915.4-2(a).
+[Adopted October 25, 2021, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULE L1915.4-1
+CONCILIATOR HEARINGS FOR PARTIAL CUSTODY ACTIONS
+(a) Pursuant to Pa.R.C.P. No. 1915.4-1(a), with respect to partial custody actions
+only, the Court adopts the alternate hearing procedure provided for under
+Pa.R.C.P. No. 1915.4-2.
+(b) Pursuant to Pa.R.C.P. No. 1915.4-1(b), with respect to partial custody actions
+only, a party may, after the parties’ initial contact with the court as set forth in
+Pa.R.C.P. No. 1915.4(a), promptly file a motion with the Prothonotary for a
+hearing in front of a judge, rather than a hearing in front of the Conciliator.
+(c) A motion for a hearing in front of a judge, in an action involving partial custody
+only, will not be granted unless:
+1. There are complex questions of law, fact or both; or,
+2. The parties certify to the court that there are serious allegations affecting
+the child’s welfare.
+(d) The Conciliator shall determine whether a partial custody action qualifies for a
+hearing in front of a judge pursuant (c)(1) or (c)(2) above. In the event a party
+objects to the Conciliator’s determination, the appointing judge shall have final
+discretion.
+(e) All hearings involving partial custody actions that occur before the Conciliator
+shall comply with the procedure set forth in Pa.R.C.P. No. 1915.4-2(b).
+(f) A fee in an amount to be determined by court order shall be assessed against each
+party for a Conciliator hearing in an action involving partial physical custody.
+The fee shall be waived for any party determined to be indigent.
+[Adopted October 25, 2021, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+41
+RULE L1915.4-2
+CONCILIATOR HEARINGS BY DEFAULT. PARTIAL CUSTODY
+ONLY.
+(a) If the parties to a partial custody action do not reach an agreement at the
+Conciliator conference, and neither party had moved for a hearing in front of a
+judge prior to the Conciliator conference, the parties will be deemed to have
+consented to a hearing before the Conciliator.
+(b) A Conciliator hearing regarding a partial custody action shall comply with the
+procedure set forth in Pa.R.C.P. No. 1915.4-2(b).
+[Adopted October 25, 2021, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULE L1915.4-3
+CONCILIATOR CONFERENCE
+(a) A conference before a Conciliator shall be held in all actions for primary
+physical custody and partial physical custody unless a party in an action for
+partial physical custody has filed a motion pursuant to Pa.R.C.P. No. 1915.4-
+1(b) for a hearing in front of a judge prior to the Conciliator’s conference.
+(b) In the event the parties reach an agreement at the Conciliator conference, the
+Conciliator shall dictate a proposed order that encompasses the parties’
+agreement in their presence or immediately thereafter. The Conciliator shall
+then submit the order to the appointing judge for consideration.
+(c) In the event the parties do not reach an agreement at the Conciliator
+conference, the Conciliator shall immediately dictate a proposed interim
+custody order in the presence of the parties. The proposed interim order shall
+be forwarded to the appointing judge for review and approval.
+(d) In the event the parties do not reach an agreement at the Conciliator
+conference, the Court Administrator shall schedule a Pre-Trial Conference in
+front of the appointing judge.
+(e) Once the Court Administrator schedules a Pre-Trial Conference, the
+Conciliator shall prepare a report for the appointing judge. The report shall
+indicate the positions of the parties and shall contain the Conciliator’s
+recommendation as reflected in the proposed interim order.
+(f) A copy of the Conciliator’s report and the interim order shall be served on
+counsel if a party is represented, or on a party directly if pro se, and on the
+42
+guardian ad litem if one has been appointed. The parties shall not be
+permitted to file exceptions to the interim order or the Conciliator’s report.
+[Adopted October 25, 2021, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+ACTIONS OF DIVORCE OR ANNULMENT OF
+MARRIAGE
+RULE L1920.51
+HEARING BY THE COURT.
+APPOINTMENT OF MASTER.
+NOTICE OF HEARING.
+(a) All actions for divorce under Section 3301(a) (b) and (d)(l)(i) of the Divorce
+Code or for annulment, and all claims for alimony, alimony pendente lite,
+bifurcation, equitable distribution of marital property, exclusive possession of the
+marital residence, counsel fees, costs, expenses, or any aspect thereof shall be
+heard by a master in the absence of a court order to the contrary.
+(1) All actions or claims described in Section (a) hereof will not be
+referred to a master until one of the parties files a motion for the
+appointment of a master to hear the action(s) and/or claims(s) at issue
+and pays an amount to be determined by court order, in addition to all
+other costs provided by law, for the appointment of a master. The
+motion shall be substantially in the form as provided by Pennsylvania
+Rule of Civil Procedure 1920.74. The motion shall be filed with the
+Prothonotary together with the proper fee.
+(2) Upon receipt of the proper fee, the Prothonotary shall forward the
+motion to the court administrator for assignment to a master.
+(3) Unless the moving party is granted leave to proceed in forma pauperis,
+no master will be appointed until the proper fee for the appointment of
+the master is paid, or the court permits otherwise. If the monies are not
+forthcoming and there are no other proceedings in the case for a period
+of two years, the matter will be subject to termination pursuant to Rule
+1901 of the Pennsylvania Rules of Judicial Administration.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.
+Amended September 1, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+43
+RULE L1920.52
+ HEARING BY MASTER. REPORTER FEE. CONTINUANCE.
+ (a ) The Court Reporter fee for Master’s Hearings will be one hundred ($100) dollars
+ per party.
+(1) If there are no continuances of the Master’s Hearing, the parties may request and
+will receive a refund of fifty ($50) per party once the Hearing has been
+completed.
+(2) The Hearing may be continued without a loss of the refund if the continuance is
+requested more than ten (10) days prior to the Hearing date; or if the President
+Judge has approved a continuance necessitated by a required appearance in the
+Common Pleas Court or other extenuating circumstance within ten (10) days of
+the hearing.
+(b ) Once a Master’s Hearing has been scheduled, any settlement reached by the
+ parties less than ten (10) days prior to the Hearing must be placed on the record
+ before the Master. The parties and their counsel must still attend the Hearing
+ although participation may occur by telephone if feasible.
+(c ) All requests for continuances of a Master’s Hearing (not conference) must be
+ made in writing to the Master.
+(1 ) If opposing counsel does not consent and/or the Master does not grant the
+ request, a Motion to Continue may be filed with the President Judge.
+[Adopted April 23, 2009, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULE L1920.53
+HEARING BY MASTER. REPORT
+(a) Where an action for divorce or annulment has been referred to a master, a
+conference shall be held before the master prior to a hearing in the absence of a
+court order to the contrary.
+(1) The moving party shall deposit an amount to be determined by court order
+with the Prothonotary before a master's hearing on an action for divorce or
+annulment.
+(2) In the event the master believes the amount of time (s)he must devote to
+the case will exceed four (4) hours said time, or does exceed four (4)
+hours, (s)he may recommend to the court that additional monies be
+deposited by a party prior to the hearing or assessed against a party as
+costs.
+(3) The master's fee shall be taxed as part of the costs and paid as directed in
+the final decree.
+44
+(4) In the event the parties resolve their differences prior to the hearing, all
+sums deposited with the Prothonotary for the hearing shall be returned to
+the depositor.
+(5) In the event the master's fee for the hearing is less than the amount
+deposited with the Prothonotary for the hearing, the difference shall be
+returned to the depositor. If there was more than one depositor, the
+difference shall be returned in proportion to the respective amounts
+deposited.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L1920.54
+HEARING BY MASTER. REPORT. RELATED CLAIMS.
+(a) Where a claim for alimony, alimony pendente lite, bifurcation. equitable
+distribution of marital property exclusive possession of the marital residence,
+counsel fees, costs, expenses or any aspect thereof, has been referred to a master.
+a conference shall be held before the master prior to a hearing in the absence of a
+court order to the contrary.
+(b) With the exception of claims for alimony, alimony pendente lite, bifurcation,
+counsel fees, costs or expenses;
+(1) The moving party shall deposit an amount to be determined by court order
+with the Prothonotary before the master's hearing: and,
+(2) In the event the master believes the amount of time he must devote to the
+case will exceed four (4) hours said time or does exceed four (4) hours,
+(s)he may recommend to the court that additional monies be deposited by
+a party prior to the hearing or assessed against a party as costs.
+(3) The master's fee shall be taxed as part of the costs and paid as directed in
+the final decree or a separate order.
+(4) In the event the parties resolve their differences prior to the hearing, all
+sums deposited with the Prothonotary for the hearing shall be returned to
+the depositor.
+(5) In the event the master's fee for the hearing is less than the amount
+deposited with the Prothonotary for the hearing, the difference shall be
+returned to the depositor. If there was more than one depositor, the
+difference shall be returned in proportion to the respective amounts
+deposited.
+(6) The notes of testimony will not be transcribed unless exceptions are filed.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+45
+RULE L1920.55-2
+MASTER'S REPORT. NOTICE. EXCEPTIONS. FINAL DECREE.
+(a) Exceptions to a master's report must be filed with the Prothonotary within the
+time prescribed by law.
+(1) The party filing the exceptions shall serve a copy thereof on the date of
+filing on every other party, the appointing judge, the master, the court
+administrator and the court reporter by first class mail, postage prepaid, or
+by handing them a true and correct copy thereof.
+(2) After receipt of notice of the filing of exceptions to a master's report, the
+court administrator shall schedule a conference before the appointing
+judge.
+(3) At the conclusion of the conference, an order will be entered setting forth
+what portions of the master's hearing are to be transcribed and setting the
+argument date on the exceptions.
+(4) The party filing the exceptions shall pay all transcription charges in the
+absence of a court order to the contrary.
+[ Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE 1920.60
+ TERMINATION OF INACTIVE DIVORCE CASES
+(a) At least once a year, the Prothonotary of Mercer County shall provide to the
+President Judge a list of all those divorce cases that have had no activity of record
+for two years or more.
+(b) Pursuant to Pa.R.C.P. Rule 230.2(b)(1), the Prothonotary shall then send Notices
+of Proposed Termination to counsel of record, or to the parties if not represented,
+for those divorce cases having no activity for two years or more.
+(c) Pursuant to Rule of Judicial Administration Rule 1901(c)(2), the Prothonotary
+shall advertise one time in the Mercer County Law Journal the list of all those
+divorce cases where the Notice of Proposed Termination could not be given by
+mail or had been returned undelivered. In addition to the list of cases, said
+advertisement shall include a Notice of Proposed Termination and the statement:
+“You have thirty (30) days to respond to this Notice by filing a Statement of
+Intention to Proceed pursuant to Pa.R.C.P. Rule 230.2(g).”
+(d) The Prothonotary shall comply with all other provisions found in Pa.R.C.P. Rule
+230.2 when terminating inactive divorce cases that have been properly served a
+Notice of Termination.
+(e) The President Judge shall comply with Pa.R.C.P. Rule 230.2(d) regarding an
+aggrieved party seeking to reinstate a terminated divorce case.
+46
+[ Adopted March 15, 2022, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+RULES RELATING TO DOMESTIC RELATIONS
+MATTERS GENERALLY
+RULE L1930.7
+FLAT FILING OF PAPERS
+All papers filed with the clerk of the Domestic Relations Section shall be prepared for flat
+filing on paper approximately 8 ½ inches x 11 inches in size. Such papers shall contain
+on their face the following information: designation of the Court, designation of the
+section of the Court, date of filing, file number, caption, title of pleading, notice to plead
+or other form of notice, certification when applicable, name, address, Supreme Court
+number, and telephone number of the attorney or law firm filing the pleading upon whom
+papers may be served when applicable.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L1930.8
+CLERK OF THE DOMESTIC RELATIONS SECTION
+(a) The clerk of the Domestic Relations Section shall immediately endorse all papers
+submitted for docket filing with the date of such filing. The clerk of the Domestic
+Relations Section shall enter all rules, pleading and other papers submitted for
+docket filing in every case in the docket maintained by the Domestic Relations
+Section.
+(b) The clerk of the Domestic Relations Section shall be responsible for the
+safekeeping of all records and papers submitted for docket filing in the Domestic
+Relations Office.
+(c) No entry shall be made in the docket except at the direction of the clerk of the
+Domestic Relations Section or by Order of Court, except an Entry of Appearance
+by counsel.
+(d) All papers filed with the clerk of the Domestic Relations Section shall be
+designated numerically starting with the number 1 for each calendar year and
+followed by the alphabetical symbols "D. R." and the year of filing.
+[ Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
+Bulletin.]
+47
+RULE L1930.9
+INFORMATION TO CONSUMER CREDIT BUREAUS
+(a) The Domestic Relations Section shall, before releasing information as to
+arrearage for support owing by any obligor, notify the obligor by regular mail by
+sending the following notice:
+This Notice is sent to inform you that
+__________________________________________________________________
+(Name of Consumer Credit Bureau of organization)
+of _______________________________________________________________
+(Address)
+has requested information as to the arrearage you owe under your support Order
+through the Domestic Relations Section of the Court of Common Pleas of Mercer
+County, Pennsylvania. Our records indicate your arrearages are
+$________________ as of ______________ , 20___.
+This information will be released to said Credit Bureau unless, within 20 days of
+this date, we receive a written objection from you contesting the accuracy of the
+calculated arrearages or stating a valid reason why the information should not be
+made available.
+_______________, 20 ____
+__________________________
+Director, Domestic Relations
+(b) A fee will be imposed by the Domestic Relations Section upon the Consumer
+Credit Bureau of organization requesting information.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+48
+INCAPACITATED PERSONS AS PARTIES
+RULE L2056
+PROCEDURE WHEN INCAPACITY OF A PARTY IS
+ASCERTAINED
+Except as otherwise directed by the court, notice shall be given by personal service on
+such guardian, or by leaving a copy of the notice at his/her residence or place of business,
+or by mailing a notice by registered or certified mail. If service, as above cannot be made,
+then notice shall be given by such publication as the court may direct.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+UNINCORPORATED ASSOCIATIONS AS PARTIES
+RULE L2152
+ACTIONS BY ASSOCIATIONS
+The plaintiff's initial pleading in an action prosecuted by an association shall set forth the
+names and addresses of all officers thereof or of all persons known to be holding
+themselves out as such. In case the said officers do not constitute the trustees ad litem, or
+have not consented to the prosecution of the action by consent in writing attached to the
+initial pleading, the plaintiffs shall serve notice, in the manner provided in the
+Pennsylvania Rules of Civil Procedure of the bringing of the action upon said officers
+within ten (10) days thereafter and file proof thereof in the action; otherwise, the action
+shall be automatically stayed until such proof is filed.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+49
+ACTIONS FOR WRONGFUL DEATH
+RULE L2205
+NOTICE TO PERSONS ENTITLED TO DAMAGES
+The notice shall in all cases be given personally or by registered or certified mail to each
+person entitled by law to recover damages in the action, unless the plaintiff shall file an
+affidavit that the identity or whereabouts of any such person is unknown to him after
+diligent search therefore, in which case the plaintiff shall cause the notice to be advertised
+once in a newspaper of general circulation published in Mercer County and in the Mercer
+County Law Journal.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+CONFESSION OF JUDGMENT FOR MONEY
+RULE L2952
+CONFESSED JUDGMENTS
+When a judgment is entered upon any instrument containing a warrant of attorney, which
+instrument accompanies a mortgage, a statement shall be placed in the complaint
+showing the book and the page where said mortgage is recorded. If the instrument is
+entered without a complaint a statement shall be placed upon the instrument itself.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+ENFORCEMENT OF MONEY JUDGMENTS FOR
+THE PAYMENT OF MONEY
+RULE L3110
+EXECUTION AGAINST CONTENTS OF SAFE DEPOSIT BOX
+When the plaintiff seeks to serve a party by publication as provided in paragraph (c) of
+R.C.P. 3110, it shall be sufficient service to publish said notice once in a newspaper of
+general circulation in Mercer County and once in the Mercer County Law Journal. Proofs
+of publication shall be filed.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+50
+RULE L3112
+SERVICE OF THE WRIT UPON GARNISHEE, REAL PROPERTY
+OF DEFENDANT IN NAME OF THIRD PARTY
+Whenever a party seeks to serve a garnishee by publication as provided in paragraph (c)
+of R.C.P. 3112, it shall be sufficient service to publish said notice once in a newspaper of
+general circulation in Mercer County and once in the Mercer County Law Journal. Proofs
+of publication shall be filed.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L3123
+DEBTOR'S EXEMPTION
+The sheriff following an appraisal or designation shall immediately thereafter and before
+sale give notice thereof by first class United States mail to all interested parties of the
+appraisal or designation, which notice shall set forth the right of appeal to the Court of
+Common Pleas within forty-eight (48) hours thereof.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+RULE L3128
+NOTICE OF SALE
+PERSONAL PROPERTY
+One copy of the handbill shall be mailed by certified United States mail to the defendant
+by the sheriff.
+[Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+51
+DEPOSITIONS AND DISCOVERY
+RULE L4010
+PHYSICAL AND MENTAL EXAMINATION OF PERSONS
+When a mental or physical examination has been made pursuant to R.C.P. 4010, counsel
+shall be prepared to deliver and exchange medical reports, as provided therein, not more
+than five (5) days after any report, written or oral, has been received.
+[AdoptedJuly 19 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
+
+
+
+
+
+[ State Code [!] ]
+
 ~
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter100/chap100toc.html&d=reduce
 CHAPTER 100. RULES OF CONSTRUCTION
@@ -17949,7 +19560,7 @@ Rule 4.7. Electronic Filing.
 
 
 
-~ V.    RULES GOVERNING SPECIFIC TYPES OF PETITIONS [!]rsrvd]
+~ V.    RULES GOVERNING SPECIFIC TYPES OF PETITIONS [ [!] rsrvd ]
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8005/chap8005toc.html&d=
 RULE 5. [Reserved]
 Rule
@@ -18478,7 +20089,7 @@ Source
 
 
 
-~ VII.    RULES RELATING TO PRE-HEARING AND HEARING PROCEDURE  [!]rsrvd]
+~ VII.    RULES RELATING TO PRE-HEARING AND HEARING PROCEDURE  [ [!] rsrvd ]
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8007/chap8007toc.html&d=
 RULE 7. [Reserved]
 Rule
@@ -18591,7 +20202,7 @@ Source
 
 
 
-~ VIII.    RECONSIDERATION  [!]rsrvd]
+~ VIII.    RECONSIDERATION  [ [!] rsrvd ]
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8008/chap8008toc.html&d=
 RULE 8. [Reserved]
 Rule 8.1—8.8. [Reserved].
@@ -18656,7 +20267,7 @@ Source
 
 
 
-~ IX.    AUDITORS AND HEARING OFFICERS [!]rsrvd]
+~ IX.    AUDITORS AND HEARING OFFICERS [ [!] rsrvd ]
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8009/chap8009toc.html&d=
 RULE 9. [Reserved]
 Rule
@@ -18783,7 +20394,7 @@ Source
 
 
 
-~ X.    REGISTER OF WILLS  [!]rsrvd]
+~ X.    REGISTER OF WILLS  [ [!] rsrvd ]
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8010/chap8010toc.html&d=
 RULE 10. [Reserved]
 Rule
@@ -32090,7 +33701,77 @@ Source
 
 
 
+~
+
+PART II. [Reserved]
+
+Chap.	Sec.
+
+101.    [Reserved and Renumbered] … 101.1   
+201.    [Reserved and Renumbered] … 201.1   
+301.    [Reserved and Renumbered] … 301.1   
+   (Editor’s Note: The Juvenile Court Judges’ Commission submitted a statement of policy at 32 Pa.B. 4037 (August 17, 2002) for the purpose of renumbering existing standards. This renumbering is in response to the establishment of the Juvenile Court Procedural Rules Committee by the Supreme Court. The Commission’s standards are moved to 37 Pa. Code Chapter 200 and Title 237 is reserved for Juvenile Court Procedural Rules.)
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/partIItoc.html&d=
 
 
 
 
+
+
+
+~
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter101/chap101toc.html&d=reduce
+CHAPTER 101. [Reserved and Renumbered]
+
+Source
+   This Chapter 101 adopted under the consent order in Coleman v. Stanziani, Civil Action E.D. No. 81-2215, effective September 1, 1986; reserved and renumbered as 37 Pa. Code Chapter 200, Subchapters A and B, August 16, 2002, effective August 17, 2002, 32 Pa.B. 4037. Immediately preceding text appears at serial pages (267935) to (267936) and (256799) to (256814).
+
+§ § 101.1—101.10. [Reserved and Renumbered].
+
+
+
+
+
+
+~
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter201/chap201toc.html&d=reduce
+CHAPTER 201. [Reserved and Renumbered]
+
+Source
+   The provisions of this Chapter 201 adopted July 9, 1999, effective July 10, 1999, 29 Pa.B. 3633; reserved and renumbered as 37 Pa. Code Chapter 200, Subchapter C, August 16, 2002, effective August 17, 2002, 32 Pa.B. 4037. Immediately preceding text appears at serial pages (256815) to (256816) and (265305) to (265306).
+
+§ § 201.1 and 201.2. [Reserved and Renumbered].
+§ 201.11. [Reserved and Renumbered].
+§ 201.21. [Reserved and Renumbered].
+
+
+
+
+
+
+~
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter301/chap301toc.html&d=reduce
+CHAPTER 301. [Reserved and Renumbered]
+
+Source
+   The provisions of this Chapter 301 adopted March 31, 2000, effective April 1, 2000, 30 Pa.B. 1762; reserved and renumbered as 37 Pa. Code Chapter 200, Subchapter D, August 16, 2002, effective August 17, 2002, 32 Pa.B. 4037. Section 301.1 was corrected at 30 Pa.B. 4000 (April 15, 2000). Immediately preceding text appears at serial pages (267937) to (267938) and (265309) to (265312).
+
+§ § 301.1—301.8. [Reserved and Renumbered].
+§ § 301.21—301.27. [Reserved and Renumbered].
+§ § 301.41—301.48. [Reserved and Renumbered].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ Statute [!] ]
