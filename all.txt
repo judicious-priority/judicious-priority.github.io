@@ -1,5 +1,5 @@
 
-[ Rules, Regs, & Laws [!] ]
+~ [ Rules, Regs, & Laws [!] ]
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-[ Local Code [!] ]
+~ [ Local Code [!] ]
 
 
 
@@ -1285,6 +1285,12 @@ _________________________________________
 Telephone No. ____________________________
 Supreme Court ID# _______________________
 Exhibit “C”
+
+
+
+
+
+
 35
 IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
 CIVIL ACTION – LAW
@@ -2202,6 +2208,12 @@ Local Rule 2.9:3 Distribution without Audit
 Local Rule 2.10 Report by Fiduciary
 Local Rule 2.11:1 Appointment and Duties of Official Examiners
 Local Rule 2.11:2 Compensation of Official Examiners
+
+
+
+
+
+
 2
 RULE 3. PETITIONS, PRACTICE AND PLEADING
 Local Rule 3.1:1 Hearing Judge
@@ -2235,11 +2247,23 @@ Local Rule 10.4:2 Petition for Appeal
 Local Rule 10.4:3 Certification and Citation
 Local Rule 10.4:4 Argument List and Hearing
 Local Rule 10.4:5 Grant of Jury Trial
+
+
+
+
+
+
 3
 RULE 14. INCAPACITATED PERSON’S ESTATE
 Local Rule 14.2:1 Incapacitated Person’s Estate. Proof of Service
 RULE 15. ADOPTIONS
 Local Rule 15.5(a):2 Preliminary Order and Decree of Adoption
+
+
+
+
+
+
 4
 RULE 1. JUDGES – LOCAL RULES
 LOCAL RULE 1.3:1 Definitions
@@ -2271,6 +2295,12 @@ individual surety shall be accompanied by a justification of surety, in affidavi
 form, of the proposed surety, setting forth:
 1. name, residence address;
 2. location of any real property owned;
+
+
+
+
+
+
 5
 3. a brief description of the real estate and what it consists of;
 4. how, or from whom, the real estate was obtained and when
@@ -2309,6 +2339,12 @@ immediately, upon the receipt thereof by the Clerk, be deposited with the Court
 depository or credited to the proper estate or proceeding. The depository shall
 keep separate accounts for each payment and delivery and designate each by
 name of the proper estate or proceedings.
+
+
+
+
+
+
 6
 c. Withdrawal Orders – No money shall be paid or delivered by such
 depository except upon the check or order of the Clerk, countersigned by a
@@ -2349,6 +2385,12 @@ date upon which argument will be held. The Argument List shall also be
 published in the Mercer County Law Journal.
 d. Briefs – At least fifteen (15) days before the date of Argument Court, it
 shall be the duty of counsel for the rule or motion, or petitioner, objector or
+
+
+
+
+
+
 7
 party filing preliminary objections, to serve on adverse counsel a typewritten
 brief on paper 8 ½ inches by 11 inches in size, double spaced, except for
@@ -2383,6 +2425,12 @@ Local Rule 2.9:1 Accounts
 The accounts of fiduciaries shall be presented to Court for confirmation at the
 date and time set for confirmation of accounts by the Court as set forth in the
 Annual Court Calendar, unless otherwise directed by the Court.
+
+
+
+
+
+
 8
 Local Rule 2.9:2 Confirmation
 a. Unless objections are filed in accordance with Orphans’ Court Rule 2.7,
@@ -2420,6 +2468,12 @@ that the matter does not call for reference to an auditor and may decree
 distribution substantially in conformance with the statement of proposed
 distribution filed with the account, provided such motion or petition is
 accompanied by:
+
+
+
+
+
+
 9
 1. an affidavit or verification by the accountant or one of the next of
 kin or beneficiaries stating the names and addresses of all the
@@ -2462,6 +2516,12 @@ and any available information concerning the
 distributee’s present whereabouts;
 B. in cases of intestacy, a family tree, as complete as
 possible under the circumstances, supported by
+
+
+
+
+
+
 10
 such documentary evidence as the fiduciary has
 been able to obtain; and
@@ -2495,6 +2555,12 @@ Local Rule 3.1:2 Hearings
 Petitions and motions shall have attached thereto a proposed order of Court,
 which shall be prepared by the party presenting the petition or motion, and
 which shall include a date and time for a hearing and for the taking of testimony,
+
+
+
+
+
+
 11
 if necessary.
 RULE 5. RULES COVERING SPECIFIC TYPES OF PETITIONS
@@ -2530,6 +2596,12 @@ Local Rule 5.2:3 Conclusiveness of Averments
 If the averments of the petition are not conclusive as to the right of the
 individual to the allowance being claimed, the matter may be referred to a
 master, auditor, or to a Hearing Judge.
+
+
+
+
+
+
 12
 Local Rule 5.2:4 Appraisal. Notice. Practice and Procedure
 a. Filing of Appraisal – The appraisers shall, within thirty (30) days
@@ -2569,6 +2641,12 @@ Rules.
 Local Rule 5.4:2 Extension of Time. Practice and Procedure
 The petitioner shall file the petition with the Clerk and thereafter given twenty
 (20) days written notice of intention to request the extension at a stated day to
+
+
+
+
+
+
 13
 all persons adversely affected thereby who do not join in the prayer of the
 petition. In the absence of objection, upon the presentation of a Certificate of
@@ -2607,6 +2685,12 @@ minority, the institution may pay over the funds when the
 minor attains his majority, upon the joint agreement of
 the guardian and the former minor without further order
 of the Court.
+
+
+
+
+
+
 14
 2. If, upon subsequent order of the Court, withdrawals have
 been made from the account during minority, the guardian
@@ -2650,6 +2734,12 @@ minor does not exceed the statutory limitation as provided in Section
 5103 of the Probate, Estates, and Fiduciaries Code (20 Pa.C.S.A. § 5103),
 the Court upon petition, may authorize the parent or other person
 maintaining the minor to convey or mortgage any real property forming a
+
+
+
+
+
+
 15
 part or all of such estate, without the appointment of a guardian or the
 entry of security. The petition shall conform to the requirements of the
@@ -2693,6 +2783,12 @@ and education of the minor, or the minor’s spouse and
 children;
 5. the date and amount of any provision previously allowed
 by the Court, and the name of the Judge who granted it;
+
+
+
+
+
+
 16
 6. the financial requirements of the minor and the minor’s
 family unit, in detail, and the circumstances making such
@@ -2731,6 +2827,12 @@ a. Original Hearing – Twenty (20) days notice of the time and place of the
 first hearing before the auditor or master shall be served, in writing, on
 all known heirs, devisees, unpaid legatees, and distributes, or their
 attorneys, and to all others by advertisement in one newspaper of
+
+
+
+
+
+
 17
 general circulation within the county and the Mercer County Law Journal
 once a week for three (3) consecutive weeks prior to the date of the
@@ -2767,6 +2869,12 @@ Local Rule 9.7:3 Approval of Expenses and Fees prior to Confirmation
 No auditor’s or master’s reports shall be confirmed or otherwise approved until
 such time as the Court shall have entered an order approving the amount of
 expenses to be reimbursed until and the amount of fees to be awarded until the
+
+
+
+
+
+
 18
 auditor or master. The Court may assess said expenses and fees upon any party
 in interest, as it deems fit.
@@ -2801,6 +2909,12 @@ sufficient, the Court shall award a citation and, if it has not been done by
 the Clerk on his/her own motion, order certification of the entire record
 of the Clerk to the Court. The citation shall be directed to all interested
 parties and shall require them to file a complete answer under oath or
+
+
+
+
+
+
 19
 verification to the averments of the petition, on or before a day certain
 which shall not be less than twenty (20) days after the service thereof,
@@ -2907,7 +3021,7 @@ B. A proposed decree of adoption.
 
 
 
-[ State Code [!] ]
+~ [ State Code [!] ]
 
 ~
 https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter100/chap100toc.html&d=reduce 2025-10-02
@@ -17761,7 +17875,7 @@ Source
 
 
 ~
-
+https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208.html&d= 2025-10-02
 THE COURTS
 Title 231—RULES OF
 CIVIL PROCEDURE
@@ -18700,7 +18814,7 @@ Rule 4.7. Electronic Filing.
 
 
 ~ Continued
-https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208a.html&continued=https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208.html&d= 2025-10-02
+https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208a.html&continued= 2025-10-02
 [45 Pa.B. 7098]
 [Saturday, December 19, 2015]
 
@@ -19538,6 +19652,13 @@ Rule
 1—13.     [Reserved].
 14—16.     [Renumbered].
 17.     [Reserved].
+~RULE 17. [Reserved]
+Rule
+
+
+17.    [Reserved].
+!https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8017/chap8017toc.html&d=
+
 
 Chapter	
 
@@ -19548,8 +19669,12 @@ Rule
 
 
 1.1.    [Reserved].
+!https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8001/s_rev1.1.html&d=reduce
 1.2.    [Reserved].
+!https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8001/s_rev1.2.html&d=reduce
 1.3.    [Reserved].
+!https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8001/s_rev1.3.html&d=reduce
+
 Source
    The provisions of this Rule 1 amended April 26, 1979, effective August 1, 1979, 9 Pa.B. 1514, unless otherwise noted.
 
@@ -35000,7 +35125,6 @@ Source
 
 
 ~
-
 PART II. [Reserved]
 
 Chap.	Sec.
