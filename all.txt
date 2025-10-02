@@ -1,1 +1,317 @@
-..
+CHAPTER 100. RULES OF CONSTRUCTION
+Rule
+
+
+51.    Title and Citation of Rules.
+52.    Effective Date. Application to Pending Actions.
+76.    Definitions.
+101.    [Rescinded].
+102.    [Rescinded].
+103.    [Rescinded].
+104.    [Rescinded].
+105.    Bonds.
+106.    [Rescinded].
+107.    [Rescinded].
+108.    [Rescinded].
+126.    Application and Construction of Rules.
+127.    [Rescinded].
+128.    [Rescinded].
+129.    [Rescinded].
+130.    [Rescinded].
+131.    [Rescinded].
+132.    [Rescinded].
+133.    [Rescinded].
+151.    [Rescinded].
+152.    [Rescinded].
+153.    [Rescinded].
+Rule 51. Title and Citation of Rules.
+ These rules shall be known as the Pennsylvania Rules of Civil Procedure and may be cited as ‘‘Pa.R.Civ.P.
+
+’’
+Comment
+   The previous use of ‘‘Pa.R.C.P. No.’’ to cite the Pennsylvania Rules of Civil Procedure may not serve as a basis to invalidate a reference to that authority.
+
+   The rules of civil procedure are not applicable in the magisterial district courts. Civil actions and proceedings in magisterial district courts are governed by the Rules of Civil Procedure Governing Actions and Proceedings Before Magisterial District Judges, Pa.R.Civ.P.M.D.J. 201 et seq.
+
+Source
+   The provisions of this Rule 51 adopted May 1, 1939, effective November 6, 1939; amended March 28, 1973, effective July 1, 1973; amended June 23, 1975, effective immediately, 5 Pa.B. 1819; amended November 14, 1978, effective December 2, 1978, 8 Pa.B. 3410; amended July 8, 2005, effective September 1, 2005, 35 Pa.B. 4087; amended June 10, 2021, effective October 1, 2021, 51 Pa.B. 3442. Immediately preceding text appears at serial page (313121).
+
+Rule 52. Effective Date. Application to Pending Actions.
+ (a)  A rule or an amendment to a rule shall be effective upon the date specified by the Supreme Court.
+
+ (b)  If no effective date is specified, the rule or amendment shall be effective on the first day of July or January following the thirtieth day after its adoption, whichever is earlier.
+
+ (c)  Unless the Supreme Court specifies otherwise, a rule or an amendment to a rule shall apply to actions pending on the effective date.
+
+Source
+   The provisions of this Rule 52 amended through April 5, 1982, effective July 1, 1982, 12 Pa.B. 1225. Immediately preceding text appears at serial pages (40012) and (65222).
+
+Rule 76. Definitions.
+ The following words and phrases when used in the Rules of Civil Procedure shall have the following meanings, respectively, unless the context clearly indicates otherwise or the particular word or phrase is expressly defined in the chapter in which the particular rule is included:
+
+   Administrator—A fiduciary appointed under authority of law by a register of wills or other public authority to administer the estate of a decedent.
+
+   Adult—An individual eighteen years of age or over.
+
+   Affidavit—A statement in writing of a fact or facts signed by the person making it, that either (1) is sworn to or affirmed before an officer authorized by law to administer oaths, or before a particular officer or individual designated by law as one before whom it may be taken, and officially certified to in the case of an officer under seal of office, or (2) is unsworn and contains a statement that it is made subject to the penalties of 18 Pa.C.S. §  4904 relating to unsworn falsification to authorities.
+
+   As now provided by law—A reference to the Acts of Assembly and rules in force at the time the rule containing the phrase was promulgated.
+
+   As provided by law—A reference to the Acts of Assembly and rules in force at the particular time when the rule containing the phrase is applied.
+
+   Attorney at law—An individual admitted to practice law by a court of record of this Commonwealth.
+
+   Attorney of record—An attorney at law who is entered on the docket or record of a court as appearing for or representing a party in a legal proceeding.
+
+   Child or children—Includes children by birth or adoption.
+
+   Commonwealth—The Commonwealth of Pennsylvania.
+
+   Competent adult—An individual eighteen years of age or older who is neither a party to the action nor an employee or a relative of a party.
+
+   Creditor—One to whom the performance of an obligation is owed.
+
+   Debtor—One who owes to another the performance of an obligation.
+
+   Decedent—Either a testator or person dying intestate.
+
+   Executor—A fiduciary named in a will to execute its provisions and administer the estate of the testator.
+
+   Facsimile copy—A copy of a document transmitted and received by facsimile equipment.
+
+   Fiduciary—An executor, administrator, guardian, committee, receiver, trustee, assignee for the benefit of creditors, and any other person, association, partnership, or corporation, acting in any similar capacity.
+
+   General rule—A Rule of Civil Procedure promulgated by the Supreme Court of Pennsylvania under the authority of Article V, Section 10(c) of the Constitution of 1968 or of any Act of Assembly.
+
+   Grantee—One to whom any estate or interest in real property other than a leasehold passes by conveyance.
+
+   Grantor—One from or by whom any estate or interest in real property other than a leasehold passes by conveyance.
+
+   Guardian—A fiduciary legally entrusted with the care and management of the person, or the estate, or both, of a person under a legal disability.
+
+   Ad litem—A fiduciary who is appointed to represent in legal proceedings a person under a legal disability.
+
+   Hereafter—A reference to the time after the time when the rule containing such word becomes effective.
+
+   Heretofore—A reference to the time previous to the time when the rule containing such word becomes effective.
+
+   Judicial sale—A sale conducted by an officer or person authorized for the purpose by some competent tribunal.
+
+   Local rule—A rule of civil procedure promulgated by a court of common pleas.
+
+   Majority—When used in reference to age, means of the age of eighteen years or over.
+
+   Minor—An individual under the age of eighteen years.
+
+   Month—A calendar month.
+
+   Notary—A notary public.
+
+   Oath—Includes affirmation.
+
+   Person—Includes a corporation, partnership and association, as well as a natural person.
+
+   Personal representative—The executor or administrator of a decedent.
+
+   Political subdivision—Any county, city, borough, incorporated town, township, school district, vocational school district, county institution district or municipal or other local authority.
+
+   Official Note
+
+   The definition of the term ‘‘political subdivision in this rule has no bearing upon whether a particular entity is or is not a political subdivision for substantive matters.
+
+   Property—Includes both real and personal property.
+
+   Prothonotary—Includes any officer exercising the powers and performing the duties of the office of prothonotary as set forth in the Judicial Code, and includes the analogous officer in those counties which do not have a prothonotary.
+
+   Publish or published or as applied to the publication of a newspaper of general circulation—Means the place where such newspaper is originally issued and circulated.
+
+   Registered mail—Either registered mail or certified mail.
+
+   Rule—A Rule of Civil Procedure promulgated by the Supreme Court under the authority of Article V, Section 10(c) of the Constitution of 1968, or of any Act of Assembly.
+
+   Savings account—An account in a bank, building and loan association, savings and loan association or other savings institution, in which money is deposited at interest, and subject to withdrawal in whole or in part without notice or after a specified period of notice or at a specified date, and evidenced by a passbook, receipt, certificate of deposit or other muniment of title.
+
+   Signature—Includes
+
+     (1)   mark when the individual cannot write, the individual’s name being written near it, and witnessed by another who writes his or her own name,
+
+     (2)   when used in reference to documents produced by a court of the Unified Judicial System, a handwritten signature, a copy of a handwritten signature, a computer generated signature or a signature created, transmitted, received, or stored by electronic means, by the signer or by someone with the signer’s authorization unless otherwise provided in these rules.
+
+   Sworn—Includes affirmed.
+
+   Verified—When used in reference to a written statement of fact by the signer, means supported by oath or affirmation or made subject to the penalties of 18 Pa.C.S. §  4904 relating to unsworn falsification to authorities.
+
+   Year—A calendar year.
+
+Source
+   The provisions of this Rule 76 adopted May 1, 1939, effective November 6, 1939; amended March 27, 1956, effective July 1, 1956; amended, effective December 22, 1972; amended March 28, 1973, effective July 1, 1973; amended, effective June 23, 1975, 5 Pa.B. 1819; amended November 14, 1978, effective December 2, 1978; amended October 16, 1981, effective October 16, 1981, 11 Pa.B. 3687; amended March 11, 1991, effective July 1, 1991, 21 Pa.B. 1274; amended August 3, 1998, effective January 1, 1999, 28 Pa.B. 3928; amended April 12, 1999, effective July 1, 1999, 29 Pa.B. 2266; amended May 14, 1999, effective July 1, 1999, 29 Pa.B. 2767; amended December 29, 2000, effective July 1, 2001, 31 Pa.B. 137; amended August 19, 2005, effective October 1, 2005, 35 Pa.B. 4914. Immediately preceding text appears at serial pages (255146) and (272393) to (272395).
+
+Rule 101. [Rescinded].
+
+Source
+   The provisions of this Rule 101 adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820; rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255149).
+
+Rule 102. [Rescinded].
+
+Source
+   The provisions of this Rule 102 adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820; amended April 12, 1999, effective July 1, 1999, 29 Pa.B. 2266; rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255149).
+
+Rule 103. [Rescinded].
+
+Source
+   The provisions of this Rule 103 adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1828; rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255149).
+
+Rule 104. [Rescinded].
+
+Source
+   The provisions of this Rule 104 adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820; rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255149).
+
+Rule 105. Bonds.
+ A rule requiring a bond or undertaking with sureties to be given by any person, shall be construed to permit in lieu thereof a bond given by any indemnity or surety company authorized to do business in this Commonwealth, and approved by the proper authority.
+
+Source
+   The provisions of this Rule 105 adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Rule 106. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended May 27, 1964, effective June 30, 1964; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 106 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255150).
+
+Rule 107. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 107 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255150).
+
+Rule 108. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 108 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (255150).
+
+Rule 126. Application and Construction of Rules.
+ (a)  Application. The rules shall be liberally applied to secure the just, speedy, and inexpensive determination of every action or proceeding to which they are applicable. The court at every stage of any such action or proceeding may disregard any error or defect of procedure which does not affect the substantive rights of the parties.
+
+ (b)  Construction. In the construction of the Pennsylvania Rules of Civil Procedure, the principles set forth in Pa.R.J.A. 104 to 115 shall be observed.
+
+Comment:
+   Former Pa.R.Civ.P. 101—104, 106—108, and 127—153 were rescinded and replaced as follows:
+
+
+Subject	Former Rule	Current Rule
+Principles	Pa.R.Civ.P. 101	Pa.R.J.A. 104
+Number/Tense	Pa.R.Civ.P. 102	Pa.R.J.A. 105
+Words/Phrases	Pa.R.Civ.P. 103	Pa.R.J.A. 106
+Numerals	Pa.R.Civ.P. 104	—
+Computation of Time	Pa.R.Civ.P. 106	Pa.R.J.A. 107(a)-(b)
+Time—Weeks	Pa.R.Civ.P. 107	Pa.R.J.A. 107(c)
+Time—Months	Pa.R.Civ.P. 108	Pa.R.J.A. 107(d)
+Liberal Construction	Pa.R.Civ.P. 126	Pa.R.J.A. 109(b)
+Court Intent	Pa.R.Civ.P. 127	Pa.R.J.A. 108
+Presumptions	Pa.R.Civ.P. 128	Pa.R.J.A. 109
+Titles	Pa.R.Civ.P. 129	Pa.R.J.A. 110
+Common Law	Pa.R.Civ.P. 130	Pa.R.J.A. 111
+In Pari Materia	Pa.R.Civ.P. 131	Pa.R.J.A. 112
+Inconsistent	Pa.R.Civ.P. 133	Pa.R.J.A. 115
+Controls	Pa.R.Civ.P. 132	Pa.R.J.A. 113
+Amendatory	Pa.R.Civ.P. 152	Pa.R.J.A. 114(b)
+Merger	Pa.R.Civ.P. 153	Pa.R.J.A. 114(c)
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 126 amended November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial pages (255150) and (405379).
+
+Rule 127. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 127 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405379).
+
+Rule 128. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended March 22, 1962, effective April 2, 1962; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 128 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405379).
+
+Rule 129. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820; amended September 26, 1990, effective January 1, 1991, 20 Pa.B. 5188.
+
+Source
+   The provisions of this Rule 129 amended June 10, 2021, effective October 1, 2021, 51 Pa.B. 3442; rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial pages (405379) to (405380).
+
+Rule 130. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 130 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405380).
+
+Rule 131. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 131 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405380).
+
+Rule 132. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 132 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial pages (405380) to (405381).
+
+Rule 133. [Rescinded].
+
+Source
+   The provisions of this Rule 133 adopted June 3, 1994, effective July 1, 1994, 24 Pa.B. 3010; rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405381).
+
+Rule 151. [Rescinded].
+
+Source
+   The provisions of this Rule 151 rescinded April 5, 1982, effective April 16, 1982, 12 Pa.B. 1225. Immediately preceding text appears at serial page (22240).
+
+Rule 152. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 152 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405381).
+
+Rule 153. [Rescinded].
+
+   Official Note
+
+   Adopted May 1, 1939, effective November 6, 1939; amended April 18, 1975, effective immediately, 5 Pa.B. 1820.
+
+Source
+   The provisions of this Rule 153 rescinded November 3, 2023, effective January 1, 2024, 53 Pa.B. 7143. Immediately preceding text appears at serial page (405381).
