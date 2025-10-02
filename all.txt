@@ -7,7 +7,7 @@
 
 
 
-
+[ note: '[ txt w [!] ]' & '~' not from urls [!] ]
 
 
 
@@ -26,7 +26,8 @@
 
 
 
-
+~
+https://www.mercercountypa.gov/localrules/civil/local.rules.of.civil.procedure.pdf 2025-10-02
 1
 LOCAL RULES
 of the
@@ -45,6 +46,12 @@ Honorable Daniel P. Wallace, President Judge
 Honorable Tedd C. Nesbit, Judge
 Honorable Ronald D. Amrhein, Jr., Judge
 Honorable D. Neil McEwen, Judge
+
+
+
+
+
+
 2
 PREFACE
 The Rules of the Court of Common Pleas of Mercer County, 35th Judicial District, are
@@ -55,6 +62,12 @@ given the same number. All local rules are preceded by the letter "L" to indicat
 local character. All local rules must be read in connection with the Rules of Civil
 Procedure bearing the same numbers.
 3
+
+
+
+
+
+
 LOCAL RULES
 of the
 Court of Common Pleas of Mercer County, 35th Judicial District
@@ -86,6 +99,12 @@ Rule L310 Court Calendar
 Rule L312 Security for Costs
 Rule L315 Bills of Costs
 4
+
+
+
+
+
+
 Rule L316.1 Judgment by Agreement
 Rule L 316.3 Striking or Opening Judgments
 Rule L316.4 Judgments: Re-indexing
@@ -115,6 +134,12 @@ Rule L1147 Residential Mortgage Foreclosure Program
 ARBITRATION
 Rule L1301 Scope
 Rule L1302 List of Arbitrators. Appointment to Board. Oath.
+
+
+
+
+
+
 5
 Rule L1308 Appeal. Arbitrators’ Compensation. Notice.
 ACTIONS FOR PRIMARY PHYSICAL CUSTODY AND PARTIAL PHYSICAL
@@ -141,6 +166,12 @@ ACTIONS FOR WRONGFUL DEATH
 Rule L2205 Notice to Persons Entitled to Damages
 CONFESSION OF JUDGMENT FOR MONEY
 Rule L2952 Confessed Judgments
+
+
+
+
+
+
 6
 ENFORCEMENT OF MONEY JUDGMENTS FOR THE PAYMENT OF MONEY
 Rule L3110 Execution Against Contents of Safe Deposit Box
@@ -150,6 +181,12 @@ Rule L3123 Debtor’s Exemption
 Rule L3128 Notice of Sale Personal Property
 DEPOSITIONS AND DISCOVERY
 Rule L4010 Physical and Mental Examination of Persons
+
+
+
+
+
+
 7
 Local Rules of the Court of Common Pleas of Mercer County,
 35th Judicial District
@@ -181,6 +218,12 @@ All pleadings and other legal papers filed with the Prothonotary shall be prepar
 filing on paper 8 ½” x 11” in size and be bound by staples or similar binding.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 8
 RULE L205.2(b)
 COVER SHEET
@@ -214,6 +257,12 @@ Court may, in appropriate circumstances, direct that an answer be filed within a
 shorter period of time, or dispense with the necessity of filing an answer
 altogether. Every petition shall have attached to it a proposed order, providing for
 an evidentiary hearing. The Court on its own motion or upon request of a party
+
+
+
+
+
+
 9
 may require a case to be submitted on the basis of the pleadings, depositions
 and/or oral argument instead of an evidentiary hearing.
@@ -246,6 +295,12 @@ MOTION. STATEMENT OF APPLICABLE AUTHORITY.
 A motion shall include a brief statement of the applicable authority for the relief
 requested.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 10
 RULE L208.2(d)
 UNCONTESTED MOTIONS
@@ -277,6 +332,12 @@ case management order.
 (2) All motions or other matters shall contain a scheduling order, a proposed order,
 and a certification that notice of the hearing has been given to opposing counsel or
 the opposing party. The certification shall also set forth the manner of notice
+
+
+
+
+
+
 11
 given. All proposed orders shall list the names of counsel of record and the party
 represented by each counsel. All motions and other matters shall first be filed in
@@ -321,6 +382,18 @@ below.
 month unless otherwise ordered by the court.
 (3) The Prothonotary shall keep an argument docket wherein shall be set
 down all cases or matters requiring argument, special examination by the
+
+
+
+
+
+
+
+
+
+
+
+
 12
 court, and the taking of testimony, except trials by jury and other matters
 specifically regulated by Act of Assembly.
@@ -366,6 +439,12 @@ party shall be drafted by the attorney at whose instance they are to be made,
 and shall be submitted to the court for approval.
 (b) All proposed orders presented to the court shall list the names of all counsel of
 record and shall indicate the party represented by each.
+
+
+
+
+
+
 13
 (c) The proposed order and any accompanying documents shall be transmitted by
 the parties to the Court Administrator for scheduling. The order and
@@ -392,6 +471,12 @@ receipt of the moving party’s brief.
 (c) Consider the issues raised by the offending party to be waived;
 (d) Order argument continued;
 (e) Enter such other order as the interests of justice may require.
+
+
+
+
+
+
 14
 RULE L210
 FORM OF BRIEFS
@@ -432,6 +517,11 @@ authorized to speak for him or it with respect to the trial of the case and its
 settlement.
 (e) All unusual questions of law shall be presented to the pre-trial judge with a
 statement of the authority supporting the position of that party. If a party desires,
+
+
+
+
+
 15
 he may present such questions in the absence of the opposing party and his
 counsel.
@@ -468,6 +558,12 @@ have the right of final address or argument to the jury. However, a party who ha
 presented no evidence and who does not appear on the record in another capacity
 shall not have the right of final argument.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 16
 RULE L227.1
 POST-TRIAL RELIEF.
@@ -477,6 +573,12 @@ been filed. The purpose of such conference will be to limit the issue which must
 considered by the court in ruling upon the post-trial motion and to determine how much
 of the stenographic record of the trial should be transcribed.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 17
 COURT MATTERS
 RULE L301.1
@@ -506,6 +608,12 @@ or by order of the courts, except an entry of appearance of counsel.
 with the number one for each calendar year. Civil Actions 2004-1
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 18
 RULE L309
 TRIAL AND TRIAL LIST
@@ -536,6 +644,12 @@ other appropriate court order may be made in favor of the party obtaining the
 order.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 19
 RULE L315
 BILLS OF COSTS
@@ -571,6 +685,12 @@ record, unless the period for filing of an answer is otherwise ordered by the co
 and also to serve a copy of said answer upon petitioner or his attorney of record at
 the time of filing the same.
 (b) The prayer of the petition shall set forth whether a supersedeas is requested or not.
+
+
+
+
+
+
 20
 (c) In instances of petitions after execution has been issued, the court may, in its
 discretion, order a bond be filed for costs. Unless the order of the court provides
@@ -607,6 +727,12 @@ Arbitrator’s decision. If this option is chosen, the Court shall immediately r
 the case to arbitration.
 (i ) The parties shall notify the assigned judge no later than one (1) month
  whether or not the parties have settled their dispute. If the dispute is
+
+
+
+
+
+
 21
  not settled, the court will enter an order requiring a Board of
  Arbitrators be appointed.
@@ -651,6 +777,12 @@ appointed for an appeal affecting the delivery of possession of real property.
  designated as a complex case.
 (3) Regular case – any case that is not designated either an arbitration case or a
  complex case.
+
+
+
+
+
+
 22
 (4) Appeal from the judgment of a Magisterial District Judge affecting the delivery of
 possession of real property.
@@ -683,6 +815,12 @@ designation;
  nature and circumstances of the case.
 (Adopted November 13, 2015, effective 30 days after publication in the Pennsylvania
 Bulletin.)
+
+
+
+
+
+
 23
 RULE L230.2
 TERMINATION OF INACTIVE CASES
@@ -721,6 +859,12 @@ will be disallowed. Auditors shall obtain from the assignors or debtors, a list 
 their creditors, and if the proceeds of the sale of real estate are to be distributed,
 identify all liens and encumbrances thereon and award distribution after
 determining any objections thereto.
+
+
+
+
+
+
 24
 (d) Argument before the court shall be confined to the exceptions filed with the
 auditor. The court may take additional testimony on exceptions if justice requires.
@@ -758,6 +902,12 @@ publication and proof of the giving of the required notice to interested parties
 the time fixed for the audit or confirmation thereof. If no exceptions have been
 filed, the account may be confirmed absolutely.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 25
 RULE L324
 SHERIFF
@@ -793,6 +943,12 @@ no way alter the rights of the parties as to legal tender made before suit.
 (b) Parties wishing to extinguish liens upon real estate in which they have an interest
 may, on motion and such notice to the creditor as the court may direct, pay into
 court the amount due and have satisfaction entered upon the lien.
+
+
+
+
+
+
 26
 (c) Upon payment of money into court, it shall be deposited by the Prothonotary in an
 account in the name of the Prothonotary kept for such purposes, and shall be
@@ -828,6 +984,12 @@ general rules or recommendations of the State Law Library. The law library shall
 also be operated in conformity with the Rules of the Court of Common Pleas of
 Mercer County and shall be available to the general public.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 27
 RULE L328
 OFFICIAL LEGAL PUBLICATION
@@ -863,6 +1025,12 @@ all motions have been disposed of, that all discovery has been completed, and th
 trial, IT IS HEREBY ORDERED AND DECREED that any party who does not agree with that
 certification shall file a written objection to the certification within ten (10) days of the entry of this Order.
 If any objection is filed, a hearing will be scheduled on the objection to determine whether the case should
+
+
+
+
+
+
 28
 be stricken from the trial list. The written objection shall include a proposed Order setting the date and time
 for this hearing. Whether or not written objections are filed, the Court Administrator will place this case on
@@ -887,6 +1055,12 @@ BY THE COURT:
 ______________________________
 President Judge
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 29
  CIVIL ACTIONS
 RULE L1018.1
@@ -912,6 +1086,12 @@ original pleading, it shall be a complete pleading and not merely the amendments
 former pleadings. The amended pleading shall clearly indicate that it is an amended
 pleading and the paragraphs shall be appropriately re-numbered.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 30
 RULE L1034(a)
 MOTION FOR JUDGMENT ON THE PLEADINGS PROCEDURE
@@ -937,6 +1117,12 @@ FORM OF JUDGMENTS ON ORDER
 Any order entered under subsection R.C.P. 1066 (b)(1) shall include a description of the
 property.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 31
 RESIDENTIAL MORTGAGE FORECLOSURE
 CONCILIATION PROGRAM
@@ -981,6 +1167,12 @@ Plaintiff/Lender/Investor who has actual authority to modify mortgages and/or en
 alternate payment agreements with the Defendant(s) or otherwise resolve the action, shall be
 available telephonically. Failure of the Plaintiff, or of a representative of the Plaintiff with
 such authority, to appear for the Conciliation Conference may result in the rescheduling of
+
+
+
+
+
+
 32
 the Conciliation Conference and further postponement of any action in this matter, including
 timely filing of an Answer, filing of Preliminary Objections, filing of Motions for Summary
@@ -1017,6 +1209,12 @@ Conciliation Conference.
 MAKE THIS CALL TO SAVE YOUR HOME
 THIS PROGRAM IS FREE!
 EXHIBIT “A”
+
+
+
+
+
+
 33
 IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
 CIVIL ACTION – LAW
@@ -1054,6 +1252,12 @@ Full Mailing Address Full Mailing Address
 Must be returned and filed with the Prothonotary of Mercer County within thirty (30) days following
 service of the Complaint and URGENT NOTICE upon Defendant(s).
 Exhibit “B”
+
+
+
+
+
+
 34
 IN THE COURT OF COMMON PLEAS OF MERCER COUNTY, PENNSYLVANIA
 CIVIL ACTION – LAW
@@ -1137,6 +1341,12 @@ Daniel P. Wallace, President Judge
 Exhibit “E”
 [Adopted January 22, 2025, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 37
 ARBITRATION
 RULE L1301
@@ -1173,6 +1383,12 @@ arbitrators selected. The Prothonotary shall, within ten (10) days, notify the
 arbitrators in writing of their selection.
 (d) The first member listed for a board who has been admitted to the practice of law
 not less than three (3) years shall be chairman of the board and shall be
+
+
+
+
+
+
 38
 responsible for the setting of the date and place of hearing, for giving notice
 thereof to opposing counsel and to the Prothonotary, and for the filing of the
@@ -1213,6 +1429,12 @@ eligible.
 (d) The fees payable or paid to the members of the board of arbitrators under these
 rules shall not be taxed as costs, nor follow the award with other costs.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 39
 ACTIONS FOR PRIMARY PHYSICAL CUSTODY
 AND PARTIAL PHYSICAL CUSTODY OF MINOR
@@ -1243,6 +1465,12 @@ place of the Conciliator conference.
 scheduling the Conciliator conference on the party’s counsel by first class mail. If
 a party is unrepresented, the Office of the Custody Conciliator shall serve the order
 upon the party by first class mail at the party’s last known address.
+
+
+
+
+
+
 40
 (f) The Office of the Custody Conciliator shall also file a copy of the order
 accompanying the motion for appointment of Conciliator with the Prothonotary.
@@ -1275,6 +1503,12 @@ party for a Conciliator hearing in an action involving partial physical custody.
 The fee shall be waived for any party determined to be indigent.
 [Adopted October 25, 2021, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 41
 RULE L1915.4-2
 CONCILIATOR HEARINGS BY DEFAULT. PARTIAL CUSTODY
@@ -1310,6 +1544,12 @@ indicate the positions of the parties and shall contain the Conciliator’s
 recommendation as reflected in the proposed interim order.
 (f) A copy of the Conciliator’s report and the interim order shall be served on
 counsel if a party is represented, or on a party directly if pro se, and on the
+
+
+
+
+
+
 42
 guardian ad litem if one has been appointed. The parties shall not be
 permitted to file exceptions to the interim order or the Conciliator’s report.
@@ -1345,6 +1585,12 @@ of two years, the matter will be subject to termination pursuant to Rule
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.
 Amended September 1, 2004, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 43
 RULE L1920.52
  HEARING BY MASTER. REPORTER FEE. CONTINUANCE.
@@ -1383,6 +1629,12 @@ deposited by a party prior to the hearing or assessed against a party as
 costs.
 (3) The master's fee shall be taxed as part of the costs and paid as directed in
 the final decree.
+
+
+
+
+
+
 44
 (4) In the event the parties resolve their differences prior to the hearing, all
 sums deposited with the Prothonotary for the hearing shall be returned to
@@ -1420,6 +1672,12 @@ difference shall be returned in proportion to the respective amounts
 deposited.
 (6) The notes of testimony will not be transcribed unless exceptions are filed.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 45
 RULE L1920.55-2
 MASTER'S REPORT. NOTICE. EXCEPTIONS. FINAL DECREE.
@@ -1458,6 +1716,12 @@ Intention to Proceed pursuant to Pa.R.C.P. Rule 230.2(g).”
 Notice of Termination.
 (e) The President Judge shall comply with Pa.R.C.P. Rule 230.2(d) regarding an
 aggrieved party seeking to reinstate a terminated divorce case.
+
+
+
+
+
+
 46
 [ Adopted March 15, 2022, effective 30 days after publication in the Pennsylvania
 Bulletin.]
@@ -1491,6 +1755,12 @@ designated numerically starting with the number 1 for each calendar year and
 followed by the alphabetical symbols "D. R." and the year of filing.
 [ Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania
 Bulletin.]
+
+
+
+
+
+
 47
 RULE L1930.9
 INFORMATION TO CONSUMER CREDIT BUREAUS
@@ -1516,6 +1786,12 @@ Director, Domestic Relations
 (b) A fee will be imposed by the Domestic Relations Section upon the Consumer
 Credit Bureau of organization requesting information.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 48
 INCAPACITATED PERSONS AS PARTIES
 RULE L2056
@@ -1538,6 +1814,12 @@ Pennsylvania Rules of Civil Procedure of the bringing of the action upon said of
 within ten (10) days thereafter and file proof thereof in the action; otherwise, the action
 shall be automatically stayed until such proof is filed.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 49
 ACTIONS FOR WRONGFUL DEATH
 RULE L2205
@@ -1566,6 +1848,12 @@ R.C.P. 3110, it shall be sufficient service to publish said notice once in a new
 general circulation in Mercer County and once in the Mercer County Law Journal. Proofs
 of publication shall be filed.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 50
 RULE L3112
 SERVICE OF THE WRIT UPON GARNISHEE, REAL PROPERTY
@@ -1588,6 +1876,12 @@ PERSONAL PROPERTY
 One copy of the handbill shall be mailed by certified United States mail to the defendant
 by the sheriff.
 [Adopted July 19, 2004, effective 30 days after publication in the Pennsylvania Bulletin.]
+
+
+
+
+
+
 51
 DEPOSITIONS AND DISCOVERY
 RULE L4010
@@ -1607,10 +1901,1016 @@ than five (5) days after any report, written or oral, has been received.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~
+https://www.mercercountypa.gov/localrules/administration/local.rules.of.judicial.administration.pdf 2025-10-02
+MERCER COUNTY LOCAL RULE OF JUDICIAL ADMINISTRATION 4004(B)
+Court Reporter Qualifications:
+(1) On or before the 15th day of January of each year, every court reporter shall
+provide to the lead court reporter the number of continuing professional education
+hours that the court reporter completed for the just ended calendar year.
+(2) On or before the 31st day of January of each year, the lead court reporter shall
+provide a report to the President Judge and District Court Administrator of the hours
+of continuing professional education that each court reporter has completed during
+the three (3) year requalifying period. The qualifying period shall coincide with the
+three (3) year cycle of any court reporter that is currently in an NCRA continuing
+education cycle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~
+https://www.mercercountypa.gov/localrules/Orphans/Preface.HTM 2025-10-02
+On January 1, 1959, the Orphans' Court of Mercer County revised and adopted the Local Rules of the Mercer County Orphans' Court. Since that time, the Supreme Court Orphans' Court Rules have been renumbered and amended, and the Probate, Estates and Fiduciaries Code has been enacted. As a consequence, the Orphans' Court Division of the Court of Common Pleas of Mercer County decided that it would be appropriate to now revise and amend its existing Orphans' Court Rules.
+
+The following rules represent a complete revision of the former rules, and include such changes as were made necessary by the amendments to the Supreme Court Orphans' Court Rules and by the Probate, Estates and Fiduciaries Code.
+
+The Mercer County Orphans' Court Rules are arranged to correspond as nearly as possible with those of the Supreme Court. Both sets of rules are set forth in their entirety, the Local Rule being preceded by the Supreme Court Rule. The number of a Local Rule which precedes a colon (:) is identical to the number of the Supreme Court Rule to which it refers. The number of a Local Rule which follows a colon (:) indicates its sequence in relation to other Local Rules dealing with the same topic. In addition, the Supreme Court Orphans' Court Rules, although accurate as of the date of the adoption of these Local Rules, may be amended and revised from time to time. Therefore, Members of the Bar are cautioned not to rely upon the Supreme Court Rules, which are set forth herein merely for their convenience, but to refer always to the current edition of the Supreme Court Rules.
+
+Rules Committee:
+
+M.L. McBride, Esquire, Chairman
+David Goodwin, Esquire
+John C. Reed, Esquire
+James A. Stranahan, III, Esquire
+
+Order
+IN RE
+
+REVISION AND
+RESTATEMENT OF
+THE RULES OF
+COURT FOR THE
+COMMON PLEAS COURT--
+ORPHANS' COURT
+DIVISION	:
+:
+:
+:
+:
+:
+:
+:
+:
+
+ORDER
+AND NOW, this 13 day of April, 1984, the attached revision and restatement of the Rules of the Court of Common Pleas of Mercer County -- Orphans' Court Division, having been recommended by the Rules Committee, the same are approved, adopted and promulgated as the Rules of the Court of Common Pleas -- Orphans' Court Division, to become effective June 15, 1984.
+
+BY THE COURT:
+John Q. Stranahan, President Judge
+Albert E. Acker, Judge
+Francis J. Fornelli, Judge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~
+https://www.mercercountypa.gov/localrules/Orphans/Local.Orphans.Court.Rules.pdf 2025-10-02
+1
+LOCAL RULES
+of the
+COURT OF COMMON PLEAS OF
+MERCER COUNTY, 35TH JUDICIAL
+DISTRICT
+Supplementing the
+Orphans’ Court Rules
+Promulgated by the
+Supreme Court of Pennsylvania
+TABLE OF CONTENTS
+RULE 1. PRELIMINARY RULES
+Local Rule 1.3:1 Definitions
+Local Rule 1.9 Costs
+Local Rule 1.10 Acknowledgment and Satisfaction
+Local Rule 1.11 Certificates of Fiduciary Appointment
+Local Rule 1.12 Witnesses. Attachments
+Local Rule 1.13 Individual Sureties
+Local Rule 1.14 Corporate Sureties
+Local Rule 1.15 Assets and Investments
+Local Rule 1.16 Court Depository
+Local Rule 1.17 Termination of Inactive Cases
+Local Rule 1.18 Argument Court
+RULE 2. ACCOUNTS, OBJECTIONS, AND DISTRIBUTION
+Local Rule 2.5:1 Contents of Notice, Additional Requirements
+Local Rule 2.5:2 Advertisement of Accounts
+Local Rule 2.5:3 Notice of Advertisement
+Local Rule 2.9:1 Form of Statement of Proposed Distribution
+Local Rule 2.9:2 Accounts
+Local Rule 2.9:3 Distribution without Audit
+Local Rule 2.10 Report by Fiduciary
+Local Rule 2.11:1 Appointment and Duties of Official Examiners
+Local Rule 2.11:2 Compensation of Official Examiners
+2
+RULE 3. PETITIONS, PRACTICE AND PLEADING
+Local Rule 3.1:1 Hearing Judge
+Local Rule 3.1:2 Hearings
+RULE 5. RULES COVERING SPECIFIC TYPES OF PETITIONS
+Local Rule 5.2:1 Appraisal
+Local Rule 5.2:2 Voluntary Distribution
+Local Rule 5.2:3 Conclusiveness of Averments
+Local Rule 5.2:4 Appraisal. Notice. Practice and Procedure
+Local Rule 5.4:1 Extension of Time. Contents of Petition
+Local Rule 5.4:2 Extension of Time. Practice and Procedure
+Local Rule 5.5:1 Guardians and Trustees Ad Litem. Appointment
+and Compensation
+Local Rule 5.6:1 Information Required from Counsel
+Local Rule 5.6:2 Minor’s Estate. Restricted Account
+Local Rule 5.6:3 Minor’s Estate Not Exceeding Statutory Limitation
+Local Rule 5.6:4 Minor’s Estate. Allowances
+Local Rule 5.8:1 Discharge of a Fiduciary. Additional Provisions
+Local Rule 5.9:1 Partition. Additional Provisions
+RULE 9. AUDITORS AND MASTERS
+Local Rule 9.1:1 Notice of Hearings
+Local Rule 9.6:1 Notice of Filing Report. Preliminary Exceptions
+Local Rule 9.7:1 Confirmation of Auditor’s Reports. Exceptions
+Local Rule 9.7:2 Confirmation of Master’s Reports. Exceptions
+Local Rule 9.7:3 Approval of Expenses and Fees prior to Confirmation
+Local Rule 9.8:1 Absolute Confirmation. Auditor’s and Master’s
+Expenses and Fees
+RULE 10. REGISTER OF WILLS
+Local Rule 10.4:1 Notice of Appeal
+Local Rule 10.4:2 Petition for Appeal
+Local Rule 10.4:3 Certification and Citation
+Local Rule 10.4:4 Argument List and Hearing
+Local Rule 10.4:5 Grant of Jury Trial
+3
+RULE 14. INCAPACITATED PERSON’S ESTATE
+Local Rule 14.2:1 Incapacitated Person’s Estate. Proof of Service
+RULE 15. ADOPTIONS
+Local Rule 15.5(a):2 Preliminary Order and Decree of Adoption
+4
+RULE 1. JUDGES – LOCAL RULES
+LOCAL RULE 1.3:1 Definitions
+In addition to those words and phrases defined by the Supreme Court Rules, the
+following words and phrases when used in these Local Rules unless the context
+clearly indicates otherwise shall have the meaning ascribed to them in this Local
+Rule:
+“Hearing Judge” means that Judge to whom a motion, petition or other pleading
+is presented.
+LOCAL RULE 1.9 Costs
+When not otherwise regulated by law, the Court will allocate costs in such
+manner as it deems equitable.
+LOCAL RULE 1.10 Acknowledgment and Satisfaction
+Acknowledgment of satisfaction of all sums of money or property ordered to be
+paid or delivered by any award or decree of this Court shall be in writing and
+filed with the Clerk, or acknowledged in such other manner as the Court may
+require.
+LOCAL RULE 1.11 Certificates of Fiduciary Appointment
+The Clerk shall not issue a certificate of appointment of any fiduciary, excluding
+personal representatives, until the security, if any required, has been entered.
+LOCAL RULE 1.12 Witnesses. Attachment
+Attachment to compel the appearance of a witness will not be issued, except
+under special circumstances, and unless the witness shall have been served with
+a subpoena at least twenty-four (24) hours before the date for hearing.
+LOCAL RULE 1.13 Individual Sureties
+a. Application for Approval. Justification for Surety – Except as otherwise
+provided by paragraph (b) of this Local Rule, an application for the approval of an
+individual surety shall be accompanied by a justification of surety, in affidavit
+form, of the proposed surety, setting forth:
+1. name, residence address;
+2. location of any real property owned;
+5
+3. a brief description of the real estate and what it consists of;
+4. how, or from whom, the real estate was obtained and when
+obtained;
+5. that the surety or sureties do not contemplate selling of said
+property;
+6. any encumbrance upon the real property;
+7. the assessed value of the property for taxation purposes; and
+8. a certification of the value of said property.
+b. Bond Without Surety. Confession of Judgment – The Court, in its
+discretion may permit an interested party to execute an individual bond, without
+surety. When an interested party is authorized to execute an individual bond or
+individual surety is approved, the Court may direct that the bond to be executed
+contain a warrant of attorney to confess judgment, with or without default, and
+that judgment thereon be entered of record in the Office of the Prothonotary.
+LOCAL RULE 1.14 Corporate Sureties
+a. In General – Surety companies duly authorized to do business in this
+Commonwealth may become surety on any bond or obligation required to be
+filed in Court.
+b. Exceptions – Except where required by statute or for special cause
+shown, a bond will not be required of an approved corporate fiduciary.
+LOCAL RULE 1.15 Assets and Investments
+a. Segregation and Designation of Assets – Assets held by individual
+fiduciaries subject to the jurisdiction of the Court shall be kept separate and
+apart from their individual assets and, except where otherwise permitted by Act
+of Assembly, shall be held in the name of the fiduciary as such.
+b. Deposit of Uninvested Funds – All funds held uninvested shall be
+deposited in a bank or banks, or trust company 9or trust companies, the deposits
+of which are insured by the Federal Deposit Insurance Corporation in such
+manner as to obtain the maximum deposit insurance coverage.
+LOCAL RULE 1.16 Court Depository
+a. Official Depository – The Court will, from time to time, designate a
+banking institution as the official depository of the Court.
+b. Deposits – Monies and securities paid or delivered into the Court shall
+immediately, upon the receipt thereof by the Clerk, be deposited with the Court
+depository or credited to the proper estate or proceeding. The depository shall
+keep separate accounts for each payment and delivery and designate each by
+name of the proper estate or proceedings.
+6
+c. Withdrawal Orders – No money shall be paid or delivered by such
+depository except upon the check or order of the Clerk, countersigned by a
+Judge of the Court, and accompanied by a certificate endorsed on the check or
+order, under the hand of the Clerk and the seal of the Court, that the money or
+property was ordered to be paid or delivered.
+d. Accounting by Clerk – Each year, or at such other times as the Court may
+direct, the Clerk shall have the bank or deposit book settled by the depository
+and shall make and present to the Court an account of the monies paid into and
+out of the account, and shall exhibit the deposit book as a voucher for the
+correctness thereof.
+LOCAL RULE RULE 1.17 Termination of Inactive Cases
+During the month of April of each year, the Clerk of the Orphans’ Court shall
+determine in which matters not concluded there has been no activity during the
+previous two years. The Clerk of the Orphans’ Court shall then give notice in
+each such matter as provided by Pa.R.J.A. 1901(c). If no action is taken, or no
+written objection stating good cause is filed in such matter within 30 days, the
+Clerk of the Orphans’ Court shall enter an order terminating the matter. If
+written objection is filed in such matter within 30 days, the Clerk of the Orphans’
+Court shall list the matter for the next available Argument List without further
+praecipe and give notice to all parties. Failure of any party to appear and to
+show good cause may result in the dismissal of the action.
+Where publication is required, such publication shall be twice printed in the
+Mercer County Law Journal.
+LOCAL RULE 1.18 Argument Court
+a. Time – Argument Court shall be held on the first Monday of each month
+unless otherwise specially ordered by the Court in any particular case.
+b. Listing and Notice thereof – All cases for argument shall be placed on the
+Argument List at least thirty (30) days prior to the argument by praecipe to the
+Clerk. A copy of the praecipe ordering the case on the Argument List shall be
+sent to the opposing counsel and to the Court Administrator by the party placing
+the case on the Argument List, which praecipe shall include the name of the
+opposing counsel and whether the matter listed requires the taking of
+testimony.
+c. Scheduling – The Court Administrator shall give notice to all counsel that
+the case has been placed on the Argument List and said notice shall contain the
+date upon which argument will be held. The Argument List shall also be
+published in the Mercer County Law Journal.
+d. Briefs – At least fifteen (15) days before the date of Argument Court, it
+shall be the duty of counsel for the rule or motion, or petitioner, objector or
+7
+party filing preliminary objections, to serve on adverse counsel a typewritten
+brief on paper 8 ½ inches by 11 inches in size, double spaced, except for
+quotations containing a concise statement of the relevant facts, the questions
+involved, the argument, and the authorities relied upon. Counsel for the adverse
+party may prepare a brief which need only contain an argument and authorities
+relied upon, but counsel may add a counter statement of the facts, and a
+counter statement of the questions involved. Unless counsel does so, however,
+it will be assumed counsel is satisfied with them or such parts of them as
+remained unchallenged. At least five (5) days before Argument Court, counsel
+shall serve a copy of the reply brief upon opposing counsel, and copies of both
+briefs shall be delivered to the Court Administrator at least five (5) days before
+Argument Court. If either party fails to file a brief in accordance with these Local
+Rules, the Court shall dispose of the argument without brief.
+RULE 2. ACCOUNTS, OBJECTIONS AND DISTRUBTION
+Local Rule 2.5:1 Contents of Notice. Additional Requirements
+The notice to interested parties shall set forth the date on which the account will
+be confirmed, and that the account will be confirmed unless objections are filed
+before the account is confirmed.
+Local Rule 2.5:2 Advertisement of Accounts
+All accounts required by law to be filed with the Clerk shall be advertised by the
+Clerk in the manner prescribed by law and shall also state that unless
+objections are filed before the date set for confirmation, the account will
+be approved and that thereafter distribution may be decreed by the Court,
+without reference to an auditor, in accordance with any statement of proposed
+distribution filed with the account.
+Local Rule 2.5:3 Notice and Advertisement
+Notice and advertisement of a statement of proposed distribution shall be given
+at the same time and in the same manner as the account as provided in Local
+Rules 2.5:1 and 2.5:2.
+Local Rule 2.9:1 Accounts
+The accounts of fiduciaries shall be presented to Court for confirmation at the
+date and time set for confirmation of accounts by the Court as set forth in the
+Annual Court Calendar, unless otherwise directed by the Court.
+8
+Local Rule 2.9:2 Confirmation
+a. Unless objections are filed in accordance with Orphans’ Court Rule 2.7,
+the confirmation of accounts and statements of proposed distribution filed with
+accounts shall be confirmed. The confirmation of the account and any
+statement of proposed distribution filed with the account shall be placed upon
+the record by the Clerk.
+b. No account, or statement of proposed distribution filed with any account,
+shall be considered finally approved except by written affirmation by the Clerk as
+hereinbefore provided or by order of Court; and such final approval, if relating to
+a statement of proposed distribution filed with any account, shall expressly state
+that it is a final confirmation of the account and the statement of proposed
+distribution filed therewith.
+Local Rule 2.9:3 Form of Statement of Proposed Distribution
+The statement of proposed distribution shall specify the names of the person or
+persons to whom the balance available for distribution is awarded, the exact
+amount of share awarded to such person or persons, and whether the proposed
+distribution is in cash or in kind.
+Local Rule 2.9:4 Confirmation of Title to Real Property
+a. In General – When the account and the statement of proposed
+distribution filed therewith has been finally affirmed as hereinbefore provided,
+such affirmation shall be in the nature of confirmation of title to real property in
+the respective distributes.
+b. Separate Awards – A schedule of distribution shall set forth separate
+awards of real property in separate paragraphs.
+c. Description – Real property shall be described in the manner appearing
+in the last deed of record, or in some other proper manner, and in addition, shall
+include information pertinent to the derivation of title.
+d. Certification by Clerk – The Clerk may, at the request of any interested
+party, certify excerpts from a decree of distribution for recording in any public
+office for recording deeds.
+Local Rule 2.9:5 Distribution Without Audit
+After confirmation of the account, the Court, on motion or petition, may decide
+that the matter does not call for reference to an auditor and may decree
+distribution substantially in conformance with the statement of proposed
+distribution filed with the account, provided such motion or petition is
+accompanied by:
+9
+1. an affidavit or verification by the accountant or one of the next of
+kin or beneficiaries stating the names and addresses of all the
+beneficiaries, and that they are all sui juris, or if not, the names
+and addresses of their fiduciaries;
+2. a statement by the attorney for the accountant that the schedule
+of distribution is correct and in accordance with law; and
+3. a proposed decree of distribution.
+Local Rule 2.10 Report by Fiduciary
+The report required by the Supreme Court Rules shall be submitted to the Court
+or to an auditor appointed by the Court, and shall include substantially the
+following:
+1. Unknown Distributee – If it appears that the identity or
+whereabouts of a distributee is unknown, or there are no known
+beneficiaries, the fiduciary shall submit a written report, sworn to
+or verified by the fiduciary or his counsel, setting forth:
+A. The nature of the investigation made to locate the
+beneficiaries or heirs of the decedent, in complete
+detail; and
+B. in cases of intestacy, a family tree, as complete as
+possible under the circumstances, supported by
+such documentary evidence as the fiduciary has
+been able to obtain.
+2. Investigation Defined – The term “investigation” as used in this
+Local Rule, shall include inquiry of or as to as many of the
+following as may be pertinent and feasible: residents of the
+household in which the decedent resided; friends and neighbors;
+labor union membership; places of employment; social fraternal,
+or beneficial organization; insurance records; church membership;
+school records; social security , Veterans’ Administration, or
+military service records; naturalization records, if not native born;
+and such other sources of information as the circumstance may
+suggest.
+3. Non-Resident Distributee – If the fiduciary requests the Court to
+withhold distribution to a non-resident distribute, the fiduciary
+shall submit a written report, sworn to or verified by the fiduciary
+or the fiduciary’s counsel, which shall set forth:
+A. the relationship of the distributee to the decedent,
+and any available information concerning the
+distributee’s present whereabouts;
+B. in cases of intestacy, a family tree, as complete as
+possible under the circumstances, supported by
+10
+such documentary evidence as the fiduciary has
+been able to obtain; and
+C. the reason for the request that distribution be
+withheld, and the suggested manner of
+withholding.
+Local Rule 2.11:1 Appointment and Duties of Official Examiners
+In the exercise of its visitorial and supervisory powers over charitable trusts the
+Court will, in its discretion, from time to time, by general rule or special order,
+direct the official examiner, or a special examiner appointed for the purpose, to
+make an examination of the assets of a designated trust and an investigation to
+determine whether the purposes of the trust are being carried out in the manner
+provided by the trust instrument; and to submit to the Court a written report
+thereon which shall follow as nearly as may be the form prescribed by theses
+Local Rules for a master’s report and shall contain specific recommendation for
+the Court’s consideration.
+Local Rule 2.11:2 Compensation of Official Examiners
+a. In General – Each estate or trust shall be liable for the compensation of
+the examiner based upon a schedule of fees fixed by the Court. In special
+circumstances, the compensation of the examiner will be fixed by special
+order of the Court.
+b. Charitable Trusts – Each charitable estate or trust shall be liable for the
+compensation of the examiner in such amount as the Court shall
+specifically fix in each case.
+RULE 3. PETITION, PRACTICE AND PLEADINGS
+Local Rule 3.1:1 Hearing Judge
+When a proceeding on a particular estate or matter has been previously heard
+by a Hearing Judge, all subsequent proceedings pertaining to the same estate or
+matter, whenever possible, shall be presented to the same Hearing Judge.
+Local Rule 3.1:2 Hearings
+Petitions and motions shall have attached thereto a proposed order of Court,
+which shall be prepared by the party presenting the petition or motion, and
+which shall include a date and time for a hearing and for the taking of testimony,
+11
+if necessary.
+RULE 5. RULES COVERING SPECIFIC TYPES OF PETITIONS
+Local Rule 5.2:1 Appraisal
+a. When Appraisal Unnecessary – Unless otherwise directed by the Court,
+no appraisal shall be required if the exemption is claimed:
+1. from personal property; or
+2. wholly or in part from real estate, if all parties in interest
+agree on the valuation.
+b. Procedure for Appraisal When Required –
+1. Upon petition the Court may appoint two (2) appraisers
+who shall, within thirty (30) days after their appointment,
+file with the Clerk an appraisal of the property claimed.
+2. Upon the filing of the appraisal with the Clerk, the
+appraisers shall also give notice thereof to the personal
+representative and to the next of kin; and, if there be
+neither personal representative nor next of kin, to the
+Attorney General.
+3. The notice shall contain a copy of the petition and the
+appraisal, and a statement that nisi confirmation of the
+appraisal will be requested and may be allowed by the
+Court at a stated date, and unless objections are filed
+thereto, the appraisal shall be confirmed thereafter by the
+Clerk without further Order of Court. Said notice shall be
+given by the petitioner not less than twenty (20) days prior
+to the date set for confirmation.
+Local Rule 5.2:2 Voluntary Distribution
+When the personal representative, at his own risk, delivers assets of the estate
+in satisfaction of the exemption, he shall set forth the same as a credit in the
+account. The same may be the subject of objection by any claimant of interested
+party.
+Local Rule 5.2:3 Conclusiveness of Averments
+If the averments of the petition are not conclusive as to the right of the
+individual to the allowance being claimed, the matter may be referred to a
+master, auditor, or to a Hearing Judge.
+12
+Local Rule 5.2:4 Appraisal. Notice. Practice and Procedure
+a. Filing of Appraisal – The appraisers shall, within thirty (30) days
+after their appointment, file with the Clerk an appraisal of the
+property claimed.
+b. Notice of Appraisal – Upon the filing of the appraisal, notice
+thereof shall be given to the personal representative and to the
+next of kin, and if there be neither personal representative nor
+the next of kin, to the Attorney General. The notice shall contain
+a copy of the petition and appraisal, and a statement that
+confirmation of the appraisal will occur on a stated date and the
+setting apart of the real estate to the individual who will be
+requesting the family exception and may be allowed by the Court
+at a stated time, and unless exceptions are filed before the date of
+confirmation. Said notice shall be given not less than twenty (20)
+days prior to the date set for confirmation. If the address or
+whereabouts of any of the next of kin is unknown, notice shall be
+given in such manner as the Court shall direct.
+c. Confirmation and Setting Apart of Allowance – Unless exceptions
+are filed, the appraisal and award of real estate shall be
+confirmed.
+d. Objections – Objections to an appraisement shall be filed with the
+Clerk before confirmation. Copies of the objection shall be served
+on the fiduciary, if any, and on the individual who will be
+requesting the family exemption or their attorney within five (5)
+days after filing. If objections are filed, the matter may be placed
+on the Argument List by praecipe for disposition.
+e. Claim for Money – If the entire claim is for money, which need
+not be appraised, claim may be made at or before the audit of the
+fiduciary’s account, provided no payment shall be made to the
+spouse until it appears that the money claimed is not required for
+payment of debts.
+Local Rule 5.4:1 Extension of Time. Contents of Petition
+A petition for the extension of time in which the surviving spouse may file an
+election to take against the Will shall comply with all existing Orphans’ Court
+Rules.
+Local Rule 5.4:2 Extension of Time. Practice and Procedure
+The petitioner shall file the petition with the Clerk and thereafter given twenty
+(20) days written notice of intention to request the extension at a stated day to
+13
+all persons adversely affected thereby who do not join in the prayer of the
+petition. In the absence of objection, upon the presentation of a Certificate of
+Service on or after said day, an appropriate decree may be entered by the Court.
+Local Rule 5.5:1 Guardians and Trustees Ad Litem. Appointment and
+Compensation
+Each estate shall be liable for the compensation of the guardian ad litem or the
+trustee ad litem based upon a schedule of fees fixed by the Court. In special
+circumstances, the compensation of the guardian ad litem or the trustee ad
+litem will be fixed by special order of the Court.
+Local Rule 5.6:1 Information Required from Counsel
+At the time of the presentation of the petition for the appointment of an
+individual guardian, for a minor’s estate, counsel shall state the following in
+court:
+1. the total amount of the assets;
+2. whether or not the minor resides in the same household with the
+proposed guardian; and
+3. whether it is proposed to deposit the share of the minor in a
+restricted account.
+Local Rule 5.6:2 Minor’s Estate. Restricted Account
+a. Waiver of Security – In lieu of the entry of security, the Court, in the
+decree appointing the guardian, may authorize the guardian to deposit
+the funds of the minor in an interest-bearing deposit insured by the
+Federal Deposit Insurance Corporation subject to the express restriction,
+to be noted on the records of the institution, that no withdrawals shall be
+made therefrom without order of Court, with a further requirement that
+the evidence of the deposit or investment, marked to indicate the
+restriction, shall be promptly exhibited to the Court.
+b. Limitation – The deposit under paragraph (1) of this Local Rule shall not
+exceed the statutory limitation as provided in Section 5103 of the
+Probate, Estates, and Fiduciaries Code (20 Pa.C.S. § 5103).
+c. Payment at Majority of Minor –
+1. The decree of the Court may contain a further provision
+that if no withdrawals are made from the account during
+minority, the institution may pay over the funds when the
+minor attains his majority, upon the joint agreement of
+the guardian and the former minor without further order
+of the Court.
+14
+2. If, upon subsequent order of the Court, withdrawals have
+been made from the account during minority, the guardian
+shall file a petition for discharge upon the minor attaining
+his majority. There shall be attached to the petition:
+A. an affidavit or verified statement in the
+nature of an account, containing items of
+administration, distribution, principal, and
+income, which shall be separately stated;
+B. an affidavit or verified statement by the
+guardian setting forth the date the minor
+attained his majority; that he has examined
+the account, that he has received the
+money, or benefit of the money, for which
+credit is taken in the account; that he
+approves the account and requests that it
+be confirmed; and that, upon distribution to
+him of the balance shown thereon, subject
+to such additional credits as may be
+authorized by law and set forth in the
+petition and order, he agrees that the
+guardian shall be discharged.
+d. Additional Assets – When the guardian has received assets in addition to
+the deposit or investment made in accordance with this Local Rule, he
+shall account as if the restricted account did not form part of the estate.
+Local Rule 5.6:3 Minor’s Estate Not Exceeding Statutory Limitation
+a. Disposition. In General – If the value of the real and personal estate of a
+minor does not exceed the statutory limitation as provided in Section
+5103 of the Probate, Estates, and Fiduciaries Code (20 Pa.C.S.A. § 5103),
+the Court may:
+1. authorize payment or delivery thereof to the minor or the
+parent or other person maintaining the minor;
+2. direct the deposit of the minor in a restricted account in
+the name of a natural guardian of the minor or of the
+minor individually; or
+3. make such provision for the retention or deposit of
+securities or other assets as the Court shall deem for the
+best interests of the minor.
+b. Mortgage or Sale of Real Property – If the value of the entire estate of a
+minor does not exceed the statutory limitation as provided in Section
+5103 of the Probate, Estates, and Fiduciaries Code (20 Pa.C.S.A. § 5103),
+the Court upon petition, may authorize the parent or other person
+maintaining the minor to convey or mortgage any real property forming a
+15
+part or all of such estate, without the appointment of a guardian or the
+entry of security. The petition shall conform to the requirements of the
+provisions governing the same or mortgage of real property by a
+guardian. The order of the Court may be conditioned upon the deposit of
+the proceeds of the sale or mortgage in a restricted account.
+Local Rule 5.6:4 Minor’s Estate. Allowances
+a. In General. Responsibility of Guardian – Expenditures from income for
+the benefit of the minor, and counsel fees in a nominal amount for
+routine services, whether payable from principal or income, should
+ordinarily be made by the guardian upon his own responsibility without
+application to the Court for approval.
+b. Permissive Petition – The guardian may petition the Court for approval of
+periodical payments from income needed for the maintenance, support,
+or education of the minor, the minor’s spouse or children.
+c. Mandatory Petition – Except as provided in paragraph (1) of this Local
+Rule, unless approval by the Court is first obtained, no payments shall be
+made by the guardian when payment is to be made from principal, or
+when special services have been performed by counsel and the guardian
+is in doubt as to the reasonableness of the fee.
+d. Contents of Petition. Allowance for Maintenance, Support, or
+Education – A petition for an allowance from a minor’s estate for the
+maintenance, support or education of the minor, the minor’s spouse or
+children, shall set forth:
+1. the manner of the guardian’s appointment and
+qualification, and the dates thereof; and the terms of the
+instrument creating the estate;
+2. the age and residence of the minor; whether the minor’s
+parents are living; the name of the person with whom the
+minor resides, and, if married, the name and age of the
+minor’s spouse and children;
+3. the value of the minor’s estate, real and personal, and the
+net annual income;
+4. the circumstances of the minor, whether employed or
+attending school; if the minor’s parents, or the person
+charged with the duty of supporting him, are living, the
+financial condition and income of such person and why
+they are not discharging their duty to support the minor;
+and whether there is adequate provision for the support
+and education of the minor, or the minor’s spouse and
+children;
+5. the date and amount of any provision previously allowed
+by the Court, and the name of the Judge who granted it;
+16
+6. the financial requirements of the minor and the minor’s
+family unit, in detail, and the circumstances making such
+allowance necessary; and
+7. if the petition is presented by someone other than the
+guardian, that demand was made upon the guardian to
+act, and the reason, if any given by him/her for his/her
+failure to do so.
+Local Rule 5.8:1 Discharge of a Fiduciary. Additional Provisions
+a. Affidavit or Verification – The affidavit or verified statement to the
+petition shall include an averment that the parties who have signed the
+consents to discharge are all interested parties in the estate, or the
+reason for the failure of any party to consent. If any party shall fail to
+consent, the Court may, if the circumstances require, direct the issuance
+of notices by citation or otherwise.
+b. Exhibits. Consent – Written consent of all interested parties, and of the
+surviving or successor fiduciary, shall be attached to the petition. Such
+consent may be included in a satisfaction of award attached to the
+petition.
+c. Discharge of a Personal Representative – When the value of the gross,
+real, and personal estate of a decedent does not exceed the value of the
+statutory limitation, the personal representative, after the expiration of
+one (1) year from the first complete advertisement of the grant of letters,
+may present a petition to the Court with an account attached under the
+provisions of Section 3531 of the Probate, Estate and Fiduciaries Code (20
+Pa.C.S.A. § 3531). The petition shall conform as far as practicable to the
+requirements of a petition under Supreme Court Orphans’ Court Rules.
+Local Rule 5.9:1 Partition. Additional Provisions
+The fiduciary selling real property in a partition proceeding shall file an account
+after the sale is completed. The Court may dispose of the matter or may appoint
+an auditor to ascertain whether there are nay liens or other encumbrances on
+such real property affecting the interests of the parties.
+RULE 9. AUDITORS AND MASTERS
+Local Rule 9.1:1 Notice of Hearings
+a. Original Hearing – Twenty (20) days notice of the time and place of the
+first hearing before the auditor or master shall be served, in writing, on
+all known heirs, devisees, unpaid legatees, and distributes, or their
+attorneys, and to all others by advertisement in one newspaper of
+17
+general circulation within the county and the Mercer County Law Journal
+once a week for three (3) consecutive weeks prior to the date of the
+hearing, unless notice be dispensed with by agreement of all interested
+parties, or by order of Court. Auditors and masters shall state in their
+report the manner and to whom notice was given.
+b. Subsequent Hearings – Notice of succeeding hearings given by the
+auditor or master, at a hearing or which prior notice has been given, shall
+constitute sufficient notice of such succeeding hearings.
+Local Rule 9.6:1 Notice of Filing Report. Preliminary Objections
+After the report is prepared, the auditor or master shall serve on the parties, or
+their attorneys, twenty (20) days written notice of the day fixed for filing the
+same and in the meantime, such parties shall be allowed access thereto. Any
+party interested may file preliminary exceptions to the report, before the day
+fixed for the filing thereof. If preliminary exceptions are filed, the auditor or
+maser shall re-examine the report and amend the report if the preliminary
+exceptions are, in whole or in part, well founded. If the report is not filed at the
+time fixed therefore in said notice, said report shall only be filed after five (5)
+days written notice is given to the parties, or their attorneys. The auditor or
+master shall certify in the report the manner and time of serving the notice
+herein required.
+Local Rule 9.7:1 Confirmation of Auditor’s Reports. Objections
+All reports of auditors shall be filed in open court at the time and ate set by the
+auditor, pursuant to these Rules. Upon the filing of the report, it shall be
+confirmed nisi, which confirmation shall be made absolutely by the Clerk without
+further order of Court, unless exceptions thereto are filed.
+Local Rule 9.7:2 Confirmation of Master’s Reports. Objections
+All report of masters shall be filed in open court at the time and date set by the
+master pursuant to these Rules. Upon the filing of the report, the Court shall
+enter a decree nisi either adopting the master’s recommendations or rejecting
+the same. A decree nisi shall be made final by the Clerk without further order of
+Court, unless exceptions thereto are filed.
+Local Rule 9.7:3 Approval of Expenses and Fees prior to Confirmation
+No auditor’s or master’s reports shall be confirmed or otherwise approved until
+such time as the Court shall have entered an order approving the amount of
+expenses to be reimbursed until and the amount of fees to be awarded until the
+18
+auditor or master. The Court may assess said expenses and fees upon any party
+in interest, as it deems fit.
+Local Rule 9.8:1 Absolute Confirmation. Auditor’s and Master’s Expenses
+and Fees
+No master’s or auditor’s repo0rt shall be confirmed by the Clerk until all
+expenses and auditor’s or master’s fees have been paid to the Clerk Upon
+confirmation, the Clerk shall pay all expenses and the balance of the auditor’s or
+master’s fee to the auditor or master, after deducting ten percent (10%) of the
+auditor’s or master’s fee to be paid to the treasurer of the Mercer County Bar
+Association.
+RULE 10. REGISTER OF WILLS
+Local Rule 10.4:1 Notice of Appeal
+Any person desiring to appeal from a judicial act or decision of the Register shall
+file a written notice thereof with the Register, specifying generally the act or
+decision complained of, accompanied by an affidavit or verification that said
+appeal is not taken for delay, but because appellant believes that injustice
+results from the act or decision which is appealed.
+Local Rule 10.4:2 Petition for Appeal
+Within thirty (30) days from the filing of the notice of appeal, the appellant shall
+present a petition to the Court which shall set forth:
+1. the nature of the proceedings before the Register;
+2. a copy of any Will in controversy;
+3. a statement of the facts and circumstances relied upon;
+4. a precise statement of the questions of law or of fact involved;
+5. the filing and approval by the Register of the security required by
+law; and
+6. the names and addresses of all interested parties.
+Local Rule 10.4:3 Certification and Citation
+a. If the averments of the petition for appeal appear to be prima facie
+sufficient, the Court shall award a citation and, if it has not been done by
+the Clerk on his/her own motion, order certification of the entire record
+of the Clerk to the Court. The citation shall be directed to all interested
+parties and shall require them to file a complete answer under oath or
+19
+verification to the averments of the petition, on or before a day certain
+which shall not be less than twenty (20) days after the service thereof,
+and to show cause as the decree of the Court shall provide.
+b. Proof of service of the citation shall be filed with the Clerk on or before
+the return date of the citation.
+Local Rule 10.4:4 Argument List and Hearing
+After the return date of the citation, any party may place the matter on the
+Argument List for the purpose of fixing a time for taking any testimony required
+to support the issue or for the argument of any legal issue raised by the
+pleadings. After the testimony has been transcribed and filed, any party may
+place the matter on the Argument List for purposes of argument.
+Local Rule 10.4:5 Grant of Jury Trial
+a. Determination by Judge – The Hearing Judge shall determine whether a
+jury trial will be granted upon any issue of fact arising upon the
+certification of appeal.
+b. Decree – If a jury trial is granted, the decree shall specify the issues to be
+tried, which may be agreed upon by the parties or as the Hearing Judge
+shall determine.
+RULE 14. INCAPACITATED PERSON’S ESTATES
+Local Rule 14.2:1 Incapacitated Person’s Estate. Proof of Service
+Proof of service of notice shall be presented at the hearing. The affidavit or
+verification of service shall, in all cases, recite that the petition and citation were
+read to the alleged incapacitated person. When the alleged incapacitated
+person is in a hospital, service may be made by a physician in charge.
+RULE 15. ADOPTIONS
+Local Rule 15.5(a):2 Preliminary Order and Decree of Adoption
+A petition for adoption shall have attached thereto:
+A. A scheduling order in conformance with the applicable statute;
+and
+B. A proposed decree of adoption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [ State Code [!] ]
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter100/chap100toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter100/chap100toc.html&d=reduce 2025-10-02
 CHAPTER 100. RULES OF CONSTRUCTION
 Rule
 
@@ -1958,7 +3258,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter200/chap200toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter200/chap200toc.html&d=reduce 2025-10-02
 CHAPTER 200. BUSINESS OF COURTS
 Rule
 
@@ -5373,7 +6673,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter400/chap400toc.html
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter400/chap400toc.html 2025-10-02
 CHAPTER 400. SERVICE OF ORIGINAL PROCESS
 SERVICE GENERALLY
 Rule
@@ -5876,7 +7176,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1900/chap1900toc.html
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1900/chap1900toc.html 2025-10-02
 CHAPTER 1900. ACTIONS PURSUANT TO THE
 PROTECTION FROM ABUSE ACT
 Rule
@@ -6826,7 +8126,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1910/chap1910toc.html
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1910/chap1910toc.html 2025-10-02
 CHAPTER 1910. ACTIONS FOR SUPPORT
 Rule
 
@@ -10942,7 +12242,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1915/chap1915toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1915/chap1915toc.html&d=reduce 2025-10-02
 CHAPTER 1915. ACTIONS FOR CUSTODY
 OF MINOR CHILDREN
 Rule
@@ -13350,7 +14650,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1930/chap1930toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1930/chap1930toc.html&d=reduce 2025-10-02
 CHAPTER 1930. RULES RELATING TO DOMESTIC
 RELATIONS MATTERS GENERALLY
 Rule
@@ -13966,7 +15266,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1940/chap1940toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1940/chap1940toc.html&d=reduce 2025-10-02
 CHAPTER 1940. VOLUNTARY MEDIATION IN
 CUSTODY ACTIONS
 Rule
@@ -14115,7 +15415,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1950/chap1950toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1950/chap1950toc.html&d=reduce 2025-10-02
 CHAPTER 1950. ACTIONS PURSUANT TO THE
 PROTECTION OF VICTIMS OF SEXUAL
 VIOLENCE OR INTIMIDATION ACT
@@ -14708,7 +16008,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter2320/chap2320toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter2320/chap2320toc.html&d=reduce 2025-10-02
 CHAPTER 2320. INTERVENTION
 Rule
 
@@ -14824,7 +16124,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter4000/chap4000toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter4000/chap4000toc.html&d=reduce 2025-10-02
 CHAPTER 4000. DEPOSITIONS AND DISCOVERY
 Rule
 
@@ -17400,7 +18700,7 @@ Rule 4.7. Electronic Filing.
 
 
 ~ Continued
-https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208a.html&continued=https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208.html&d=
+https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208a.html&continued=https://www.pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol45/45-51/2208.html&d= 2025-10-02
 [45 Pa.B. 7098]
 [Saturday, December 19, 2015]
 
@@ -18230,21 +19530,19 @@ Source
    The provisions of this Part II amended December 5, 1975, 5 Pa.B. 3133, unless otherwise noted.
 
    (Editor’s Note: Rules 1—13 and 17 are rescinded and Rules 14 and 16 are amended under Supreme Court Order No. 682, dated December 1, 2015, effective September 1, 2016. See 45 Pa.B. 7098 (December 19, 2015). This order will be codified in the September 2016 Pennsylvania Code Reporter. Supreme Court Order No. 683, dated December 1, 2015, addresses local orphans’ court rules. See 45 Pa.B. 7126 (December 19, 2015).)
-
-
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/partIItoc.html&d
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/partIItoc.html&d 2025-10-02
 
 
 Rule	
 
-~ 1—13.     [Reserved].
-~ 14—16.     [Renumbered].
-~ 17.     [Reserved].
+1—13.     [Reserved].
+14—16.     [Renumbered].
+17.     [Reserved].
 
 Chapter	
 
-~ I.    PRELIMINARY RULES
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8001/chap8001toc.html&d=
+I.    PRELIMINARY RULES
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8001/chap8001toc.html&d= 2025-10-02
 RULE 1. [Reserved]
 Rule
 
@@ -18514,7 +19812,7 @@ Source
 
 
 ~ II.    ACCOUNTS, OBJECTIONS AND DISTRIBUTIONS
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8002/chap8002toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8002/chap8002toc.html&d= 2025-10-02
 RULE 2. [Reserved]
 Rule
 
@@ -18837,7 +20135,7 @@ Source
 
 
 ~ III.    PETITION PRACTICE AND PLEADING
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8003/chap8003toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8003/chap8003toc.html&d= 2025-10-02
 RULE 3. [Reserved]
 Rule
 
@@ -19293,7 +20591,7 @@ Rule 3.15. Pleading More Than One Cause of Action; Alternative Pleadings.
 
 
 ~ IV.    FORMAT AND SERVICE OF LEGAL PAPER BY PARTIES AND COURT; ELECTRONIC FILING
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8004/chap8004toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8004/chap8004toc.html&d= 2025-10-02
 RULE 4. [Reserved]
 Rule
 
@@ -19561,7 +20859,7 @@ Rule 4.7. Electronic Filing.
 
 
 ~ V.    RULES GOVERNING SPECIFIC TYPES OF PETITIONS [ [!] rsrvd ]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8005/chap8005toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8005/chap8005toc.html&d= 2025-10-02
 RULE 5. [Reserved]
 Rule
 
@@ -20044,7 +21342,7 @@ Source
 
 
 ~ VI.    [Reserved]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8006/chap8006toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8006/chap8006toc.html&d= 2025-10-02
 RULE 6. [Reserved]
 Rule
 
@@ -20090,7 +21388,7 @@ Source
 
 
 ~ VII.    RULES RELATING TO PRE-HEARING AND HEARING PROCEDURE  [ [!] rsrvd ]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8007/chap8007toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8007/chap8007toc.html&d= 2025-10-02
 RULE 7. [Reserved]
 Rule
 
@@ -20203,7 +21501,7 @@ Source
 
 
 ~ VIII.    RECONSIDERATION  [ [!] rsrvd ]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8008/chap8008toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8008/chap8008toc.html&d= 2025-10-02
 RULE 8. [Reserved]
 Rule 8.1—8.8. [Reserved].
 
@@ -20268,7 +21566,7 @@ Source
 
 
 ~ IX.    AUDITORS AND HEARING OFFICERS [ [!] rsrvd ]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8009/chap8009toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8009/chap8009toc.html&d= 2025-10-02
 RULE 9. [Reserved]
 Rule
 
@@ -20395,7 +21693,7 @@ Source
 
 
 ~ X.    REGISTER OF WILLS  [ [!] rsrvd ]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8010/chap8010toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8010/chap8010toc.html&d= 2025-10-02
 RULE 10. [Reserved]
 Rule
 
@@ -20589,7 +21887,7 @@ Source
 
 
 ~ XI.    [Reserved]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8011/chap8011toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8011/chap8011toc.html&d= 2025-10-02
 RULE 11. [Reserved]
 Rule
 
@@ -20633,7 +21931,7 @@ Source
 
 
 ~ XII.    [Reserved]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8012/chap8012toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8012/chap8012toc.html&d= 2025-10-02
 RULE 12. [Reserved]
 Rule
 
@@ -20678,7 +21976,7 @@ Source
 
 
 ~ XIII.    [Reserved]
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8013/chap8013toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8013/chap8013toc.html&d= 2025-10-02
 RULE 13. [Reserved]
 Rule
 
@@ -20715,7 +22013,7 @@ Source
 
 
 ~ XIV.    GUARDIANSHIPS OF INCAPACITATED PERSONS
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8014/chap8014toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8014/chap8014toc.html&d= 2025-10-02
 CHAPTER XIV. GUARDIANSHIPS OF INCAPACITATED PERSONS
 Rule
 
@@ -21451,7 +22749,7 @@ Source
 
 
 ~ XV.    ADOPTIONS
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8015/chap8015toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8015/chap8015toc.html&d= 2025-10-02
 CHAPTER XV. ADOPTIONS1
 Rule
 
@@ -22440,7 +23738,7 @@ Source
 
 
 ~ XVI.    PROCEEDINGS PURSUANT TO SECTION 3206 OF THE ABORTION CONTROL ACT
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8016/chap8016toc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8016/chap8016toc.html&d= 2025-10-02
 CHAPTER XVI. PROCEEDINGS PURSUANT TO SECTION 3206 OF
 THE ABORTION CONTROL ACT
 Rule
@@ -22628,7 +23926,7 @@ Source
 
 
 ~        APPENDIX
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8017a/s8017a.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8017a/s8017a.html&d= 2025-10-02
 INDEX TO APPENDIX
 
 ORPHANS’ COURT AND REGISTER OF WILLS FORMS
@@ -22790,8 +24088,8 @@ to Identifying Information…A-05
  The provisions of this Appendix adopted October 16, 2006, effective 30 days from the date of entry of this order, 36 Pa.B. 6760; amended March 29, 2007, effective 30 days from the date of entry of this order; amended January 3, 2011, effective in sixty days, 41 Pa.B. 336; amended October 11, 2011, effective in thirty days, 41 Pa.B. 5743; amended March 19, 2013, effective April 19, 2013 for all termination and adoption petitions filed after that date, 43 Pa.B. 1836; amended August 9, 2016, effective September 1, 2016, 46 Pa.B. 5479; amended June 1, 2018, Forms G-02 through G-05 effective July 1, 2018 for all new report filings as of that date. The remainder effective June 1, 2019, 48 Pa.B. 3524; amended October 31, 2019, effective January 1, 2020, 49 Pa.B. 6804; amended July 22, 2021, effective July 1, 2022, 51 Pa.B. 4267; amended December 16, 2022, effective January 1, 2023, 52 Pa.B. 8199; amended December 18, 2024, effective immediately, 55 Pa.B. 7. Immediately preceding text appears at serial pages (409827) to (409828), (412291) to (412292), (399721) to (399762), (383193) to (383196), (396103) to (396104), (412293) to (412330), (383211) to (383214), (399763) to (399842) and (409831) to (409848).
 
 [ [!] trunucated to not include (inline) (image) forms
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8017a/s8017a.html&d=
-https://www.pacourts.us/forms/for-the-public/orphans-court-forms ]
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter8017a/s8017a.html&d=  2025-10-02
+https://www.pacourts.us/forms/for-the-public/orphans-court-forms 2025-10-02 ]
 
 
 
@@ -22835,7 +24133,7 @@ Source
 
 Note
    The Supreme Court of Pennsylvania has adopted the Rules of Juvenile Court Procedure. The Rules will secure uniformity and simplicity in procedure throughout juvenile courts in this Commonwealth.
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/subpartIAtoc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/subpartIAtoc.html&d=reduce 2025-10-02
 
 
 
@@ -22843,7 +24141,7 @@ https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/su
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter1/chap1toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter1/chap1toc.html&d=reduce 2025-10-02
 CHAPTER 1. GENERAL PROVISIONS
 Rule
 
@@ -24985,7 +26283,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter2/chap2toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter2/chap2toc.html&d=reduce 2025-10-02
 CHAPTER 2. COMMENCEMENT OF PROCEEDINGS,
 ARREST PROCEDURES, WRITTEN ALLEGATION,
 AND PRE-ADJUDICATORY DETENTION
@@ -25782,7 +27080,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter3/chap3toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter3/chap3toc.html&d=reduce 2025-10-02
 CHAPTER 3. PRE-ADJUDICATORY PROCEDURES
 PART A. VENUE
 Rule
@@ -27119,7 +28417,7 @@ Comment
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter4/chap4toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter4/chap4toc.html&d=reduce 2025-10-02
 CHAPTER 4. ADJUDICATORY HEARING
 Rule
 
@@ -27821,7 +29119,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter5/chap5toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter5/chap5toc.html&d=reduce 2025-10-02
 CHAPTER 5. DISPOSITIONAL HEARING
 PART A. SUMMONS AND NOTICE OF THE DISPOSITIONAL HEARING
 Rule
@@ -28264,7 +29562,7 @@ Rule 531. [Reserved].
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter6/chap6toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter6/chap6toc.html&d=reduce 2025-10-02
 CHAPTER 6. POST-DISPOSITIONAL PROCEDURES
 PART A. SUMMONS AND NOTICE
 Rule
@@ -28940,7 +30238,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter8/chap8toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter8/chap8toc.html&d=reduce 2025-10-02
 CHAPTER 8. SUSPENSIONS
 Rule
 
@@ -29052,7 +30350,7 @@ Chap.	Sec.
 18. SUSPENSIONS…1800    
 Source
    The provisions of this Part B adopted August 21, 2006, effective February 1, 2007, 36 Pa.B. 5571, unless otherwise noted.
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/subpartIBtoc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/subpartIBtoc.html&d=reduce 2025-10-02
 
 
 
@@ -29064,7 +30362,7 @@ https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/su
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter11/chap11toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter11/chap11toc.html&d=reduce 2025-10-02
 CHAPTER 11. GENERAL PROVISIONS
 Rule
 
@@ -30678,7 +31976,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter12/chap12toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter12/chap12toc.html&d=reduce 2025-10-02
 CHAPTER 12. COMMENCEMENT OF
 PROCEEDINGS, EMERGENCY CUSTODY, AND
 PRE-ADJUDICATORY PLACEMENT
@@ -31270,7 +32568,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter13/chap13toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter13/chap13toc.html&d=reduce 2025-10-02
 CHAPTER 13. PRE-ADJUDICATORY PROCEDURES
 PART A. VENUE
 Rule
@@ -32143,7 +33441,7 @@ Comment
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter14/chap14toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter14/chap14toc.html&d=reduce 2025-10-02
 CHAPTER 14. ADJUDICATORY HEARING
 Rule
 
@@ -32372,7 +33670,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter15/chap15toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter15/chap15toc.html&d=reduce 2025-10-02
 CHAPTER 15. DISPOSITIONAL HEARING
 PART A. SUMMONS AND NOTICE OF THE DISPOSITIONAL HEARING
 Rule
@@ -32681,7 +33979,7 @@ Rule 1516. Service of the Dispositional Order.
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter16/chap16toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter16/chap16toc.html&d=reduce 2025-10-02
 CHAPTER 16. POST-DISPOSITIONAL PROCEDURES
 PART A. SUMMONS, NOTICE, AND REPORTS
 Rule
@@ -33532,7 +34830,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter17/chap17toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter17/chap17toc.html&d=reduce 2025-10-02
 CHAPTER 17. AGGRAVATED CIRCUMSTANCES
 Rule
 
@@ -33620,7 +34918,7 @@ Comment
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter18/chap18toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter18/chap18toc.html&d=reduce 2025-10-02
 CHAPTER 18. SUSPENSIONS
 Rule
 
@@ -33711,7 +35009,7 @@ Chap.	Sec.
 201.    [Reserved and Renumbered] … 201.1   
 301.    [Reserved and Renumbered] … 301.1   
    (Editor’s Note: The Juvenile Court Judges’ Commission submitted a statement of policy at 32 Pa.B. 4037 (August 17, 2002) for the purpose of renumbering existing standards. This renumbering is in response to the establishment of the Juvenile Court Procedural Rules Committee by the Supreme Court. The Commission’s standards are moved to 37 Pa. Code Chapter 200 and Title 237 is reserved for Juvenile Court Procedural Rules.)
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/partIItoc.html&d=
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/partIItoc.html&d= 2025-10-02
 
 
 
@@ -33720,7 +35018,7 @@ https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/pa
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter101/chap101toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter101/chap101toc.html&d=reduce 2025-10-02
 CHAPTER 101. [Reserved and Renumbered]
 
 Source
@@ -33734,7 +35032,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter201/chap201toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter201/chap201toc.html&d=reduce 2025-10-02
 CHAPTER 201. [Reserved and Renumbered]
 
 Source
@@ -33750,7 +35048,7 @@ Source
 
 
 ~
-https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter301/chap301toc.html&d=reduce
+https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/237/chapter301/chap301toc.html&d=reduce 2025-10-02
 CHAPTER 301. [Reserved and Renumbered]
 
 Source
@@ -33775,3 +35073,2102 @@ Source
 
 
 [ Statute [!] ]
+
+
+
+~ TITLE 1
+https://www.palegis.us/statutes/consolidated/history?ttl_id=01
+https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=01 ~
+https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=01  2025-10-02
+TABLE OF CONTENTS
+
+ 
+
+TITLE 1
+
+GENERAL PROVISIONS
+
+ 
+
+PART I.  THE PENNSYLVANIA CONSOLIDATED
+
+STATUTES
+
+ 
+
+Chapter 1.  Short Title, Form of Citation and Effective Date
+
+ 
+
+§ 101.  Short title.
+
+§ 102.  Citation of Pennsylvania Consolidated Statutes.
+
+§ 103.  Effective date.
+
+ 
+
+Chapter 2.  (Reserved)
+
+ 
+
+Chapter 3.  Format of the Consolidated Statutes
+
+ 
+
+§ 301.  Arrangement.
+
+§ 302.  Section headings.
+
+§ 303.  Cross references between provisions of the Consolidated Statutes.
+
+§ 304.  References to other statutes.
+
+§ 305.  Re-use of section numbers.
+
+§ 306.  Bills to amend the Consolidated Statutes.
+
+ 
+
+Chapter 4.  (Reserved)
+
+ 
+
+Chapter 5.  Official Publication of the Consolidated Statutes
+
+ 
+
+§ 501.  Publication and distribution.
+
+§ 502.  Preparation and contents.
+
+§ 503.  Official status of publication.
+
+ 
+
+PART II.  (Reserved)
+
+ 
+
+PART III.  ADOPTION AND PUBLICATION OF
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS
+
+ 
+
+Chapter 9.  Constitutional Provisions
+
+ 
+
+§ 901.  Legislation to show changes.
+
+§ 902.  Conduct of election.
+
+§ 903.  Governor to proclaim result of election.
+
+§ 904.  Governor to proclaim corrected numbering.
+
+§ 905.  Section headings.
+
+§ 906.  Short titles of Constitutions of 1874 and 1968.
+
+ 
+
+Chapter 11.  Statutory Provisions
+
+ 
+
+§ 1101.  Enacting clause and unofficial provisions.
+
+§ 1102.  Publication of notice of application for local or special legislation.
+
+§ 1103.  Preparation of statutes for printing.
+
+§ 1104.  Printing of amendatory statutes.
+
+§ 1105.  Editing statutes for printing.
+
+§ 1106.  Prothonotaries to keep files of advance copies of statutes.
+
+ 
+
+PART IV.  (Reserved)
+
+ 
+
+PART V.  STATUTORY CONSTRUCTION
+
+ 
+
+Chapter 15.  General Provisions
+
+ 
+
+§ 1501.  Short title of part.
+
+§ 1502.  Application of part.
+
+§ 1503.  Applicability of colonial law.
+
+§ 1504.  Statutory remedy preferred over common law.
+
+ 
+
+Chapter 17.  Effective Date of Statutes
+
+ 
+
+§ 1701.  Statutes generally.
+
+§ 1702.  Statutes making appropriations.
+
+§ 1703.  Statutes affecting the budget of any political subdivision.
+
+§ 1704.  Statutes enacted at a special session.
+
+ 
+
+Chapter 19.  Rules of Construction
+
+ 
+
+Subchapter A.  Construction of Words and Phrases
+
+ 
+
+§ 1901.  Rules of interpretation.
+
+§ 1902.  Number; gender; tense.
+
+§ 1903.  Words and phrases.
+
+§ 1904.  Numerals.
+
+§ 1905.  Joint authority; quorum.
+
+§ 1906.  Bonds.
+
+§ 1907.  Uniform standard time.
+
+§ 1908.  Computation of time.
+
+§ 1909.  Time; publication for successive weeks.
+
+§ 1910.  Time; computation of months.
+
+ 
+
+Subchapter B.  Construction of Statutes
+
+ 
+
+§ 1921.  Legislative intent controls.
+
+§ 1922.  Presumptions in ascertaining legislative intent.
+
+§ 1923.  Grammar and punctuation of statutes.
+
+§ 1924.  Construction of titles, preambles, provisos, exceptions and headings.
+
+§ 1925.  Constitutional construction of statutes.
+
+§ 1926.  Presumption against retroactive effect.
+
+§ 1927.  Construction of uniform laws.
+
+§ 1928.  Rule of strict and liberal construction.
+
+§ 1929.  Penalties no bar to civil remedies.
+
+§ 1930.  Penalties for each offense.
+
+§ 1931.  Intent to defraud.
+
+§ 1932.  Statutes in pari materia.
+
+§ 1933.  Particular controls general.
+
+§ 1934.  Irreconcilable clauses in the same statute.
+
+§ 1935.  Irreconcilable statutes passed by same General Assembly.
+
+§ 1936.  Irreconcilable statutes passed by different General Assemblies.
+
+§ 1937.  References to statutes and regulations.
+
+§ 1938.  References to public bodies and public officers.
+
+§ 1939.  Use of comments and reports.
+
+ 
+
+Subchapter C.  Amendatory Statutes
+
+ 
+
+§ 1951.  Interpretation of amendatory statutes.
+
+§ 1952.  Effect of separate amendments on code provisions enacted by same General Assembly.
+
+§ 1953.  Construction of amendatory statutes.
+
+§ 1954.  Merger of subsequent amendments.
+
+§ 1955.  Two or more amendments to same provision, one overlooking the other.
+
+§ 1956.  Repeal of amendatory statutes and original statutes subsequently amended.
+
+§ 1957.  Ineffective provisions not revived by reenactment in amendatory statutes.
+
+ 
+
+Subchapter D.  Reenactments
+
+ 
+
+§ 1961.  Effect of reenactment on original statute.
+
+§ 1962.  Repeal and reenactment.
+
+§ 1963.  Effect of reenactment on intervening statutes.
+
+ 
+
+Subchapter E.  Repealing Statutes
+
+ 
+
+§ 1971.  Implied repeal by later statute.
+
+§ 1972.  Nonexistence of reason for statute does not effect repeal.
+
+§ 1973.  No implied repeal by nonuser.
+
+§ 1974.  Effect of separate repeals on code provisions by same General Assembly.
+
+§ 1975.  Effect of repeal on limitations.
+
+§ 1976.  Effect of repeal on rights, et cetera.
+
+§ 1977.  Repeal does not revive repealed statute.
+
+§ 1978.  Repeal as obsolete does not affect substantive rights.
+
+ 
+
+Subchapter F.  Definitions of Words and Phrases
+
+ 
+
+§ 1991.  Definitions.
+
+ 
+
+PART VI.  IMPLEMENTATION OF
+
+CONSTITUTIONAL PROVISIONS
+
+ 
+
+Chapter 23.  Implementation of Constitutional Provisions
+
+ 
+
+§ 2301.  Equality of rights based on sex.
+
+§ 2310.  Sovereign immunity reaffirmed; specific waiver.
+
+ 
+
+PART VII.  MISCELLANEOUS PROVISIONS
+
+ 
+
+Chapter 31.  Board of Commissioners on Uniform State Laws
+
+ 
+
+§ 3101.  Definitions.
+
+§ 3102.  Board established.
+
+§ 3103.  Powers and duties.
+
+ 
+
+TITLE 1
+
+GENERAL PROVISIONS
+
+ 
+
+Part
+
+I.  The Pennsylvania Consolidated Statutes
+
+II.  (Reserved)
+
+III.  Adoption and Publication of Constitutional and Statutory Provisions
+
+IV.  (Reserved)
+
+V.  Statutory Construction
+
+VI.  Implementation of Constitutional Provisions
+
+VII.  Miscellaneous Provisions
+
+ 
+
+Enactment.  Unless otherwise noted, the provisions of Title 1 were added November 25, 1970, P.L.707, No.230, effective immediately.
+
+ 
+
+ 
+
+PART I
+
+THE PENNSYLVANIA CONSOLIDATED STATUTES
+
+ 
+
+Chapter
+
+1.  Short Title, Form of Citation and Effective Date
+
+2.  (Reserved)
+
+3.  Format of the Consolidated Statutes
+
+4.  (Reserved)
+
+5.  Official Publication of the Consolidated Statutes
+
+ 
+
+Enactment.  Part I was added November 25, 1970, P.L.707, No.230, effective immediately.
+
+ 
+
+ 
+
+CHAPTER 1
+
+SHORT TITLE, FORM OF CITATION AND
+
+EFFECTIVE DATE
+
+ 
+
+Sec.
+
+101.  Short title.
+
+102.  Citation of Pennsylvania Consolidated Statutes.
+
+103.  Effective date.
+
+ 
+
+Enactment.  Chapter 1 was added November 25, 1970, P.L.707, No.230, effective immediately.
+
+§ 101.  Short title.
+
+This act shall be known and may be cited as the "Pennsylvania Consolidated Statutes."
+
+(Dec. 10, 1974, P.L.816, No.271, eff. imd.)
+
+ 
+
+1974 Amendment.  Act 271 changed the short title from "Consolidated Pennsylvania Statutes."
+
+Conforming Editorial Changes in Citations.  For authority of the Director of the Legislative Reference Bureau to editorially change the form of citations in statutes to conform to the 1974 amendment to section 101, see section 6 of act 271 of 1974 in the appendix to this title.
+
+§ 102.  Citation of Pennsylvania Consolidated Statutes.
+
+The Pennsylvania Consolidated Statutes may be cited by title and section number. Without prejudice to any other form of citation, a citation to any section of this act in the following form shall, except as provided in section 303 of this title (relating to cross references between provisions of the Consolidated Statutes), be adequate for all purposes: "1 Pa.C.S. § 102."
+
+(Dec. 10, 1974, P.L.816, No.271, eff. imd.)
+
+ 
+
+1974 Amendment.  Act 271 changed the short form of citation from "Pa.S."
+
+Conforming Editorial Changes in Citations.  For authority of the Director of the Legislative Reference Bureau to editorially change the form of citations in statutes to conform to the 1974 amendment to section 102, see section 6 of Act 271 of 1974 in the appendix to this title.
+
+Cross References.  Section 102 is referred to in sections 303, 502 of this title.
+
+§ 103.  Effective date.
+
+This act shall take effect immediately.
+
+ 
+
+ 
+
+CHAPTER 2
+
+(Reserved)
+
+ 
+
+Enactment.  Chapter 2 (Reserved) was added November 25, 1970, P.L.707, No.230, effective immediately.
+
+ 
+
+ 
+
+CHAPTER 3
+
+FORMAT OF THE CONSOLIDATED STATUTES
+
+ 
+
+Sec.
+
+301.  Arrangement.
+
+302.  Section headings.
+
+303.  Cross references between provisions of the Consolidated Statutes.
+
+304.  References to other statutes.
+
+305.  Re-use of section numbers.
+
+306.  Bills to amend the Consolidated Statutes.
+
+ 
+
+Enactment.  Chapter 3 was added November 25, 1970, P.L.707, No.230, effective immediately.
+
+Cross References.  Chapter 3 is referred to in section 1105 of this title.
+
+§ 301.  Arrangement.
+
+(a)  Titles and major subdivisions.--This act consists of titles subdivided into parts, articles, chapters and such other major subdivisions as may be required for clarity of expression and uniformity of style.
+
+(b)  Chapters.--The principal subdivisions of a part, or of a title that is not divided into parts, of this act are chapters, comprising the sections relating to the part or title, as the case may be, embraced in the heading of the chapter. Chapters of this act are identified by Arabic numerals beginning with each title.
+
+(c)  Sections and minor subdivisions.--Sections of this act are identified by Arabic numerals beginning with each title. Chapters shall consist of no more than 99 sections. The last two digits in the section numbers shall indicate the sequence of sections within a chapter, and the digit or digits preceding such digits shall indicate the number of the chapter. A section of this act is subdivided into subsections, paragraphs, subparagraphs and such other minor subdivisions as may be required for clarity of expression and uniformity of style.
+
+§ 302.  Section headings.
+
+Each section of this act shall be given a brief descriptive heading immediately preceding the body of the section. The headings of sections may be referred to as catchlines. In printing this act and its amendments the Director of the Legislative Reference Bureau shall substitute a symbol for the word "Section" preceding the digits of a section number in each catchline. Subsections may also have headings for convenience. Subsection headings shall not be set out on separate lines.
+
+§ 303.  Cross references between provisions of the Consolidated Statutes.
+
+When reference is made in this act to a provision contained in any other section or sections of the same title such provision shall be identified without specifying the number of the title in which it appears. When reference is made in this act to a provision contained in any section or sections of this act appearing in a different title the short form of citation specified in section 102 of this title (relating to citation of Pennsylvania Consolidated Statutes) shall be used. A cross reference description based on the section heading or headings of the provisions cited shall be inserted immediately following the first occurrence of the citation in the section and following any reoccurrence of the citation which is preceded in the same section or relevant part thereof by a citation to a different section of this act. Where required for clarity in the case of cross references to subsections or other parts of a section, the cross reference description shall be based on the subject matter of the subsection or other part thereof referred to.
+
+ 
+
+Cross References.  Section 303 is referred to in sections 102, 502 of this title.
+
+§ 304.  References to other statutes.
+
+(a)  Method and scope of reference.--Acts of the General Assembly shall be referred to generically in this act as statutes and, unless the context clearly indicates otherwise, such term when used in this act shall be deemed to be also a general reference to the provisions of this act.
+
+(b)  Form of citation.--Without prejudice to any other form of citation, any statute, except a provision of this act, shall be cited in this act by reference to its date of enactment, the special session number, if any, the page and act number, if any, assigned in the Laws of Pennsylvania and its statutory short title, or popular name, if any, otherwise a brief summary of its title.
+
+(Dec. 10, 1974, P.L.816, No.271, eff. imd.)
+
+ 
+
+1974 Amendment.  Act 271 amended subsec. (b).
+
+§ 305.  Re-use of section numbers.
+
+A section number shall not be re-used for a different subject, except in a bill to revise a part, article, chapter or other major subdivision of this act.
+
+§ 306.  Bills to amend the Consolidated Statutes.
+
+(a)  Conformity with requirements of chapter.--Bills to amend this act shall be drafted to conform with the structure of the Pennsylvania Consolidated Statutes, as provided in this chapter.
+
+(b)  Bureau to insure conformity of bills.--The Legislative Reference Bureau shall insure that all bills to amend this act conform with the requirement of subsection (a) of this section and other requirements established by the bureau pursuant to this section. Agencies and persons submitting requests for bills to amend this act shall allow the bureau sufficient time to make the necessary review and revision prior to final drafting of the bill by the bureau and shall, upon request or pursuant to requirements established by the bureau, submit copies or information for preparation of tables of contents, source notes and parallel tables for the use or information of the bureau, the General Assembly, governmental agencies and the public.
+
+(c)  Bureau to determine form of bill and title changes.--In drafting bills requested by members of the General Assembly or other duly authorized agencies and persons, the bureau shall determine whether the bill shall be drafted in the form of an amendment to this act or in the form of an original enactment or amendment to another statute and shall draft the bill according to such determination. The bureau shall also determine whether the number or name of a title established under this act shall be changed and whether titles shall be added or deleted. This subsection shall not authorize the bureau to refuse to draft a bill in a manner expressly insisted upon by a member of the General Assembly nor shall it be construed as prohibiting the enactment of a law the form of which is contrary to the determination or advice of the bureau.
+
+(d)  Bureau may adopt regulations and initiate amendments.--The Director of the Legislative Reference Bureau may adopt and enforce rules, regulations, instructions and forms to carry out the powers and duties of the bureau under this act or other statute and the bureau may, from time to time, upon its own initiative, draft amendments to this act for consideration by the General Assembly.
+
+(e)  Validity of law unaffected by nonconformity.--No law or any part thereof shall be invalid because it is not enacted in conformity with this title or requirements established pursuant to this section.
+
+(May 10, 1974, P.L.290, No.89, eff. imd.)
+
+ 
+
+1974 Amendment.  Act 89 lettered existing provisions as subsec. (a) and added subsecs. (b) to (e).
+
+ 
+
+ 
+
+CHAPTER 4
+
+(Reserved)
+
+ 
+
+Enactment.  Chapter 4 (Reserved) was added November 25, 1970, P.L.707, No.230, effective immediately.
+
+ 
+
+ 
+
+CHAPTER 5
+
+OFFICIAL PUBLICATION OF THE
+
+CONSOLIDATED STATUTES
+
+ 
+
+Sec.
+
+501.  Publication and distribution.
+
+502.  Preparation and contents.
+
+503.  Official status of publication.
+
+ 
+
+Enactment.  Present Chapter 5 was added June 17, 1974, P.L.330, No.107, effective immediately.
+
+Prior Provisions.  Former Chapter 5, which related to publication of laws, was added November 25, 1970, P.L.707, No.230, and repealed December 6, 1972, P.L.1339, No.290, effective immediately. The subject matter is now contained in section 1104 of this title.
+
+Cross References.  Chapter 5 is referred to in section 1105 of this title.
+
+§ 501.  Publication and distribution.
+
+(a)  General rule.--The Legislative Reference Bureau may compile, edit, publish, print, supplement and revise or contract directly or through the Legislative Printing Clerk for the compilation, editing, publishing, printing, supplementation or revision of an official publication of the Pennsylvania Consolidated Statutes and amendments thereto. It shall be the duty of the Department of Property and Supplies, upon request of the bureau, to arrange for the prompt distribution of the official publication and the supplements thereto and revisions thereof in accordance with the provisions of this chapter. This publication shall be in addition to the publication of advance copies of statutes and the Laws of Pennsylvania except that the bureau, when authorized by concurrent resolution of the General Assembly, may reduce the number of such statutes and laws published and printed and provide for the manner of their distribution and a fee to be charged for certain distributions.
+
+(b)  Sale and distribution.--The prices to be charged for individual copies of and subscriptions to the official publication, the supplements thereto and revisions thereof, for reprints and bound volumes thereof, which prices may be fixed without reference to the restrictions placed upon and fixed for the sale of other publications of the Commonwealth, and the number of copies which shall be distributed free for official use shall be established by the bureau. Without limiting the generality of the foregoing, the bureau may provide for the free reciprocal exchange of publications between this Commonwealth and other states and foreign jurisdictions and for the free distribution of at least one copy of every publication printed under authority of this chapter to each:
+
+(1)  County for the use of its law library.
+
+(2)  Member of the General Assembly at the post office address specified by him.
+
+(3)  Law school library which pursuant to rules of court receives copies of printed briefs and records filed in the Supreme Court of Pennsylvania.
+
+(c)  Payments and disposition of moneys.--Payments for documents published by authority of this chapter shall be made to the Department of Property and Supplies which shall pay the same into the State Treasury to the credit of the General Fund. Such moneys are hereby appropriated from the General Fund to the Legislative Reference Bureau to carry out the provisions of this chapter.
+
+ 
+
+Prior Provisions.  Former section 501, which related to publication of amendments to the Consolidated Statutes, was added November 25, 1970, P.L.707, No.230, and repealed December 6, 1972, P.L.1339, No.290, effective immediately. The subject matter is now contained in section 1104 of this title.
+
+References in Text.  The Department of Property and Supplies, referred to in section 501(a) and (c), is now the Department of General Services. Section 21(a) of the act of July 22, 1975, P.L.75, No.45 provided that statutory reference to the Department of Property and Supplies shall be deemed to be a reference to the Department of General Services.
+
+Suspension of Inconsistent Laws.  See section 5 of Act 107 of 1974 in the appendix to this title for provisions relating to suspension of laws inconsistent with a concurrent resolution adopted pursuant to section 501.
+
+Cross References.  Section 501 is referred to in section 502 of this title.
+
+§ 502.  Preparation and contents.
+
+(a)  General rule.--In compiling and editing the Pennsylvania Consolidated Statutes and amendments thereto for publication, the bureau may:
+
+(1)  Omit provisions of the amendatory acts which do not become a part of the structure of this act or which do not constitute part of the law as provided in section 1101(b) of this title (relating to enacting clause and unofficial provisions).
+
+(2)  Include the provisions or a summary of the provisions referred to in paragraph (1) of this subsection in a footnote, appendix, table or other form at such a place and in such a manner as it deems appropriate but any unofficial provisions so included shall not constitute part of the law.
+
+(3)  Include tables of contents, summary analyses, source notes, parallel tables, indexes, cross references to statutes and regulations, and such other provisions, whether or not contained in this act or in any amendment or amendments to this act, as the bureau deems appropriate but any unofficial provisions so included shall not constitute part of the law.
+
+(4)  Include the Constitution of Pennsylvania and proposed amendments thereto as well as selected general and permanent laws and amendments thereto.
+
+(5)  Establish a form of citation of such publication or any part thereof which may be used for the purpose of drafting amendments to this act and for other purposes not inconsistent with the provisions of section 102 of this title (relating to citation of Pennsylvania Consolidated Statutes) and section 303 of this title (relating to cross references between provisions of the Consolidated Statutes).
+
+(b)  Approvals by legislative officers.--The President pro tempore of the Senate and the Speaker of the House of Representatives shall approve:
+
+(1)  The form and contents of the publication prepared by the bureau.
+
+(2)  All contracts entered into by the bureau or the Legislative Printing Clerk pursuant to section 501(a) of this title (relating to publication and distribution).
+
+(3)  All regulations and decisions of the bureau relating to the distribution of the publication and the prices to be charged for such publications pursuant to section 501(b) of this title (relating to publication and distribution).
+
+ 
+
+Cross References.  Section 502 is referred to in sections 503, 1105 of this title.
+
+§ 503.  Official status of publication.
+
+The publication prepared by the bureau pursuant to this chapter shall constitute an official publication of the Pennsylvania Consolidated Statutes and shall be legal evidence of the laws contained therein including the Constitution and laws incorporated therein pursuant to section 502(a)(4) of this title (relating to preparation and contents).
+
+ 
+
+ 
+
+PART II
+
+(Reserved)
+
+ 
+
+Enactment.  Part II (Reserved) was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+ 
+
+ 
+
+PART III
+
+ADOPTION AND PUBLICATION OF CONSTITUTIONAL
+
+AND STATUTORY PROVISIONS
+
+ 
+
+Chapter
+
+9.  Constitutional Provisions
+
+11.  Statutory Provisions
+
+ 
+
+Enactment.  Part III was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+ 
+
+ 
+
+CHAPTER 9
+
+CONSTITUTIONAL PROVISIONS
+
+ 
+
+Sec.
+
+901.  Legislation to show changes.
+
+902.  Conduct of election.
+
+903.  Governor to proclaim result of election.
+
+904.  Governor to proclaim corrected numbering.
+
+905.  Section headings.
+
+906.  Short titles of Constitutions of 1874 and 1968.
+
+ 
+
+Enactment.  Chapter 9 was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+§ 901.  Legislation to show changes.
+
+Bills or joint resolutions introduced in the General Assembly proposing amendments to the Constitution of Pennsylvania shall be printed in such a manner as to indicate the words to be added to or deleted from the Constitution.
+
+§ 902.  Conduct of election.
+
+The manner in which proposed amendments to the Constitution of Pennsylvania shall be submitted to the qualified electors of the Commonwealth and the manner and effect of the certification of the returns of the election thereon shall, unless the General Assembly shall prescribe otherwise with respect to any particular proposed amendment, be as provided in the Pennsylvania Election Code.
+
+§ 903.  Governor to proclaim result of election.
+
+The officer of this Commonwealth to whom election returns are required by law to be certified shall, whenever a proposed amendment to the Constitution of Pennsylvania has been on the ballot at any election, certify the result of the election thereon to the Governor immediately upon receiving the official returns from all counties of the Commonwealth, and the Governor shall thereupon issue his proclamation indicating whether or not the proposed amendment has been adopted by a majority of the electors voting thereon. The proclamation shall be published in the next available volume of the Laws of Pennsylvania.
+
+§ 904.  Governor to proclaim corrected numbering.
+
+Whenever an amendment of an article or of a section of the Constitution of Pennsylvania is adopted without specifying an article or section number, or whenever any amendment is adopted bearing a number which conflicts with the number of another article or section of the Constitution, the Governor may by proclamation specify a number for the article or section having no number, or change the number of any article or section which bears a number which conflicts with the number of another article or section of the Constitution, or renumber the articles of the Constitution or the sections of an article. The proclamation shall be published in the next available volume of the Laws of Pennsylvania.
+
+§ 905.  Section headings.
+
+The Director of the Legislative Reference Bureau, with the approval of the Department of Justice, shall prepare and promulgate an appropriate heading for any section of the Constitution of Pennsylvania which was heretofore or may hereafter be adopted without a section heading. Any section heading promulgated pursuant to this section shall be published in the next available volume of the Laws of Pennsylvania.
+
+ 
+
+References in Text.  The Department of Justice, referred to in this section, was reorganized into the Office of Attorney General by the act of October 15, 1980 (P.L.950, No.164).
+
+§ 906.  Short titles of Constitutions of 1874 and 1968.
+
+(a)  Constitution of 1874.--The Constitution of Pennsylvania, as adopted by referendum of December 16, 1873, shall be known and may be cited as the "Constitution of 1874."
+
+(b)  Constitution of 1968.--The Constitution of Pennsylvania, as amended by referenda of May 17, 1966, November 8, 1966, May 16, 1967 and April 23, 1968 and as numbered by proclamation of the Governor of this Commonwealth of July 7, 1967 pursuant to the act of August 17, 1965 (P.L.345, No.180), shall be known and may be cited as the "Constitution of 1968."
+
+ 
+
+ 
+
+CHAPTER 11
+
+STATUTORY PROVISIONS
+
+ 
+
+Sec.
+
+1101.  Enacting clause and unofficial provisions.
+
+1102.  Publication of notice of application for local or     special legislation.
+
+1103.  Preparation of statutes for printing.
+
+1104.  Printing of amendatory statutes.
+
+1105.  Editing statutes for printing.
+
+1106.  Prothonotaries to keep files of advance copies of     statutes.
+
+ 
+
+Enactment.  Chapter 11 was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+§ 1101.  Enacting clause and unofficial provisions.
+
+(a)  Style and position of enacting clause.--All statutes shall begin in the following style: "The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:". Such enacting clause shall be placed immediately after the preamble or the table of contents of the statute, or if there be neither preamble nor table of contents, then immediately after the title.
+
+(b)  Enumeration and use of unofficial provisions.--Preambles, tables of contents, summary analyses, major subdivision headings, section and minor subdivision headings, cross reference descriptions, source notes and parallel tables shall not constitute part of the law and the Legislative Reference Bureau may, in its discretion, either include or omit such provisions in bills drafted by the bureau including bills prepared initially by agencies or persons other than the bureau.
+
+(c)  Amendment of unofficial provisions.--Notwithstanding any provision of this act or other statute to the contrary, in amending a bill or a statute it shall not be necessary to amend or delete any provision which does not constitute part of the law contained in the bill or statute which may be affected by such an amendment nor shall it be necessary to add any such provision to conform to such an amendment.
+
+(June 17, 1974, P.L.330, No.107, eff. imd.; Dec. 10, 1974, P.L.816, No.271, eff. imd.)
+
+ 
+
+1974 Amendments.  Act 107 amended the entire section and Act 271 amended subsec. (b).
+
+Cross References.  Section 1101 is referred to in sections 502, 1105 of this title.
+
+§ 1102.  Publication of notice of application for local or special legislation.
+
+(a)  General rule.--No local or special bill to enact a local or special statute shall be passed by the General Assembly, unless notice of the intention to apply therefor shall be published, once a week for four successive weeks, in not less than two newspapers of general circulation, and also in the legal journal, if any, published in the county or in each of the several counties where the matter or thing affected may be. Where the matter or thing affected is in a municipality, publication shall be made in two newspapers of general circulation published in such municipality, if any, and, if none, then in two newspapers published in the county, and, in either event, also in the legal journal, if any, published in the county. Where only one newspaper of general circulation is published in a county or in a municipality, publication in such one newspaper and in the legal journal, if any, shall be deemed sufficient.
+
+(b)  Time of first publication.--The first publication shall be at least 30 days prior to, and within three months immediately preceding, the introduction of the bill into the General Assembly.
+
+(c)  Content and signing of notice.--The notice shall set forth the full title and the purposes of the bill, and shall be signed by one of the parties applying therefor.
+
+(d)  Filing proof of publication.--Proof of publication in each newspaper and legal journal, verified by affidavit, shall be filed with the bill when it is introduced.
+
+(e)  Exception from notice requirement.--Notice shall not be required to be given under this section of a proposal to repeal a local or special statute by any of the following:
+
+(1)  A general bill which codifies, compiles or revises the law or any part thereof.
+
+(2)  A bill which:
+
+(i)  only eliminates obsolete statutory provisions; and
+
+(ii)  makes specific reference in its title to that elimination.
+
+(Oct. 30, 2001, P.L.815, No.79, eff. imd.)
+
+ 
+
+2001 Amendment.  Act 79 amended subsecs. (a) and (e).
+
+§ 1103.  Preparation of statutes for printing.
+
+The Director of the Legislative Reference Bureau shall, as soon as any bill becomes a law, prepare the same for printing, cause the same to be printed immediately, and collate with and correct the proof sheets by the original rolls. He shall also have the statutes printed and indexed in book form as the Laws of Pennsylvania as early as possible succeeding each regular session of the General Assembly, for distribution in accordance with law.
+
+ 
+
+Cross References.  Section 1103 is referred to in section 702 of Title 44 (Law and Justice).
+
+§ 1104.  Printing of amendatory statutes.
+
+(a)  General rule.--The Director of the Legislative Reference Bureau shall, in printing amendatory statutes, cause to be printed the section or part of the statute only as reenacted. Except as provided in subsection (b) of this section, in the section or part of the law reenacted, the Director shall cause to be printed between brackets, the words, phrases, or provisions of the existing statute, if any, which have been stricken out or eliminated by the adoption of the amendment, and he shall cause to be printed in italics or with underscoring all new words, phrases or provisions, if any, which have been inserted into or added to the statute by the passage of such amendment.
+
+(b)  Pennsylvania Consolidated Statutes.--In printing as much of any statute as adds an entire title, part, article, chapter, subchapter or other major subdivision to the Pennsylvania Consolidated Statutes, the Director shall cause such addition to be printed in Roman type without underscoring, and in printing as much of any statute as deletes or repeals an entire title, part, article, chapter, subchapter or other major subdivision of the Pennsylvania Consolidated Statutes, the Director shall not cause to be printed the provisions which have been deleted or repealed unless the deletion or repeal was effected by the use of brackets.
+
+(June 17, 1974, P.L.330, No.107, eff. imd.)
+
+ 
+
+1974 Amendment.  Act 107 amended subsec. (b).
+
+§ 1105.  Editing statutes for printing.
+
+(a)  Correction of errors.--Where any statute shall have been finally enacted and it shall be ascertained that such statute is technically defective in form, or contains misspelled words or typographical errors, or the plural or singular number, or the past, present or future tense appears where another should be used, or where a word clearly intended to be inserted has been omitted, or where a word clearly should have been omitted, or where a word is correctly spelled but it clearly appears that another word was intended, the Director of the Legislative Reference Bureau, in editing such statute, shall have authority, with the approval of the President pro tempore of the Senate, the Speaker of the House of Representatives, and the Department of Justice, to correct the original copy of such statute, as filed in the Department of State, if such correction will not in any manner affect or change the meaning, intent or substance of such statute.
+
+(b)  Notation of correction.--Whenever any such correction on any statute is made, a notation thereof shall be made on the original copy or on a sheet attached to the original copy by the Director of the Legislative Reference Bureau, together with his signature, followed by the approval and signatures of the President pro tempore of the Senate, the Speaker of the House of Representatives and the Attorney General or his deputy. A notation of such corrections shall also be printed in the Laws of Pennsylvania as footnotes to the statutes on which the corrections were made.
+
+(c)  Unofficial provisions of statutes.--The Director of the Legislative Reference Bureau, in editing and preparing statutes for printing, shall have authority to add to the statute provisions which do not constitute part of the law as provided in section 1101 of this title (relating to enacting clause and unofficial provisions) and to correct or omit such provisions contained in the statute. In making such changes it shall not be necessary to obtain the approvals or to make the notations required under subsections (a) and (b) of this section.
+
+(d)  Changes in form and style.--The Director of the Legislative Reference Bureau, in editing and preparing statutes for printing in the Laws of Pennsylvania or pursuant to Chapter 5 of this title (relating to official publication of the Consolidated Statutes), may, in a manner that will not affect or change the meaning, intent or substance of such statute and, unless otherwise provided in this subsection, without obtaining the approvals or making the notations required under subsections (a) and (b) of this section:
+
+(1)  Renumber major subdivisions, sections and minor subdivisions to eliminate duplicate numbers.
+
+(2)  With approvals required under subsection (a) of this section, rearrange or transfer major subdivisions, sections and minor subdivisions to conform to requirements established pursuant to Chapter 3 of this title (relating to format of the Consolidated Statutes).
+
+(3)  Insert or change instructions and references in sections of amendatory statutes to conform to the provisions amended or affected.
+
+(4)  Insert or change reference numbers and the form of citations or references to Federal or State constitutions, statutes or regulations to conform to renumbered or revised provisions or to requirements established pursuant to Chapter 3 of this title.
+
+(5)  Substitute the proper major subdivision, section or minor subdivision number and related references for the terms "this act," "the preceding section," and the like.
+
+(6)  Strike out or insert figures and symbols where they are merely a repetition of or have the same meaning as written words and vice-versa.
+
+(7)  Change capitalization for the purpose of uniformity or style.
+
+(8)  Insert a symbol for the word "section" and vice-versa.
+
+(e)  Constitutional provisions.--The Director of the Legislative Reference Bureau, in editing and preparing the Constitution of Pennsylvania and its amendments for printing in the Laws of Pennsylvania or pursuant to Chapter 5 of this title (relating to official publication of the Consolidated Statutes), may make corrections and changes under this section and section 502(a) of this title (relating to preparation and contents) in the same manner and subject to the same requirements applicable to statutes.
+
+(June 17, 1974, P.L.330, No.107, eff. imd.; Dec. 10, 1974, P.L.816, No.271, eff. imd.)
+
+ 
+
+1974 Amendments.  Act 107 amended subsecs. (a) and (b) and added subsec. (c) and Act 271 amended the section heading and subsecs. (a) and (b) and added subsecs. (d) and (e).
+
+Conforming Editorial Changes in Citations.  For authority of the Director of the Legislative Reference Bureau to editorially change the form of citations in statutes to conform to the 1974 amendment to section 1105, see section 6 of Act 271 of 1974 in the appendix to this title. See also section 6 of Act 107 of 1974 in the appendix to this title for special provisions relating to editing statutes for printing.
+
+References in Text.  The Department of Justice, referred to in subsec. (a), was reorganized into the Office of Attorney General by the act of October 15, 1980 (P.L.950, No.164).
+
+Cross References.  Section 1105 is referred to in section 702 of Title 44 (Law and Justice).
+
+§ 1106.  Prothonotaries to keep files of advance copies of statutes.
+
+The prothonotaries of the several counties shall file and keep in their offices, in such manner that they shall be accessible to the public during the office hours of the prothonotaries, advance copies of the statutes enacted at each session of the General Assembly, as such advance copies are furnished to them in accordance with law, until the statutes of such session as printed in the Laws of Pennsylvania are generally available.
+
+ 
+
+ 
+
+PART IV
+
+(Reserved)
+
+ 
+
+Enactment.  Part IV (Reserved) was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+ 
+
+ 
+
+PART V
+
+STATUTORY CONSTRUCTION
+
+ 
+
+Chapter
+
+15.  General Provisions
+
+17.  Effective Date of Statutes
+
+19.  Rules of Construction
+
+ 
+
+Enactment.  Part V was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+ 
+
+ 
+
+CHAPTER 15
+
+GENERAL PROVISIONS
+
+ 
+
+Sec.
+
+1501.  Short title of part.
+
+1502.  Application of part.
+
+1503.  Applicability of colonial law.
+
+1504.  Statutory remedy preferred over common law.
+
+ 
+
+Enactment.  Chapter 15 was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+§ 1501.  Short title of part.
+
+This part shall be known and may be cited as the "Statutory Construction Act of 1972."
+
+§ 1502.  Application of part.
+
+(a)  Direct application.--
+
+(1)  Except as otherwise provided in this part, the provisions of this part shall apply to the following unless the General Assembly or the agency adopting the document shall provide otherwise:
+
+(i)  Every statute finally enacted on or after September 1, 1937.
+
+(ii)  Every document codified in the Pennsylvania Code except legislative, judicial and home rule charter documents.
+
+(2)  The provisions of this chapter and of Chapter 17 of this title (relating to effective date of statutes) shall apply to every statute enacted by the General Assembly, whether under the authority of the Commonwealth or of the late Proprietaries of the Province of Pennsylvania.
+
+(b)  Other applications.--The provisions of this part shall apply to any public document to the extent such document refers to and incorporates therein the provisions of this part. The provisions of this part other than this chapter and Chapter 17 of this title (relating to effective date of statutes) shall apply to statutes finally enacted before September 1, 1937 to the extent that this part substantially reenacts or restates rules of construction enacted or in force prior to such date.
+
+§ 1503.  Applicability of colonial law.
+
+(a)  English law.--The common law and such of the statutes of England as were in force in the Province of Pennsylvania on May 14, 1776 and which were properly adapted to the circumstances of the inhabitants of this Commonwealth shall be deemed to have been in force in this Commonwealth from and after February 10, 1777.
+
+(b)  Provincial statutes.--The statutes enacted on or before May 14, 1776 under the authority of the late Proprietaries of the Province of Pennsylvania have the same validity and effect as statutes enacted under the authority of this Commonwealth.
+
+(c)  Exceptions.--The rules specified in subsections (a) and (b) of this section shall not be applicable to any statute or law which:
+
+(1)  has been heretofore or is hereafter amended or repealed or which has expired by its own limitation;
+
+(2)  orders the taking or subscribing any oath, affirmation or declaration of allegiance or fidelity to the British crown;
+
+(3)  acknowledges any authority in the heirs or devisees of William Penn, Esq., deceased, the former Governor of the Province of Pennsylvania, or any other person whomsoever as Governor of the Province of Pennsylvania; or
+
+(4)  is repugnant to the Constitution of this Commonwealth or of the United States.
+
+§ 1504.  Statutory remedy preferred over common law.
+
+In all cases where a remedy is provided or a duty is enjoined or anything is directed to be done by any statute, the directions of the statute shall be strictly pursued, and no penalty shall be inflicted, or anything done agreeably to the common law, in such cases, further than shall be necessary for carrying such statute into effect.
+
+ 
+
+Cross References.  Section 1504 is referred to in sections 708, 7541 of Title 42 (Judiciary and Judicial Procedure).
+
+ 
+
+ 
+
+CHAPTER 17
+
+EFFECTIVE DATE OF STATUTES
+
+ 
+
+Sec.
+
+1701.  Statutes generally.
+
+1702.  Statutes making appropriations.
+
+1703.  Statutes affecting the budget of any political subdivision.
+
+1704.  Statutes enacted at a special session.
+
+ 
+
+Enactment.  Chapter 17 was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+Cross References.  Chapter 17 is referred to in section 1502 of this title.
+
+§ 1701.  Statutes generally.
+
+(a)  General rule.--Except as otherwise provided in this chapter all statutes enacted finally at any regular session of the General Assembly not containing a specified effective date shall be effective on the date specified by that one of the following rules of construction in effect on the date of final enactment of the statute:
+
+(1)  Final enactment before May 18, 1929.--immediately upon final enactment.
+
+(2)  Final enactment on or after May 18, 1929 and before August 25, 1951.--on the first day of September next following their final enactment.
+
+(3)  Final enactment on or after August 25, 1951 and before January 10, 1960.--on the first day of September next following their final enactment, or if finally enacted after the first day of September of the year of the regular session, immediately upon final enactment.
+
+(4)  Final enactment on or after January 10, 1960 and before June 6, 1969.--on the first day of September next following their final enactment, or if finally enacted after the first day of July of the year of the regular session, 60 days after final enactment.
+
+(5)  Final enactment on or after June 6, 1969.--60 days after final enactment.
+
+(b)  Statutes enacted after effective date therein specified.--Except as otherwise provided in this chapter all statutes enacted finally at any regular session of the General Assembly after the effective date therein specified shall be effective on the date specified by that one of the following rules of construction in effect on the date of final enactment of the statute:
+
+(1)  Final enactment before January 10, 1960.-- immediately upon final enactment.
+
+(2)  Final enactment on or after January 10, 1960.--60 days after final enactment.
+
+§ 1702.  Statutes making appropriations.
+
+Appropriation statutes, or statutes having appropriation items enacted finally at any regular session of the General Assembly, shall be effective on the date specified by that one of the following rules of construction in effect on the date of final enactment of the statute:
+
+(1)  Final enactment before May 18, 1929.--immediately upon final enactment unless a different date is specified in the statute itself.
+
+(2)  Final enactment on or after May 18, 1929 and before June 2, 1967.--on the first day of June next following their final enactment, unless a different date is specified in the statute itself, or unless any such statute is enacted finally after the first day of June in any year, in which case it shall be effective immediately upon final enactment.
+
+(3)  Final enactment on or after June 2, 1967 and before June 6, 1969.--on the first day of July next following their final enactment, unless a different date is specified in the statute itself, or unless any such statute is enacted finally after the first day of July in any year, in which case it shall be effective immediately upon final enactment.
+
+(4)  Final enactment on or after June 6, 1969.--on the first day of July next following their final enactment, unless a different date is specified in the statute itself, or unless any such statute is enacted finally after the first day of July in any year, or after the date specified in the statute, in which case it shall be effective immediately upon final enactment.
+
+§ 1703.  Statutes affecting the budget of any political subdivision.
+
+Statutes affecting the budget of any political subdivision enacted finally at any regular session of the General Assembly shall be effective on the date specified by that one of the following rules of construction in effect on the date of final enactment of the statute:
+
+(1)  Final enactment before May 18, 1929.--immediately upon final enactment unless a different date is specified in the statute itself.
+
+(2)  Final enactment on or after May 18, 1929 and before June 4, 1941.--on the first day of September next following their final enactment unless a different date is specified in the statute itself.
+
+(3)  Final enactment on or after June 4, 1941 and before August 25, 1951 or on or after May 28, 1953 and before June 6, 1969.--at the beginning of the fiscal year of the political subdivision affected following the date of final enactment of the statute unless a different date is specified in the statute itself.
+
+(4)  Final enactment on or after August 25, 1951 and before May 28, 1953.--at the beginning of the fiscal year of the political subdivision affected following the date of final enactment of the statute unless a different date is specified in the statute itself, or if enacted finally after the beginning of such fiscal year, or after the date specified in the statute, immediately upon final enactment.
+
+(5)  Final enactment on or after June 6, 1969.--on the date specified in the statute, or if finally enacted thereafter, or if no date is specified, then at the beginning of the fiscal year of the political subdivision affected following the date of final enactment of the statute.
+
+§ 1704.  Statutes enacted at a special session.
+
+(a)  General rule.--Statutes enacted finally at a special or extraordinary session of the General Assembly shall, except as otherwise provided in this section, be governed as to the time when they shall be effective by the rules of construction specified in this chapter for statutes enacted finally at regular sessions of the General Assembly.
+
+(b)  Rules applicable between 1935 and 1969.--Statutes enacted finally at special or extraordinary sessions of the General Assembly during the periods hereinafter specified shall be effective on the date specified by that one of the following rules of construction in effect on the date of final enactment of the statute:
+
+(1)  Final enactment on or after June 11, 1935 and before January 10, 1960.--immediately upon final enactment unless a different date is specified in the statute itself.
+
+(2)  Final enactment on or after January 10, 1960 and before June 6, 1969.--60 days after final enactment unless a different date is specified in the statute itself.
+
+ 
+
+ 
+
+CHAPTER 19
+
+RULES OF CONSTRUCTION
+
+ 
+
+Subchapter
+
+A.  Construction of Words and Phrases
+
+B.  Construction of Statutes
+
+C.  Amendatory Statutes
+
+D.  Reenactments
+
+E.  Repealing Statutes
+
+F.  Definitions of Words and Phrases
+
+ 
+
+Enactment.  Chapter 19 was added December 6, 1972, P.L.1339, No.290, effective immediately.
+
+ 
+
+ 
+
+SUBCHAPTER A
+
+CONSTRUCTION OF WORDS AND PHRASES
+
+ 
+
+Sec.
+
+1901.  Rules of interpretation.
+
+1902.  Number; gender; tense.
+
+1903.  Words and phrases.
+
+1904.  Numerals.
+
+1905.  Joint authority; quorum.
+
+1906.  Bonds.
+
+1907.  Uniform standard time.
+
+1908.  Computation of time.
+
+1909.  Time; publication for successive weeks.
+
+1910.  Time; computation of months.
+
+§ 1901.  Rules of interpretation.
+
+In the construction of the statutes of this Commonwealth, the rules set forth in this chapter shall be observed, unless the application of such rules would result in a construction inconsistent with the manifest intent of the General Assembly.
+
+§ 1902.  Number; gender; tense.
+
+The singular shall include the plural, and the plural, the singular. Words used in the masculine gender shall include the feminine and neuter. Words used in the past or present tense shall include the future.
+
+§ 1903.  Words and phrases.
+
+(a)  General rule.--Words and phrases shall be construed according to rules of grammar and according to their common and approved usage; but technical words and phrases and such others as have acquired a peculiar and appropriate meaning or are defined in this part, shall be construed according to such peculiar and appropriate meaning or definition.
+
+(b)  General restricted by particular words.--General words shall be construed to take their meanings and be restricted by preceding particular words.
+
+§ 1904.  Numerals.
+
+The Roman numerals and the Arabic numerals shall be deemed parts of the English language.
+
+§ 1905.  Joint authority; quorum.
+
+(a)  Joint authority.--Words in a statute conferring a joint authority upon three or more public officers or other persons shall be construed to confer authority upon a majority of such officers or persons.
+
+(b)  Quorum.--A majority of any board or commission shall constitute a quorum.
+
+§ 1906.  Bonds.
+
+A statute requiring a bond or undertaking with sureties to be given by any person, shall be construed to permit in lieu thereof a bond of indemnity or surety bond for the amount of such bond or undertaking, given by any indemnity or surety company authorized to do business in this Commonwealth, and approved by the proper authority.
+
+§ 1907.  Uniform standard time.
+
+Every mention of, or reference to any hour or time in any statute, shall be construed with reference to and in accordance with the mean solar time of the 75th meridian of longitude west of Greenwich, commonly called eastern standard time, unless a different standard is therein expressly provided for, or unless the standard time shall be advanced for any portion of the year, by any act of Congress.
+
+§ 1908.  Computation of time.
+
+When any period of time is referred to in any statute, such period in all cases, except as otherwise provided in section 1909 of this title (relating to publication for successive weeks) and section 1910 of this title (relating to computation of months) shall be so computed as to exclude the first and include the last day of such period. Whenever the last day of any such period shall fall on Saturday or Sunday, or on any day made a legal holiday by the laws of this Commonwealth or of the United States, such day shall be omitted from the computation.
+
+ 
+
+Cross References.  Section 1908 is referred to in section 3508 of Title 25 (Elections).
+
+§ 1909.  Time; publication for successive weeks.
+
+Whenever in any statute providing for the publishing of notices, the phrase "successive weeks" is used, weeks shall be construed as calendar weeks. The publication upon any day of such weeks shall be sufficient publication for that week, but at least five days shall elapse between each publication. At least the number of weeks specified in "successive weeks" shall elapse between the first publication and the day for the happening of the event for which publication shall be made.
+
+ 
+
+Cross References.  Section 1909 is referred to in section 1908 of this title; section 3133 of Title 15 (Corporations and Unincorporated Associations).
+
+§ 1910.  Time; computation of months.
+
+Whenever in any statute the lapse of a number of months after or before a certain day is required, such number of months shall be computed by counting the months from such day, excluding the calendar month in which such day occurs, and shall include the day of the month in the last month so counted having the same numerical order as the day of the month from which the computation is made, unless there be not so many days in the last month so counted, in which case the period computed shall expire with the last day of such month.
+
+ 
+
+Cross References.  Section 1910 is referred to in section 1908 of this title.
+
+ 
+
+ 
+
+SUBCHAPTER B
+
+CONSTRUCTION OF STATUTES
+
+ 
+
+Sec.
+
+1921.  Legislative intent controls.
+
+1922.  Presumptions in ascertaining legislative intent.
+
+1923.  Grammar and punctuation of statutes.
+
+1924.  Construction of titles, preambles, provisos, exceptions and headings.
+
+1925.  Constitutional construction of statutes.
+
+1926.  Presumption against retroactive effect.
+
+1927.  Construction of uniform laws.
+
+1928.  Rule of strict and liberal construction.
+
+1929.  Penalties no bar to civil remedies.
+
+1930.  Penalties for each offense.
+
+1931.  Intent to defraud.
+
+1932.  Statutes in pari materia.
+
+1933.  Particular controls general.
+
+1934.  Irreconcilable clauses in the same statute.
+
+1935.  Irreconcilable statutes passed by same General Assembly.
+
+1936.  Irreconcilable statutes passed by different General Assemblies.
+
+1937.  References to statutes and regulations.
+
+1938.  References to public bodies and public officers.
+
+1939.  Use of comments and reports.
+
+§ 1921.  Legislative intent controls.
+
+(a)  Object and scope of construction of statutes.--The object of all interpretation and construction of statutes is to ascertain and effectuate the intention of the General Assembly. Every statute shall be construed, if possible, to give effect to all its provisions.
+
+(b)  Unambiguous words control construction.--When the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.
+
+(c)  Matters considered in ascertaining intent.--When the words of a statute are not explicit, the intention of the General Assembly may be ascertained by considering, among other matters:
+
+(1)  The occasion and necessity for the statute.
+
+(2)  The circumstances under which it was enacted.
+
+(3)  The mischief to be remedied.
+
+(4)  The object to be attained.
+
+(5)  The former law, if any, including other statutes upon the same or similar subjects.
+
+(6)  The consequences of a particular interpretation.
+
+(7)  The contemporaneous legislative history.
+
+(8)  Legislative and administrative interpretations of such statute.
+
+§ 1922.  Presumptions in ascertaining legislative intent.
+
+In ascertaining the intention of the General Assembly in the enactment of a statute the following presumptions, among others, may be used:
+
+(1)  That the General Assembly does not intend a result that is absurd, impossible of execution or unreasonable.
+
+(2)  That the General Assembly intends the entire statute to be effective and certain.
+
+(3)  That the General Assembly does not intend to violate the Constitution of the United States or of this Commonwealth.
+
+(4)  That when a court of last resort has construed the language used in a statute, the General Assembly in subsequent statutes on the same subject matter intends the same construction to be placed upon such language.
+
+(5)  That the General Assembly intends to favor the public interest as against any private interest.
+
+§ 1923.  Grammar and punctuation of statutes.
+
+(a)  Grammatical errors and transposition of words.--Grammatical errors shall not vitiate a statute. A transposition of words and clauses may be resorted to where a sentence is without meaning as it stands.
+
+(b)  Use of punctuation in construction.--In no case shall the punctuation of a statute control or affect the intention of the General Assembly in the enactment thereof but punctuation may be used to aid in the construction thereof if the statute was finally enacted after December 31, 1964.
+
+(c)  Adding words for proper construction.--Words and phrases which may be necessary to the proper interpretation of a statute and which do not conflict with its obvious purpose and intent, nor in any way affect its scope and operation, may be added in the construction thereof.
+
+(Dec. 10, 1974, P.L.816, No.271, eff. imd.)
+
+ 
+
+1974 Amendment.  Act 271 amended subsec. (b).
+
+§ 1924.  Construction of titles, preambles, provisos, exceptions and headings.
+
+The title and preamble of a statute may be considered in the construction thereof. Provisos shall be construed to limit rather than to extend the operation of the clauses to which they refer. Exceptions expressed in a statute shall be construed to exclude all others. The headings prefixed to titles, parts, articles, chapters, sections and other divisions of a statute shall not be considered to control but may be used to aid in the construction thereof.
+
+ 
+
+Cross References.  Section 1924 is referred to in section 1107 of Title 13 (Commercial Code).
+
+§ 1925.  Constitutional construction of statutes.
+
+The provisions of every statute shall be severable. If any provision of any statute or the application thereof to any person or circumstance is held invalid, the remainder of the statute, and the application of such provision to other persons or circumstances, shall not be affected thereby, unless the court finds that the valid provisions of the statute are so essentially and inseparably connected with, and so depend upon, the void provision or application, that it cannot be presumed the General Assembly would have enacted the remaining valid provisions without the void one; or unless the court finds that the remaining valid provisions, standing alone, are incomplete and are incapable of being executed in accordance with the legislative intent.
+
+§ 1926.  Presumption against retroactive effect.
+
+No statute shall be construed to be retroactive unless clearly and manifestly so intended by the General Assembly.
+
+§ 1927.  Construction of uniform laws.
+
+Statutes uniform with those of other states shall be interpreted and construed to effect their general purpose to make uniform the laws of those states which enact them.
+
+§ 1928.  Rule of strict and liberal construction.
+
+(a)  Statutes in derogation of common law.--The rule that statutes in derogation of the common law are to be strictly construed, shall have no application to the statutes of this Commonwealth enacted finally after September 1, 1937.
+
+(b)  Provisions subject to strict construction.--All provisions of a statute of the classes hereafter enumerated shall be strictly construed:
+
+(1)  Penal provisions.
+
+(2)  Retroactive provisions.
+
+(3)  Provisions imposing taxes.
+
+(4)  Provisions conferring the power of eminent domain.
+
+(5)  Provisions exempting persons and property from taxation.
+
+(6)  Provisions exempting property from the power of eminent domain.
+
+(7)  Provisions decreasing the jurisdiction of a court of record.
+
+(8)  Provisions enacted finally prior to September 1, 1937 which are in derogation of the common law.
+
+(c)  Provisions subject to liberal construction.--All other provisions of a statute shall be liberally construed to effect their objects and to promote justice.
+
+§ 1929.  Penalties no bar to civil remedies.
+
+The provision in any statute for a penalty or forfeiture for its violation shall not be construed to deprive an injured person of the right to recover from the offender damages sustained by reason of the violation of such statute.
+
+§ 1930.  Penalties for each offense.
+
+Whenever a penalty or forfeiture is provided for the violation of a statute, such penalty or forfeiture shall be construed to be for each such violation.
+
+§ 1931.  Intent to defraud.
+
+Whenever an intent to defraud is required in any statute in order to constitute an offense, the statute shall be construed to require only an intent to defraud any person or body politic.
+
+§ 1932.  Statutes in pari materia.
+
+(a)  Meaning.--Statutes or parts of statutes are in pari materia when they relate to the same persons or things or to the same class of persons or things.
+
+(b)  Construction.--Statutes in pari materia shall be construed together, if possible, as one statute.
+
+§ 1933.  Particular controls general.
+
+Whenever a general provision in a statute shall be in conflict with a special provision in the same or another statute, the two shall be construed, if possible, so that effect may be given to both. If the conflict between the two provisions is irreconcilable, the special provisions shall prevail and shall be construed as an exception to the general provision, unless the general provision shall be enacted later and it shall be the manifest intention of the General Assembly that such general provision shall prevail.
+
+ 
+
+Cross References.  Section 1933 is referred to in section 1934 of this title; section 9303 of Title 42 (Judiciary and Judicial Procedure).
+
+§ 1934.  Irreconcilable clauses in the same statute.
+
+Except as provided in section 1933 of this title (relating to particular controls general), whenever, in the same statute, several clauses are irreconcilable, the clause last in order of date or position shall prevail.
+
+§ 1935.  Irreconcilable statutes passed by same General Assembly.
+
+Whenever the provisions of two or more statutes enacted finally during the same General Assembly are irreconcilable, the statute latest in date of final enactment, and where two or more irreconcilable statutes are enacted finally on the same date, the statute bearing the highest number, in either case irrespective of its effective date, shall prevail from the time it becomes effective except as otherwise provided in section 1952 of this title (relating to effect of separate amendments on code provisions enacted by same General Assembly) and section 1974 of this title (relating to effect of separate repeals on code provisions by same General Assembly).
+
+ 
+
+Cross References.  Section 1935 is referred to in section 1955 of this title.
+
+§ 1936.  Irreconcilable statutes passed by different General Assemblies.
+
+Whenever the provisions of two or more statutes enacted finally by different General Assemblies are irreconcilable, the statute latest in date of final enactment shall prevail.
+
+ 
+
+Cross References.  Section 1936 is referred to in section 1955 of this title.
+
+§ 1937.  References to statutes and regulations.
+
+(a)  General rule.--A reference in a statute to a statute or to a regulation issued by a public body or public officer includes the statute or regulation with all amendments and supplements thereto and any new statute or regulation substituted for such statute or regulation, as in force at the time of application of the provision of the statute in which such reference is made, unless the specific language or the context of the reference in the provision clearly includes only the statute or regulation as in force on the effective date of the statute in which such reference is made.
+
+(b)  Applicability of section.--The provisions of subsection (a) of this section shall apply to every statute finally enacted on or after July 1, 1971.
+
+§ 1938.  References to public bodies and public officers.
+
+A reference in a statute to a governmental agency, department, board, commission or other public body or to a public officer includes an entity or officer which succeeds to substantially the same functions as those performed by such public body or officer on the effective date of the statute, unless the specific language or the context of the reference in the statute clearly includes only the public body or officer on the effective date of the statute.
+
+§ 1939.  Use of comments and reports.
+
+The comments or report of the commission, committee, association or other entity which drafted a statute may be consulted in the construction or application of the original provisions of the statute if such comments or report were published or otherwise generally available prior to the consideration of the statute by the General Assembly, but the text of the statute shall control in the event of conflict between its text and such comments or report.
+
+ 
+
+ 
+
+SUBCHAPTER C
+
+AMENDATORY STATUTES
+
+ 
+
+Sec.
+
+1951.  Interpretation of amendatory statutes.
+
+1952.  Effect of separate amendments on code provisions enacted by same General Assembly.
+
+1953.  Construction of amendatory statutes.
+
+1954.  Merger of subsequent amendments.
+
+1955.  Two or more amendments to same provision, one overlooking the other.
+
+1956.  Repeal of amendatory statutes and original statutes     subsequently amended.
+
+1957.  Ineffective provisions not revived by reenactment in     amendatory statutes.
+
+§ 1951.  Interpretation of amendatory statutes.
+
+In ascertaining the correct reading, status and interpretation of an amendatory statute, the matter inserted within brackets shall be omitted, and the matter in italics or underscored shall be read and interpreted as part of the statute.
+
+§ 1952.  Effect of separate amendments on code provisions enacted by same General Assembly.
+
+Whenever any existing statute, incorporated into and repealed by a code, is also amended by other legislation enacted by the same General Assembly, such separate amendment shall be construed to be in force, notwithstanding the repeal by the code of the statute such other legislation amends, and such amendment shall be construed to prevail over the corresponding provisions of the code.
+
+ 
+
+Applicability.  Section 1952 was made inapplicable, in whole or in part, by various statutes amending the Pennsylvania Consolidated Statutes and amending or repealing corresponding former provisions of law. In such cases, the appendix following the particular title affected contains the provision of the statute which rendered section 1952 inapplicable.
+
+Cross References.  Section 1952 is referred to in sections 1935, 1956 of this title.
+
+§ 1953.  Construction of amendatory statutes.
+
+Whenever a section or part of a statute is amended, the amendment shall be construed as merging into the original statute, become a part thereof, and replace the part amended, and the remainder of the original statute and the amendment shall be read together and viewed as one statute passed at one time; but the portions of the statute which were not altered by the amendment shall be construed as effective from the time of their original enactment, and the new provisions shall be construed as effective only from the date when the amendment became effective.
+
+§ 1954.  Merger of subsequent amendments.
+
+Whenever a statute has been more than once amended, the latest amendment shall be read into the original statute as previously amended and not into such statute as originally enacted. This rule applies whether or not the previous amendment is referred to and whether or not its language is incorporated in the latest amendment. If the insertions in and the deletions from the statute made by the previous amendment are not incorporated in the later, they shall nevertheless be read into the later amendment as though they had in fact been incorporated therein.
+
+§ 1955.  Two or more amendments to same provision, one overlooking the other.
+
+Whenever two or more amendments to the same provision of a statute are enacted at the same or different sessions, one amendment overlooking and making no reference to the other or others, the changes in the statute made by each shall be given effect and all the amendments shall be read into each other. If the changes made in the statute are to any extent in direct conflict with each other, the rules specified in section 1935 of this title (relating to irreconcilable statutes passed by same General Assembly) and section 1936 of this title (relating to irreconcilable statutes passed by different General Assemblies) shall govern. The fact that a later amendment (1) restates language of the original statute which was deleted by an earlier amendment, or (2) fails to restate language inserted by an earlier amendment, does not of itself create a conflict between the two amendments. Amendments are in conflict with each other only if the changes in the statute made by each without considering the inserts and strike-outs of the other cannot be put into operation simultaneously.
+
+§ 1956.  Repeal of amendatory statutes and original statutes subsequently amended.
+
+The repeal of an amendatory statute does not revive the corresponding provision or section of the original statute or of any prior amendment. Except as otherwise provided in section 1952 of this title (relating to effect of separate amendments on code provisions enacted by same General Assembly), the repeal of an original statute, or section or provision of an original statute, repeals all subsequent amendments to the original statute, or to the original section or provision, as the case may be.
+
+§ 1957.  Ineffective provisions not revived by reenactment in amendatory statutes.
+
+Provisions of a statute no longer effective because of having been deleted by an earlier amendment or otherwise shall not be construed as being revived by reenactment in an amendatory statute, unless it shall clearly appear by notice thereof in the title of the amendatory statute that the General Assembly intended to revive such provisions.
+
+ 
+
+ 
+
+SUBCHAPTER D
+
+REENACTMENTS
+
+ 
+
+Sec.
+
+1961.  Effect of reenactment on original statute.
+
+1962.  Repeal and reenactment.
+
+1963.  Effect of reenactment on intervening statutes.
+
+§ 1961.  Effect of reenactment on original statute.
+
+Whenever a statute reenacts a former statute, the provisions common to both statutes shall date from their first adoption. Such provisions only of the former statute as are omitted from the reenactment shall be deemed abrogated, and only the new or changed provisions shall be deemed to be the law from the effective date of the reenactment.
+
+§ 1962.  Repeal and reenactment.
+
+Whenever a statute is repealed and its provisions are at the same time reenacted in the same or substantially the same terms by the repealing statute, the earlier statute shall be construed as continued in active operation. All rights and liabilities incurred under such earlier statute are preserved and may be enforced.
+
+§ 1963.  Effect of reenactment on intervening statutes.
+
+A statute which reenacts the provisions of an earlier statute shall not be construed to repeal an intermediate statute which modified but did not effect an amendment to such earlier statute. Such intermediate statute shall be construed to remain in force and to modify the reenactment in the same manner as it modified the earlier statute.
+
+ 
+
+ 
+
+SUBCHAPTER E
+
+REPEALING STATUTES
+
+ 
+
+Sec.
+
+1971.  Implied repeal by later statute.
+
+1972.  Nonexistence of reason for statute does not effect repeal.
+
+1973.  No implied repeal by nonuser.
+
+1974.  Effect of separate repeals on code provisions by same General Assembly.
+
+1975.  Effect of repeal on limitations.
+
+1976.  Effect of repeal on rights, et cetera.
+
+1977.  Repeal does not revive repealed statute.
+
+1978.  Repeal as obsolete does not affect substantive rights.
+
+§ 1971.  Implied repeal by later statute.
+
+(a)  Revision or exclusive system covering entire subject.--Whenever a statute purports to be a revision of all statutes upon a particular subject, or sets up a general or exclusive system covering the entire subject matter of a former statute and is intended as a substitute for such former statute, such statute shall be construed to supply and therefore to repeal all former statutes upon the same subject.
+
+(b)  Uniform mandatory system covering class of subjects.--Whenever a general statute purports to establish a uniform and mandatory system covering a class of subjects, such statute shall be construed to supply and therefore to repeal pre-existing local or special statutes on the same class of subjects.
+
+(c)  Other cases.--In all other cases, a later statute shall not be construed to supply or repeal an earlier statute unless the two statutes are irreconcilable.
+
+§ 1972.  Nonexistence of reason for statute does not effect repeal.
+
+A statute shall not be deemed repealed because the reason for its passage no longer exists.
+
+§ 1973.  No implied repeal by nonuser.
+
+A statute shall not be deemed repealed by failure to use such statute.
+
+§ 1974.  Effect of separate repeals on code provisions by same General Assembly.
+
+Whenever a statute repeals any provision of another statute incorporated into a code adopted by the same General Assembly, the statute repealing the provision so incorporated into the code shall be construed to effect a repeal of the corresponding provision of the code.
+
+ 
+
+Applicability.  Section 1974 was made inapplicable, in whole or in part, by various statutes amending the Pennsylvania Consolidated Statutes and amending or repealing corresponding former provisions of law. In such cases, the appendix following the particular title affected contains the provision of the statute which rendered section 1974 inapplicable.
+
+Cross References.  Section 1974 is referred to in section 1935 of this title.
+
+§ 1975.  Effect of repeal on limitations.
+
+Whenever a limitation or period of time, prescribed in any statute for acquiring a right or barring a remedy, or for any other purpose, has begun to run before a statute repealing such statute takes effect, and the same or any other limitation is prescribed in any other statute passed by the same General Assembly, the time which has already run shall be deemed part of the time prescribed as such limitation in such statute passed by the same General Assembly.
+
+§ 1976.  Effect of repeal on rights, et cetera.
+
+(a)  Existing rights and pending actions.--The repeal of any civil provisions of a statute shall not affect or impair any act done, or right existing or accrued, or affect any civil action pending to enforce any right under the authority of the statute repealed. Such action may be proceeded with and concluded under the statutes in existence when such action was instituted, notwithstanding the repeal of such statutes, or such action may be proceeded with and concluded under the provisions of the new statute, if any, enacted.
+
+(b)  Existence of private corporation.--The repeal of any statute shall not affect the corporate existence of any private corporation created by or incorporated under such statute.
+
+§ 1977.  Repeal does not revive repealed statute.
+
+The repeal of a repealing statute shall not be construed to revive the statute originally repealed.
+
+§ 1978.  Repeal as obsolete does not affect substantive rights.
+
+Whenever a statute which created a personal or property right in derogation of the common law is repealed as obsolete or by a code which does not contain an express provision with respect to such personal or property right, the repeal shall not be construed to revive the prior inconsistent common law rule, but such repeal shall be construed as a recognition by the General Assembly that such personal or property right has been received into and has become a part of the common law of this Commonwealth.
+
+ 
+
+ 
+
+SUBCHAPTER F
+
+DEFINITIONS OF WORDS AND PHRASES
+
+ 
+
+Sec.
+
+1991.  Definitions.
+
+§ 1991.  Definitions.
+
+The following words and phrases, when used in any statute finally enacted on or after September 1, 1937, unless the context clearly indicates otherwise, shall have the meanings given to them in this section:
+
+"Action."  Any suit or proceeding in any court of this Commonwealth.
+
+"Administrator."  A fiduciary appointed under authority of law by a register of wills or court to administer the estate of a decedent.
+
+"Adult."  An individual 21 years of age or over.
+
+"Aeronautics."  The art and science of transportation by aircraft including the facilities connected therewith.
+
+"Affidavit."  A statement in writing of a fact or facts signed by the party making it, sworn to or affirmed before an officer authorized by the laws of this Commonwealth to take acknowledgments of deeds, or authorized to administer oaths, or before the particular officer or individual designated by law as the one before whom it is to or may be taken, and officially certified to in the case of an officer under his seal of office.
+
+"Aircraft."  Any contrivance used or designated for navigation of, or flight in, or to ascent into, the air, except a parachute or other contrivance designed and used primarily as safety equipment.
+
+"Airman."  Any member of a crew of an aircraft.
+
+"Airport."  Any place, either water or land, which is designed and used for the taking off and landing of aircraft including the facilities connected therewith.
+
+"Almshouse."  The county home, poorhouse, home for the destitute, or any other building or place, by whatever title designated where poor persons are maintained at the public expense.
+
+"Apiary."  Any place where one or more colonies or nuclei of bees are kept.
+
+"As now provided by law."  A reference to the laws in force at the time when the statute containing the phrase was finally enacted.
+
+"As provided by law."  A reference to the laws in force at the particular time when the statute containing the phrase is applied.
+
+"Association."
+
+(1)  When used in any statute finally enacted before December 7, 1994, any form of unincorporated enterprise owned by two or more persons other than a partnership or limited partnership.
+
+(2)  When used in any statute finally enacted on or after December 7, 1994, an association as defined in 15 Pa.C.S. § 102 (relating to definitions).
+
+"Attorney at law."  An individual admitted to practice law by a court of record of this Commonwealth.
+
+"Attorney of record."  An attorney at law who is entered on the docket or record of a court as appearing for or representing a party in a legal proceeding.
+
+"Bequeath."  Includes devise.
+
+"Bequest."  Includes devise and legacy.
+
+"Blighted property."  The term includes:
+
+(1)  A premises:
+
+(i)  ascertained to be a public nuisance due to physical condition or use and regarded as such at common law and deemed to be a danger to public health, safety and welfare or public nuisance as regulated by a locally adopted property maintenance code or, if no such code exists, any compatible code enacted by the act of November 10, 1999 (P.L.491, No.45), known as the Pennsylvania Construction Code Act; or
+
+(ii)  the condition of which contains an attractive nuisance created by physical condition, use or occupancy, including abandoned water wells, shafts, basements, excavations and unsafe fences or other structures, or which contains an unauthorized entry, unsafe equipment or other safety risk.
+
+(2)  A dwelling that has been condemned or otherwise deemed unfit for occupancy or use by the local authority having jurisdiction due to dilapidated, unsanitary, unsafe or vermin-infested condition or that is lacking in the facilities and equipment as required by the Pennsylvania Construction Code Act.
+
+(3)  A structure determined by the local authority having jurisdiction to be a fire hazard or otherwise that could easily catch fire or cause a fire and endanger public health, safety and welfare.
+
+(4)  A vacant or unimproved lot or parcel of ground located in a predominantly developed neighborhood that has become a place for the accumulation of trash and debris or a haven for rodents and other vermin by reason of neglect or lack of maintenance.
+
+(5)  A property that is vacant and has not been rehabilitated within one year from receipt of notice for corrective action as issued by the local authority having jurisdiction, except a property where a valid construction permit is in place.
+
+(6)  A vacant or unimproved lot or parcel of ground that is subject to a municipal lien for the cost of demolition of a structure previously located on the property and for which no payments on the lien have been made for a period of 12 months.
+
+(7)  A vacant or unimproved lot or parcel of ground on which the total municipal liens for delinquent real estate and property tax or any other type of municipal claim are greater than 150% of the fair market value of the property as established by the board of assessment appeals or other body with legal authority to determine the taxable value of the property.
+
+(8)  A property that has been declared abandoned in writing by the owner, including an estate that is in possession of the property.
+
+"Bond."
+
+(1)  An unconditional written undertaking under seal for the payment of money, or
+
+(2)  a conditional written acknowledgment of being bound for the payment of money, to become void or effective on the performance of any act or the occurrence of any event therein expressed.
+
+"Bridge."  Includes the actual bridge and the approaches thereto, and the substructures and superstructures of both.
+
+"Bulletin."  When used in any statute finally enacted on or after July 31, 1968, the Pennsylvania Bulletin established by the Commonwealth Documents Law.
+
+"Certified public accountant."  An individual licensed under the laws of this Commonwealth to practice as a certified public accountant.
+
+"Child" or "children."  Includes children by birth or adoption.
+
+"Commission merchant."  One who receives consignments of personal property to be sold for a commission or other compensation.
+
+"Commonwealth."  The Commonwealth of Pennsylvania.
+
+"Convict."  An individual who has been finally convicted of an indictable offense and is serving sentence in a penal institution.
+
+"Creditor."  One to whom the performance of an obligation is owed.
+
+"Crime."  Any indictable offense.
+
+"Crosswalk."  That portion of a highway at an intersection, or any portion of a highway, clearly indicated for pedestrian crossing by lines or other markings on the surface.
+
+"Day."  The time from midnight to the next midnight.
+
+"Debtor."  One who owes to another the performance of an obligation.
+
+"Decedent."  Either a testator or person dying intestate.
+
+"Dental hygienist."  An individual licensed under the laws of this Commonwealth to practice as a dental hygienist.
+
+"Dentist."  An individual licensed under the laws of this Commonwealth to practice dentistry.
+
+"Devise."  Includes bequeath when used as a verb and bequest and legacy when used as a noun.
+
+"Devisee."  Includes legatee.
+
+"Doctor of medicine."  An individual licensed under the laws of this Commonwealth to engage in the practice of medicine and surgery in all its branches.
+
+"Domestic animal."  Any equine animal, bovine animal, sheep, goat and pig.
+
+"Effects."  Includes all personal property and any interest therein.
+
+"Executor."  A fiduciary named in a will to execute its provisions and administer the estate of the testator.
+
+"Factor."  One who receives consignments of personal property to be sold for a commission or other compensation.
+
+"Farm product."  Any agricultural, horticultural, vegetable, fruit, and floricultural product of the soil, livestock and meats, wool, hides, poultry, eggs, dairy products, nuts, mushrooms and honey.
+
+"Fiduciary."  An executor, administrator, guardian, committee, receiver, trustee, assignee for the benefit of creditors, and any other person acting in any similar capacity.
+
+"Final enactment" or "enacted finally."  The time when the procedure required by the Constitution of Pennsylvania for the enactment of a bill has been complied with.
+
+"Fiscal year."  The year by or for which accounts are reckoned.
+
+"Funeral director."  An individual licensed under the laws of this Commonwealth as a funeral director.
+
+"General election."  The election held biennially on the Tuesday next following the first Monday of November in each even-numbered year.
+
+"Grantee."  One to whom any estate or interest in real property other than a leasehold passes by conveyance.
+
+"Grantor."  One from or by whom any estate or interest in real property other than a leasehold passes by conveyance.
+
+"Guardian."  A fiduciary who legally has the care and management of the person, or the estate, or both, of another under legal disability.
+
+"Guardian ad litem."  A fiduciary who is appointed to represent in legal proceedings another under legal disability.
+
+"Healing art."  The science of diagnosis and treatment in any manner whatsoever of disease or any ailment of the human body.
+
+"Hereafter."  A reference to the time after the time when the statute containing such word takes effect.
+
+"Heretofore."  A reference to the time previous to the time when the statute containing such word takes effect.
+
+"Highway."  A way or place of whatever nature open to the use of the public as a matter of right for purposes of vehicular traffic.
+
+"Individual."  A natural person.
+
+"Insane person."  An individual of unsound mind.
+
+"Intersection."  The area embraced within the prolongation of the lateral boundary lines of two or more highways which join one another at an angle whether or not one such highway crosses the other.
+
+"Issue."  As applied to the descent of estates, means all lawful, lineal descendants of a common ancestor.
+
+"Judicial sale."  A sale conducted by an officer or person authorized for the purpose by some competent tribunal.
+
+"Legacy."  Includes devise and bequest.
+
+"Legatee."  Includes devisee.
+
+"Legislature."  The General Assembly of the Commonwealth of Pennsylvania.
+
+"Licensed practical nurse."  An individual licensed under the laws of this Commonwealth to practice practical nursing.
+
+"Local authority."  When used in any statute finally enacted on or after January 1, 1975, a municipal authority or any other body corporate and politic created by one or more political subdivisions pursuant to statute.
+
+"Lunatic."  An individual of unsound mind.
+
+"Majority."  When used in reference to age, means of the age of 21 years or over.
+
+"Medicine and surgery."  The art and science having for their object the cure of diseases of and the preservation of the health of man, including all practice of the healing art with or without drugs, except healing by spiritual means or prayer.
+
+"Midwife."  An individual licensed under the laws of this Commonwealth to practice midwifery.
+
+"Minor."  An individual under the age of 21 years.
+
+"Money."  Lawful money of the United States.
+
+"Month."  A calendar month.
+
+"Motor boat."  Any boat propelled by any type of internal combustion motor.
+
+"Motorcycle."  Any vehicle of the bicycle or tricycle type operated by any type of internal combustion motor.
+
+"Motor vehicle."  Any self-propelled device in, upon or by which any person or property is or may be transported or drawn upon a public highway, except tractors, power shovels, road machinery, agricultural machinery, and vehicles which move upon or are guided by a track or trolley.
+
+"Municipality authority" or "municipal authority."  A body corporate and politic created pursuant to the Municipality Authorities Act of 1935 or to the Municipality Authorities Act of 1945.
+
+"Municipal corporation."
+
+(1)  When used in any statute finally enacted on or before December 31, 1974, a city, borough or incorporated town.
+
+(2)  When used in any statute finally enacted on or after January 1, 1975, a city, borough, incorporated town or township.
+
+"Municipal election."  The election held on the Tuesday next following the first Monday in November in each odd-numbered year.
+
+"Municipality."
+
+(1)  When used in any statute finally enacted on or before December 31, 1974, a city, borough or incorporated town.
+
+(2)  When used in any statute finally enacted on or after January 1, 1975, a county, city, borough, incorporated town or township.
+
+"Nighttime."  The time from sunset to sunrise.
+
+"Non compos mentis."  Of unsound mind.
+
+"Notary."  A notary public.
+
+"Now."  In any provision of a statute referring to other laws in force, or to persons in office, or to any facts or circumstances as existing, relates to the laws in force, or to the persons in office, or to the facts or circumstances existing, respectively, on the effective date of such provision.
+
+"Oath."  Includes affirmation.
+
+"Optometrist."  An individual licensed under the laws of this Commonwealth to practice optometry.
+
+"Osteopath."  A physician licensed under the laws of this Commonwealth to practice osteopathy.
+
+"Osteopathic surgeon."  A physician licensed under the laws of this Commonwealth to practice osteopathy and osteopathic surgery.
+
+"Parking."  Suffering a vehicle to stand on any highway while not actually engaged in a traffic movement nor in taking up or setting down passengers or merchandise.
+
+"Pedestrian."  An individual afoot.
+
+"Person."  Includes a corporation, partnership, limited liability company, business trust, other association, government entity (other than the Commonwealth), estate, trust, foundation or natural person.
+
+"Personal representative."  The executor or administrator of a decedent.
+
+"Pharmacist."  An individual licensed under the laws of this Commonwealth to practice as a pharmacist.
+
+"Physician."
+
+(1)  When used in any statute finally enacted on or before April 6, 1951, an individual licensed under the laws of this Commonwealth to engage in the practice of medicine and surgery in any or all of its branches;
+
+(2)  when used in any statute finally enacted on or after April 7, 1951 and on or before June 14, 1957, an individual licensed under the laws of this Commonwealth to engage in the practice of medicine and surgery in any or in all of its branches within the scope of the act of June 3, 1911 (P.L.639, No.246) relating to medicine and surgery and its amendments, or in the practice of osteopathy or osteopathic surgery within the scope of the act of March 19, 1909 (P.L.46, No.29) and its amendments;
+
+(3)  when used in any statute finally enacted on or after June 15, 1957 and on or before July 19, 1974, an individual licensed under the laws of this Commonwealth to engage in the practice of medicine and surgery in all of its branches within the scope of the act of June 3, 1911 (P.L.639, No.246) relating to medicine and surgery and its amendments, or in the practice of osteopathy or osteopathic surgery within the scope of the act of March 19, 1909 (P.L.46, No.29) and its amendments;
+
+(4)  when used in any statute finally enacted on or after July 20, 1974 and on or before October 7, 1978, an individual licensed under the laws of this Commonwealth to engage in the practice of medicine and surgery in all its branches within the scope of the act of July 20, 1974 (P.L.551, No.190), known as the Medical Practice Act of 1974, and its amendments, or in the practice of osteopathy or osteopathic surgery within the scope of the prior provisions of the act of March 19, 1909 (P.L.46, No.29), referred to as the Osteopathic Practice Law, and its amendments; and
+
+(5)  when used in any statute finally enacted on or after October 5, 1978, an individual licensed under the laws of this Commonwealth to engage in the practice of medicine and surgery in all its branches within the scope of the act of July 20, 1974 (P.L.551, No.190), known as the Medical Practice Act of 1974, and its amendments, or in the practice of osteopathic medicine and surgery within the scope of the act of October 5, 1978 (P.L.1109, No.261), known as the Osteopathic Medical Practice Act, and its amendments. To the extent that any statute imposes duties upon or grants powers to the State Board of Medical Education and Licensure relating to an individual licensed under the laws of this Commonwealth to engage in the practice of osteopathic medicine and surgery, such statute shall be construed to impose such duties upon and grant such power to the State Board of Osteopathic Medical Examiners, which board shall exercise such duties or powers in accordance with the Osteopathic Medical Practice Act.
+
+"Political subdivision."  Any county, city, borough, incorporated town, township, school district, vocational school district and county institution district.
+
+"Poultry."  Includes all domestic fowl.
+
+"Primary election."  Any election at which the members of qualified political parties nominate their candidates for public office.
+
+"Professional engineer."  An individual licensed under the laws of this Commonwealth to practice as a professional engineer.
+
+"Property."  Includes both real and personal property.
+
+"Publish" or "published."  As applied to the publication of a newspaper of general circulation means the place where such newspaper is originally issued and circulated.
+
+"Real estate broker."  One licensed under the laws of this Commonwealth to act as a real estate broker.
+
+"Real estate salesman."  An individual licensed under the laws of this Commonwealth to act as a real estate salesman.
+
+"Registered architect."  An individual licensed under the laws of this Commonwealth to practice architecture.
+
+"Registered mail."  When used in any statute finally enacted before or after September 1, 1937, includes certified mail.
+
+"Registered nurse."  An individual licensed under the laws of this Commonwealth to practice professional nursing.
+
+"Safety zone."  The area or space officially set aside within a highway for the use of pedestrians.
+
+"Signature."  Includes mark when the individual cannot write, his name being written near it, and witnessed by another who writes his own name.
+
+"Special election."  Any election authorized by law, other than a general, municipal or primary election.
+
+"State."  When used in reference to the different parts of the United States, includes the District of Columbia and the several territories of the United States.
+
+"Statute."  An act of the General Assembly, whether under the authority of the Commonwealth or of the late Proprietaries of the Province of Pennsylvania.
+
+"Surveyor."  An individual licensed under the laws of this Commonwealth to practice land surveying.
+
+"Sworn."  Includes affirmed.
+
+"Trustee."  One in whom some estate, interest or power in or affecting property of any description is vested for the benefit of another.
+
+"Undertaker."  An individual licensed under the laws of this Commonwealth to practice as an undertaker, undertaker and embalmer, embalmer, funeral director or mortician.
+
+"Vehicle."  A conveyance in or on which persons or property may be carried.
+
+"Verified."  When used in reference to writings, means supported by oath or affirmation.
+
+"Veterinarian."  An individual licensed under the laws of this Commonwealth to practice veterinary medicine and surgery.
+
+"Will."  Includes codicil.
+
+"Written."  Every legible representation of letters or numerals upon a material substance, except when used in reference to the signature of an instrument.
+
+"Year."  A calendar year.
+
+(Dec. 10, 1974, P.L.816, No.271, eff. imd.; July 9, 1976, P.L.877, No.160, eff. 60 days; Dec. 18, 1984, P.L.1057, No.207, eff. imd.; Dec. 18, 1992, P.L.1333, No.169, eff. 60 days; Dec. 7, 1994, P.L.703, No.106, eff. 60 days; Nov. 7, 2019, P.L.611, No.79, eff. 60 days)
+
+ 
+
+2019 Amendment.  Act 79 added the def. of "blighted property."
+
+1994 Amendment.  Act 106 amended the defs. of "association" and "person."
+
+1992 Amendment.  Act 169 amended the intro. par. and the def. of "person."
+
+1984 Amendment.  Act 207 amended the def. of "physician," retroactive to June 11, 1982.
+
+1976 Amendment.  Act 160 added the def. of "registered mail."
+
+1974 Amendment.  Act 271 added the def. of "local authority" and amended the defs. of "municipal corporation" and "municipality."
+
+References in Text.  The act of June 3, 1911 (P.L.639, No.246), referred to in the definition of "physician," was repealed by the act of July 20, 1974 (P.L.551, No.190), known as the Medical Practice Act of 1974. The Medical Practice Act of 1974 was repealed by the act of December 20, 1985 (P.L.457, No.112), known as the Medical Practice Act of 1985.
+
+The act of March 19, 1909 (P.L.46, No.29), referred to in the definition of "physician," was repealed by the act of October 5, 1978 (P.L.1109, No.261), known as the Osteopathic Medical Practice Act.
+
+The act of July 20, 1974 (P.L.551, No.190), known as the Medical Practice Act of 1974, referred to in the definition of "physician," was repealed by the act of December 20, 1985 (P.L.457, No.112), known as the Medical Practice Act of 1985.
+
+Cross References.  Section 1991 is referred to in section 1189 of Title 8 (Boroughs and Incorporated Towns); section 6109 of Title 18 (Crimes and Offenses); section 5902 of Title 20 (Decedents, Estates and Fiduciaries); section 102 of Title 34 (Game); section 8401 of Title 53 (Municipalities Generally).
+
+ 
+
+ 
+
+PART VI
+
+IMPLEMENTATION OF CONSTITUTIONAL PROVISIONS
+
+ 
+
+Chapter
+
+23.  Implementation of Constitutional Provisions
+
+ 
+
+Enactment.  Part VI was added September 28, 1978, P.L.788, No.152, effective immediately.
+
+ 
+
+ 
+
+CHAPTER 23
+
+IMPLEMENTATION OF CONSTITUTIONAL PROVISIONS
+
+ 
+
+Sec.
+
+2301.  Equality of rights based on sex.
+
+2310.  Sovereign immunity reaffirmed; specific waiver.
+
+ 
+
+Enactment.  Chapter 23 was added September 28, 1978, P.L.788, No.152, effective immediately.
+
+§ 2301.  Equality of rights based on sex.
+
+(a)  General rule.--In recognition of the adoption of section 28 of Article I of the Constitution of Pennsylvania, it is hereby declared to be the intent of the General Assembly that where in any statute heretofore enacted there is a designation restricted to a single sex, the designation shall be deemed to refer to both sexes unless the designation does not operate to deny or abridge equality of rights under the law of this Commonwealth because of the sex of the individual.
+
+(b)  Public appointments.--All references to sex in requirements for appointments to public agencies or public positions shall be construed to require appointment without reference to sex. However where the legislative intent is expressed that both men and women shall serve on a public agency or in public positions, the agency or positions shall not be composed of a membership wholly of one sex.
+
+(c)  Employment benefits.--Where employment benefits authorized by statute, including pensions, death or disability payments or other similar benefits, are to be paid upon the death or disability of the employee, any designation of beneficiary which is restricted to a single sex shall be deemed a reference to both sexes.
+
+(d)  Other employment rights.--All other statutes affecting employment which contain a designation restricted to one sex shall be deemed to refer to both sexes unless the designation does not operate to deny or abridge equality of rights.
+
+(Oct. 4, 1978, P.L.909, No.173, eff. 60 days)
+
+ 
+
+1978 Amendment.  Act 173 added section 2301. See section 8 of Act 173 in the appendix to this title for special provisions relating to transition provisions on employment benefits.
+
+§ 2310.  Sovereign immunity reaffirmed; specific waiver.
+
+Pursuant to section 11 of Article I of the Constitution of Pennsylvania, it is hereby declared to be the intent of the General Assembly that the Commonwealth, and its officials and employees acting within the scope of their duties, shall continue to enjoy sovereign immunity and official immunity and remain immune from suit except as the General Assembly shall specifically waive the immunity. When the General Assembly specifically waives sovereign immunity, a claim against the Commonwealth and its officials and employees shall be brought only in such manner and in such courts and in such cases as directed by the provisions of Title 42 (relating to judiciary and judicial procedure) or 62 (relating to procurement) unless otherwise specifically authorized by statute.
+
+(May 15, 1998, P.L.358, No.57, eff. 180 days)
+
+ 
+
+Cross References.  Section 2310 is referred to in section 17131, 17162, 17312, 17342 of Title 16 (Counties); section 9158.5 of Title 18 (Crimes and Offenses); sections 7389, 7395, 8521 of Title 42 (Judiciary and Judicial Procedure); section 1702 of Title 62 (Procurement); section 6018 of Title 64 (Public Authorities and Quasi-Public Corporations); section 1711 of Title 74 (Transportation).
+
+ 
+
+PART VII
+
+MISCELLANEOUS PROVISIONS
+
+ 
+
+Chapter
+
+31.  Board of Commissioners on Uniform State Laws
+
+ 
+
+Enactment.  Part VII was added October 30, 2001, P.L.815, No.79, effective immediately.
+
+ 
+
+CHAPTER 31
+
+BOARD OF COMMISSIONERS ON UNIFORM STATE LAWS
+
+ 
+
+Sec.
+
+3101.  Definitions.
+
+3102.  Board established.
+
+3103.  Powers and duties.
+
+ 
+
+Enactment.  Chapter 31 was added October 30, 2001, P.L.815, No.79, effective immediately.
+
+Continuation of Commissioners.  Section 3 of Act 79 of 2001 provided that members of the Board of Commissioners on Uniform State Laws on the effective date of Act 79 shall continue as commissioners for the balance of their terms.
+
+§ 3101.  Definitions.
+
+The following words and phrases when used in this chapter shall have the meanings given to them in this section:
+
+"Board."  The Board of Commissioners on Uniform State Laws.
+
+§ 3102.  Board established.
+
+(a)  Establishment.--The Board of Commissioners on Uniform State Laws is reestablished within the Office of General Counsel.
+
+(b)  Composition.--The board shall be composed of nine commissioners learned in the law:
+
+(1)  The Governor shall appoint three commissioners.
+
+(2)  The President pro tempore of the Senate shall appoint one commissioner.
+
+(3)  The Speaker of the House of Representatives shall appoint one commissioner.
+
+(4)  The Minority Leader of the Senate shall appoint one commissioner.
+
+(5)  The Minority Leader of the House of Representatives shall appoint one commissioner.
+
+(6)  The Attorney General shall serve as an ex officio commissioner.
+
+(7)  The General Counsel shall serve as an ex officio commissioner.
+
+(c)  Terms.--
+
+(1)  A commissioner under subsection (b)(1) shall serve a term of four years, calculated from the date of appointment.
+
+(2)  A commissioner under subsection (b)(2), (3), (4) or (5) shall serve at the pleasure of the appointing authority.
+
+(d)  Officers.--The General Counsel shall serve as chairman of the board.
+
+(e)  Quorum.--Five commissioners constitute a quorum.
+
+§ 3103.  Powers and duties.
+
+The board has the following powers and duties:
+
+(1)  To examine subjects it deems necessary.
+
+(2)  To ascertain the best means to effect an assimilation and uniformity of state legislation throughout the United States on the subjects examined under paragraph (1).
+
+(3)  To meet with the National Conference of Commissioners on Uniform State Laws, at annual and other sessions, to:
+
+(i)  promote uniformity of state legislation in the United States; and
+
+(ii)  join the conference in measures deemed most expedient to advance the objective of paragraphs (1) and (2).
+
+ 
+
+ 
+
+APPENDIX TO TITLE 1
+
+GENERAL PROVISIONS
+
+ 
+
+ 
+
+-------
+
+Supplementary Provisions of Amendatory Statutes
+
+-------
+
+ 
+
+ 
+
+1970, NOVEMBER 25, P.L.707, NO.230
+
+ 
+
+Title, enacting clause, etc.
+
+ 
+
+AN ACT
+
+ 
+
+Codifying and compiling a part of the law of the Commonwealth.
+
+ 
+
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+
+ 
+
+In order to facilitate the codification and compiling of the law of this Commonwealth, as authorized by section 3 of Article III of the Constitution of Pennsylvania, the following structure, which shall be implemented from time to time hereafter by appropriate amendments to this act, is hereby established:
+
+ 
+
+TITLE 1
+
+GENERAL PROVISIONS
+
+* * *
+
+ 
+
+1974, June 17, P.L.330, NO.107
+
+ 
+
+§ 5.  Repeal and suspension of inconsistent laws.
+
+All acts and parts of acts are repealed in so far as they are inconsistent with the provisions of this act and shall be suspended to the extent and for the period of time they are inconsistent with any concurrent resolution adopted thereunder.
+
+ 
+
+References in Text.  Section 501 of Title 1, added by Act 107, provides for a concurrent resolution of the General Assembly relating to the publication and distribution of laws.
+
+ 
+
+§ 6.  Editing statutes for printing.
+
+The provisions of section 3 of this act shall apply to bills enacted into law but not finally prepared for printing prior to the effective date of this act and shall apply to an official publication of the Pennsylvania Consolidated States pursuant to section 2 of this act issued after the effective date of this act.
+
+ 
+
+References in Text.  Section 3 of Act 107 amended sections 1101, 1104 and 1105 of Title 1 and section 2 of Act 107 added Chapter 5 of Title 1.
+
+ 
+
+ 
+
+1974, DECEMBER 10, P.L.816, No.271
+
+ 
+
+§ 6.  Editorial change in form of citing statutes.
+
+The Director of the Legislative Reference Bureau, in preparing statutes for printing, may change the form of citation in bills enacted into law prior or subsequent to the effective date of this act, and in reenacting provisions of existing statutes for purposes of amendment and in preparing an official publication of the Consolidated Statutes, may change the form of citation in such statutes without the use of brackets and underscoring, to conform to the amendments to sections 101 and 102 of Title 1 contained in section 1 of this act. In such cases, the approvals and notations required by 1 Pa.C.S. § 1105 (relating to editing statutes for printing) shall not be required.
+
+ 
+
+ 
+
+1978, October 4, P.L.909, NO.173
+
+ 
+
+§ 8.  Transition provisions on employment benefits.
+
+(a)  General rule.--The provisions of 1 Pa.C.S. § 2301(c) (relating to employment benefits) shall not apply to a benefit plan or program in existence on the effective date of this act if the employer:
+
+(1)  determines after an actuarial review that the application of such provisions to the plan or program will render the plan or program actuarially unsound;
+
+(2)  files a written statement of such determination, together with the relevant data or a summary thereof, within six months after the effective date of this act with the Department of State; and
+
+(3)  gives appropriate notice to affected employees.
+
+An employer who effects a filing pursuant to this section shall within one year after the effective date of this act amend the plan or program so as to conform to 1 Pa.C.S. § 2301(c) without affecting the actuarial soundness of the plan or program.
+
+(b)  Expiration of section.--This section shall expire one year after the effective date of this act.
+
