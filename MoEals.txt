@@ -14,10 +14,10 @@ Because it is a (n) Mixture-of-Experts model, it only activates a portion of its
 
 
 
-(nx2) Build 1: The Dual 8-Card RTX 3090 "Giga-Node" (384GB VRAM)
+((n)x(.5)x(2ish)) Build 1: The Dual 8-Card RTX 3090 "Giga-Node" (384GB VRAM)
 
 
-(n) Build 2: The Used Enterprise HGX A100 (4-Way or 8-Way 80GB)
+(nish) Build 2: The Used Enterprise HGX A100 (4-Way or 8-Way 80GB)
 
 
 
