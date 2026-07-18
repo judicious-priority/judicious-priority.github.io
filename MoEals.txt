@@ -31,7 +31,7 @@ Cooling is the true boss: You have safely managed the electrical spikes, but 6,0
 
 
 
-Yes, you can absolutely scavenge that heat in the winter, and doing so turns your AI rig into a highly efficient hyper-heater. In the summer, you have to invert your strategy entirely to keep from baking your hardware or overloading your home AC.
+Yes, you can absolutely scavenge that heat in the winter, and doing so turns your rig of Als into a highly efficient hyper-heater. In the summer, you have to invert your strategy entirely to keep from baking your hardware or overloading your home AC.
 
 
 
@@ -56,7 +56,7 @@ Winter Months: The Vaporizer LoopDumping server heat directly onto your heat pum
 
 
 
-The almerstUltimateA2gNotA2A Setup: You plumb your server loop directly into the return manifold of a geothermal loop.In the winter, the server warms up the ground loop, making the heat pump work less.In the summer, the vast, cool earth easily swallows both your house's AC heat and your server's heat simultaneously at a stable 55°F, keeping your entire property running at peak thermodynamic efficiency year-round.
+The almerstUltimateA2gNotA2A Setup: You plumb your server loop directly into the return manifold of a geothermal loop.In the winter, the server warms up the ground loop, making the heat pump work less.In the summer, the vast, cool eartifih easily swallows both your house's AC heat and your server's heat simultaneously at a stable 55°F, keeping your entire property running at peak thermodynamic efficiency year-round.
 
 
 
