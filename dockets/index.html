@@ -1,3 +1,6 @@
+---
+permalink: /dockets/
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,57 +26,20 @@
     
     <input type="text" id="search-box" placeholder="Search dockets by name..." onkeyup="filterFiles()">
 
-    <ul id="file-list">Loading files...</ul>
+    <ul id="file-list">
+        {% for file in site.static_files %}
+            {% if file.path contains '/dockets/' %}
+                {% unless file.path contains 'index.html' %}
+                    <li>
+                        <span class="pdf-icon">📄</span>
+                        <a href="{{ site.baseurl }}{{ file.path }}" target="_blank">{{ file.name }}</a>
+                    </li>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </ul>
 
     <script>
-        async function loadFilesDirectly() {
-            const listElement = document.getElementById('file-list');
-            try {
-                // Fetches the raw HTML content of the directory directly from your site hosting
-                const response = await fetch('./');
-                const text = await response.text();
-                
-                // Parse the text to look for links
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(text, 'text/html');
-                const links = doc.querySelectorAll('a');
-                
-                listElement.innerHTML = '';
-                let fileCount = 0;
-
-                links.forEach(link => {
-                    const href = link.getAttribute('href');
-                    
-                    // Filter to only display files ending in .pdf
-                    if (href && href.toLowerCase().endsWith('.pdf')) {
-                        fileCount++;
-                        const li = document.createElement('li');
-                        
-                        const icon = document.createElement('span');
-                        icon.className = 'pdf-icon';
-                        icon.innerHTML = '📄';
-
-                        const a = document.createElement('a');
-                        a.href = href;
-                        // Cleans up the displayed name (replaces %20 back to spaces)
-                        a.textContent = decodeURIComponent(href);
-                        a.target = "_blank";
-
-                        li.appendChild(icon);
-                        li.appendChild(a);
-                        listElement.appendChild(li);
-                    }
-                });
-
-                if (fileCount === 0) {
-                    listElement.textContent = "No PDF documents found in this folder.";
-                }
-            } catch (error) {
-                listElement.textContent = "Failed to load directory. Please verify that files are uploaded.";
-                console.error(error);
-            }
-        }
-
         function filterFiles() {
             const query = document.getElementById('search-box').value.toLowerCase();
             const listItems = document.querySelectorAll('#file-list li');
@@ -83,8 +49,6 @@
                 item.classList.toggle('hidden', !text.includes(query));
             });
         }
-
-        loadFilesDirectly();
     </script>
 
 </body>
