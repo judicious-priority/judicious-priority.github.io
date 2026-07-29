@@ -1,1 +1,66 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dockets Archive</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; max-width: 600px; margin: 0 auto; }
+        h1 { border-bottom: 2px solid #ccc; padding-bottom: 10px; }
+        ul { list-style-type: none; padding: 0; }
+        li { padding: 8px 0; border-bottom: 1px solid #eee; }
+        a { color: #0366d6; text-decoration: none; font-size: 18px; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>Available Dockets</h1>
+    <ul id="file-list">Loading files...</ul>
+
+    <script>
+        async function loadFiles() {
+            // 1. Point to your specific repository path using the GitHub API
+            const repoUrl = "https://github.com";
+            const listElement = document.getElementById('file-list');
+            
+            try {
+                const response = await fetch(repoUrl);
+                const files = await response.json();
+                
+                // Clear the "Loading..." message
+                listElement.innerHTML = '';
+                
+                // 2. Loop through every file found in the folder
+                files.forEach(file => {
+                    // Ignore the index.html file itself so it doesn't link to itself
+                    if (file.name !== 'index.html') {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        
+                        // Set the link to open the PDF directly
+                        a.href = file.name;
+                        a.textContent = file.name;
+                        a.target = "_blank"; // Opens in a new tab
+                        
+                        li.appendChild(a);
+                        listElement.appendChild(li);
+                    }
+                });
+                
+                if (listElement.children.length === 0) {
+                    listElement.textContent = "No PDF documents found in this folder.";
+                }
+            } catch (error) {
+                listElement.textContent = "Error loading files. Check connection or repository permissions.";
+                console.error(error);
+            }
+        }
+
+        // Run the function when the page loads
+        loadFiles();
+    </script>
+
+</body>
+</html>
