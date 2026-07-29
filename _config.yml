@@ -1,0 +1,11 @@
+# Tells GitHub to look inside dockets folder to generate PDF links at /dockets url automatically
+include:
+  - dockets
+  - .well-known
+  - "_*"
+
+# Keeps build fast by ignoring unnecessary development files
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
