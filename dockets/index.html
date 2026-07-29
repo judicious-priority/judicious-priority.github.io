@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dockets Archive</title>
-    <!-- Styling for a clean interface -->
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 20px; max-width: 600px; margin: 0 auto; color: #333; }
         h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px; }
@@ -22,42 +21,59 @@
 
     <h1>Available Dockets</h1>
     
-    <!-- Real-time search bar -->
     <input type="text" id="search-box" placeholder="Search dockets by name..." onkeyup="filterFiles()">
 
     <ul id="file-list">Loading files...</ul>
 
-    <!-- Zero-API script that reads your deployed files directly -->
-    <script src="https://jsdelivr.net"></script>
     <script>
-        // Configures the script to look directly at your hosted directory
-        repoGalleria({
-            target: '#file-list',
-            branch: 'main', // Change to 'master' if your default branch uses the old naming scheme
-            extensions: ['pdf'] // Explicitly looks for PDF documents
-        });
+        async function loadFilesDirectly() {
+            const listElement = document.getElementById('file-list');
+            try {
+                // Fetches the raw HTML content of the directory directly from your site hosting
+                const response = await fetch('./');
+                const text = await response.text();
+                
+                // Parse the text to look for links
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(text, 'text/html');
+                const links = doc.querySelectorAll('a');
+                
+                listElement.innerHTML = '';
+                let fileCount = 0;
 
-        // Formats the links dynamically and adds a clean PDF icon
-        document.addEventListener('DOMContentLoaded', () => {
-            const observer = new MutationObserver(() => {
-                const listItems = document.querySelectorAll('#file-list li');
-                listItems.forEach(item => {
-                    if (!item.querySelector('.pdf-icon')) {
+                links.forEach(link => {
+                    const href = link.getAttribute('href');
+                    
+                    // Filter to only display files ending in .pdf
+                    if (href && href.toLowerCase().endsWith('.pdf')) {
+                        fileCount++;
+                        const li = document.createElement('li');
+                        
                         const icon = document.createElement('span');
                         icon.className = 'pdf-icon';
-                        icon.innerHTML = '📄'; 
-                        item.insertBefore(icon, item.firstChild);
-                        
-                        // Forces the link to open in a new browser tab safely
-                        const link = item.querySelector('a');
-                        if (link) link.target = '_blank';
+                        icon.innerHTML = '📄';
+
+                        const a = document.createElement('a');
+                        a.href = href;
+                        // Cleans up the displayed name (replaces %20 back to spaces)
+                        a.textContent = decodeURIComponent(href);
+                        a.target = "_blank";
+
+                        li.appendChild(icon);
+                        li.appendChild(a);
+                        listElement.appendChild(li);
                     }
                 });
-            });
-            observer.observe(document.getElementById('file-list'), { childList: true });
-        });
 
-        // Real-time text filter function
+                if (fileCount === 0) {
+                    listElement.textContent = "No PDF documents found in this folder.";
+                }
+            } catch (error) {
+                listElement.textContent = "Failed to load directory. Please verify that files are uploaded.";
+                console.error(error);
+            }
+        }
+
         function filterFiles() {
             const query = document.getElementById('search-box').value.toLowerCase();
             const listItems = document.querySelectorAll('#file-list li');
@@ -67,6 +83,8 @@
                 item.classList.toggle('hidden', !text.includes(query));
             });
         }
+
+        loadFilesDirectly();
     </script>
 
 </body>
