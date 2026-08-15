@@ -144,6 +144,12 @@ Steady-State Confinement Supplies	Continuous heavy-amperage industrial DC rectif
 
 
 
+Onboard Crew Provisions & Welfare AmenitiesTo sustain full-time owned operations and maintain high crew morale during extended testing window configurations at sea, the following operational comfort lines are integrated into the baseline:ComponentTechnical SpecificationEstimated Unit CostQuantity RequiredEstimated Total CostSourcing & Logistics ChannelsHigh-Speed Maritime InternetStarlink Maritime flat high-performance terminal for in-motion offshore connection, paired with an active Mobile Priority data subscription.$2,500 – $6,000 hardware; $250 – $1,500/mo service1 Year Deployment Terminal + Plan$5,500 – $24,000Procurement direct from SpaceX Starlink Maritime commercial sales channels.Onboard Crew Food & ProvisionsStandard industrial maritime catering allocation covering three filling meals a day per person in the crew mess.$100 – $150 per person daily5 Personnel x 365 Days Retainer$182,500 – $273,750Managed through commercial offshore marine provisioning services at regional port drydocks.Wholesale Coffee & Spirits RationsBulk allocation of wholesale premium ground roast Arabica beans alongside cases of premium grain vodka for off-duty welfare.$9.31 – $9.45/lb coffee; ~$240/case vodkaAnnual Bulk Comfort Allowance$5,000 – $12,000Sourced via agricultural wholesale suppliers and bulk beverage distribution partners
+
+
+
+
+
 5. Consolidated Budget Ranges
 Calculated using conservative lower and upper bounds of verified component costs, substituting short-term support leases with asset ownership capital configurations, a 10MW generation fleet, cylinder manifolds, subsea vacuum battery reserves, and necessary high-voltage/kinetic safety additions.
 •	PoC Core Equipment Base Cost (Option A - Coaxial): $26.74M minimum – $50.13M maximum (Recalculated to mathematically layer in the static kit, yacht isolation matrix, central solenoid, and kinetic flywheel storage matrix over previous parameters).
