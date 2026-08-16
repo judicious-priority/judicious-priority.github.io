@@ -774,7 +774,7 @@ Note 5. https://www.youtube.com/watch?v=GXAiBpIz2_I
 
 
 
-PHASE 1: SHORELINE MOBILIZATION & REGULATORY FILING
+PHASE 1: INTERMITENT-BURN-TEST 
 Timeline: T-Minus 14 Days to T-Minus 24 Hours
 •	T-Minus 14 Days: Submit a comprehensive offshore operations manifest to the USCG Navigation Center via email (navsafety@nga.mil) to secure an entry in the Local Notice to Mariners (LNM). The filing defines the exact bounding coordinates of the Atlantic deployment zone past the continental shelf, details the presence of the primary deck barge, spud barge, and command yacht, and flags the operation of a high-power subsea power transceiver line that poses a localized surface navigation hazard. [1]
 •	T-Minus 7 Days: Initiate full preventative maintenance logs for the 10 Megawatt Diesel Generator Fleet. Verify engine oil, core coolant, and transmission fluid levels. Perform static insulation resistance (Megger) testing on all 10 generator alternators to confirm winding integrity prior to assembly matching. [1]
@@ -818,8 +818,7 @@ Timeline: Day 1 — 1630 Hours to Completion
 •	1630:001 Hours: Reverse current transformer blocks on the surface barge register the massive upward fusion surge. The forward green LEDs snap shut. The surface switchgear instantly shoots an activation signal to the heavy DC contactors, striking the 60-Inch Carbon Arc Searchlight Sky-Beam. An 800-million-candlepower column of white light blasts into the Atlantic clouds, illuminating a glowing canopy visible to observers on the coast 30 miles away.
 •	1632 Hours: The primary multi-megawatt energy spike is safely absorbed and managed through the surface Flywheel Energy Buffer, High-Energy Grid Resistor Banks, and water-cooled Shaft Eddy-Current Brakes dragging down the dead-stroking generator cylinders. The short-pulse reaction finishes burning. The sky-beam cuts out, confirming a safe, un-ruptured system shutdown.
 •	1700 Hours: The submarine crew blows all main ballast tanks using high-pressure compressed air lines, driving the vehicle back to the surface at maximum buoyancy.
-•	1730 Hours: The offshore twin-engine utility helicopter launches from the command yacht deck to execute a rapid operational verification pass. The flight crew uses the insulated NATO-Spec Static Discharge Grounding Kit to safely ground the helicopter hull to the floating submarine casing before releasing the retrieval tech line, successfully concluding the offshore deployment phase. [1, 2, 3]
-________________________________________
+•	1730 Hours: The offshore twin-engine utility helicopter launches from the command yacht deck to execute a rapid operational verification pass. The flight crew uses the insulated NATO-Spec Static Discharge Grounding Kit to safely ground the helicopter hull to the floating submarine casing before releasing the retrieval tech line, successfully concluding the offshore deployment phase.
 
 
 
@@ -853,7 +852,8 @@ ________________________________________
 
 
 
-PHASE 8: STEADY-STATE OPERATIONS CAMPAIGN (DEFERRED PHASE)
+
+PHASE 2: STEADY-BURN-TEST
 Timeline: Minimum T-Plus 30 Days to T-Plus 45 Days (Separate Operational Window)
 •	T-Plus 30 Days (Core Disassembly & Drydock Reconfiguration): Following successful verification of the short-pulse ignition metrics, the submersible vessel hull is towed to a specialized drydock facility. Disconnect the Pulsed Ohmic Capacitor Bank and strip out the temporary internal passive confinement wall elements. [1, 2]
 •	T-Plus 35 Days (Active Thermal Loop Integration): Install the complete, actively cooled ITER-grade Tungsten Divertor Tile Array across the exhaust exhaust channels. Connect the internal high-pressure coolant plumbing lines directly to the closed-loop external titanium hull radiator plates, creating a continuous heat-exchange matrix capable of handling a steady thermal load. [1, 2, 3, 4]
@@ -901,6 +901,7 @@ Timeline: T-Plus 45 Days — 1300 Hours to Execution
 
 
 
+PHASE 3: GRID-INTERCONNECTED-SHORE-BARGE / SURFACE-BARGE  OCEANIC-TRANSMISSION-LINK  TEST
 
 
 
@@ -916,3 +917,126 @@ Timeline: T-Plus 45 Days — 1300 Hours to Execution
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHASE 4: POST-(local)IGNITION (STEADY-BURN) SURFACE-BARGE to SHORE-BARGE  LAND-GRID-ENERGIZATION  TEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHASE 5:  SHORE-BARGE GRID-ENERGY to SURFACE-BARGE  TEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHASE 6:  SHORE-BARGE GRID-ENERGY to SURFACE-BARGE  (remote)IGNITION  TEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHASE 7:  SHORE-BARGE GRID-ENERGY to SURFACE-BARGE  IGNITION / STEADY-BURN & POWERFLO-SWITCHOVER  LAND-GRID-ENERGIZATION  TEST
