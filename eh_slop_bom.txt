@@ -870,11 +870,11 @@ Timeline: Day 1 — 1630 Hours to Completion
 
 •	1630:001 Hours: Reverse current transformer blocks on the surface barge register the massive upward fusion surge. The forward green LEDs snap shut. The surface switchgear instantly shoots an activation signal to the heavy DC contactors, striking the 60-Inch Carbon Arc Searchlight Sky-Beam. An 800-million-candlepower column of white light blasts into the Atlantic clouds, illuminating a glowing canopy visible to observers on the coast 30 miles away.
 
-•	1632 Hours: The primary multi-megawatt energy spike is safely absorbed and managed through the surface Flywheel Energy Buffer, High-Energy Grid Resistor Banks, and water-cooled Shaft Eddy-Current Brakes dragging down the dead-stroking generator cylinders. The short-pulse reaction finishes burning. The sky-beam cuts out, confirming a safe, un-ruptured system shutdown.
+•	1632 Hours: The primary multi-megawatt energy spike is safely absorbed and managed through the surface Flywheel Energy Buffer, High-Energy Grid Resistor Banks, and water-cooled Shaft Eddy-Current Brakes loaded by the dead-stroking generator cylinders. The short-pulse reaction finishes burning. The sky-beam cuts out, confirming a safe, un-rptured system shutdown.
 
-•	1700 Hours: The submarine crew blows all main ballast tanks using high-pressure compressed air lines, driving the vehicle back to the surface at maximum buoyancy.
+•	1700 Hours: The crew remotely blows the submarine ballast tank(s) driving the vehicle back to the surface.
 
-•	1730 Hours: The offshore twin-engine utility helicopter launches from the command yacht deck to execute a rapid operational verification pass. The flight crew uses the insulated NATO-Spec Static Discharge Grounding Kit to safely ground the helicopter hull to the floating submarine casing before releasing the retrieval tech line, successfully concluding the offshore deployment phase.
+•	1730 Hours: The offshore twin-engine utility helicopter launches from the command yacht deck to make a pass executing an additional rapid operational safe radioactivity level verification, successfully concluding the initial deployment phase.
 
 
 
