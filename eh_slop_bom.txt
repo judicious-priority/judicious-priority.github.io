@@ -789,6 +789,7 @@ Timeline: T-Minus 14 Days to T-Minus 24 Hours
 
 
 PHASE 1.2: TRANSIT & OPEN-OCEAN STATION KEEPING
+
 Timeline: Day 1 — 0200 to 0800 Hours
 
 •	0200 Hours: Secure harbor clearance from port authorities and execute departure. Synchronize all master bridge clocks, power up marine radar systems, log an active AIS transponder stream displaying the destination zone, and maintain continuous monitoring on VHF Channels 16 and 13. [1]
@@ -812,7 +813,11 @@ Timeline: Day 1 — 0800 to 1200 Hours
 •	1100 Hours: Open the valves on all through-hull sea strainers and cooling intakes for the 10MW generator station. Fire up all ten 1MW generator sets to an idle state, verifying stable exhaust temperatures and oil pressures across the electrical array.
 
 •	1145 Hours: Execute a comprehensive radio and telemetry sync pass. Connect the barge-side PLC digital output modules to the safety yacht’s control room via encrypted, multi-channel line-of-sight data bridges. Confirm the low-voltage logic trigger loop loops successfully through the Barge Deck Indicator Light Array. [1, 2, 3, 4, 5]
-PHASE 4: SUB-SURFACE ASSET PRE-LAUNCH CALIBRATION
+
+
+
+PHASE 1.4: SUB-SURFACE ASSET PRE-LAUNCH CALIBRATION
+
 Timeline: Day 1 — 1200 to 1400 Hours
 
 •	1200 Hours: Clear the submarine hangar deck of non-essential personnel. Mount the ultra-high vacuum Turbomolecular Pump Stack directly to the Inconel 625 reactor vessel flange, verifying that all metal copper gaskets are seated clean without dust or hair anomalies.
@@ -822,7 +827,11 @@ Timeline: Day 1 — 1200 to 1400 Hours
 •	1315 Hours: Secure all high-current vacuum feedthroughs and torque-limiting mechanical clutches. Conduct a strict visual inspection of all multi-pin structural O-rings, verifying that the subsea seals are completely un-pinched and lubricated.
 
 •	1345 Hours: Lower the USBL acoustic underwater transceiver from the command yacht into the water and execute a multi-point ping pass to confirm 3D tracking continuity with the submarine’s navigation array. [1]
-PHASE 5: SUBMERSIBLE LAUNCH & BALLISTIC DESCENT SEQUENCE
+
+
+
+PHASE 1.5: SUBMERSIBLE LAUNCH & BALLISTIC DESCENT SEQUENCE
+
 Timeline: Day 1 — 1400 to 1600 Hours
 
 •	1400 Hours: The Launch Coordinator initiates a final radio verification circuit across all stations. The Vessel Master issues the launch order. The heavy deck A-frame lifts the submersible asset clear of the barge support blocks.
@@ -837,7 +846,7 @@ Timeline: Day 1 — 1400 to 1600 Hours
 
 
 
-PHASE 1.4: SINGLE-WIRE RESONANT TUNING & TRANSMISSION TESTING
+PHASE 1.6: SINGLE-WIRE RESONANT TUNING & TRANSMISSION TESTING
 
 Timeline: Day 1 — 1600 to 1630 Hours
 
@@ -853,7 +862,7 @@ Timeline: Day 1 — 1600 to 1630 Hours
 
 
 
-PHASE 1.5: POST-IGNITION EXTRACTION & SAFE RECOVERY
+PHASE 1.7: POST-IGNITION EXTRACTION & SAFE RECOVERY
 
 Timeline: Day 1 — 1630 Hours to Completion
 
@@ -866,7 +875,6 @@ Timeline: Day 1 — 1630 Hours to Completion
 •	1700 Hours: The submarine crew blows all main ballast tanks using high-pressure compressed air lines, driving the vehicle back to the surface at maximum buoyancy.
 
 •	1730 Hours: The offshore twin-engine utility helicopter launches from the command yacht deck to execute a rapid operational verification pass. The flight crew uses the insulated NATO-Spec Static Discharge Grounding Kit to safely ground the helicopter hull to the floating submarine casing before releasing the retrieval tech line, successfully concluding the offshore deployment phase.
-
 
 
 
@@ -965,7 +973,6 @@ Timeline: T-Plus 45 Days — 1300 Hours to Execution
 
 
 
-
 PHASE 3: GRID-INTERCONNECTED-SHORE-BARGE / SURFACE-BARGE  OCEANIC-TRANSMISSION-LINK  PRELIMINARY-BI-DIRECTIONAL-LOW-POWER TEST
 
 
@@ -1031,7 +1038,6 @@ PHASE 4: POST-(local)IGNITION (STEADY-BURN) SURFACE-BARGE to SHORE-BARGE  LAND-G
 
 
 
-
 PHASE 5:  SHORE-BARGE GRID-ENERGY to SURFACE-BARGE  TEST
 
 
@@ -1065,13 +1071,7 @@ PHASE 5:  SHORE-BARGE GRID-ENERGY to SURFACE-BARGE  TEST
 
 
 
-
 PHASE 6:  SHORE-BARGE GRID-ENERGY to SURFACE-BARGE  (remote)IGNITION  TEST
-
-
-
-
-
 
 
 
