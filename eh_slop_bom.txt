@@ -853,6 +853,24 @@ ________________________________________
 
 
 
+PHASE 8: STEADY-STATE OPERATIONS CAMPAIGN (DEFERRED PHASE)
+Timeline: Minimum T-Plus 30 Days to T-Plus 45 Days (Separate Operational Window)
+•	T-Plus 30 Days (Core Disassembly & Drydock Reconfiguration): Following successful verification of the short-pulse ignition metrics, the submersible vessel hull is towed to a specialized drydock facility. Disconnect the Pulsed Ohmic Capacitor Bank and strip out the temporary internal passive confinement wall elements. [1, 2]
+•	T-Plus 35 Days (Active Thermal Loop Integration): Install the complete, actively cooled ITER-grade Tungsten Divertor Tile Array across the exhaust exhaust channels. Connect the internal high-pressure coolant plumbing lines directly to the closed-loop external titanium hull radiator plates, creating a continuous heat-exchange matrix capable of handling a steady thermal load. [1, 2, 3, 4]
+•	T-Plus 40 Days (Non-Inductive Current Winding Deployment): Mount the deferred Steady-State Confinement Supplies (continuous-duty heavy-amperage industrial DC rectifiers) within the subsea power corridors. Integrate a high-power Lower Hybrid Current Drive (LHCD) RF antenna system into the core vessel boundary to provide continuous, non-inductive plasma current drive, completely bypassing the inductive volt-second saturation limits of the central solenoid. [1, 2, 3, 4, 5]
+•	T-Plus 44 Days (Continuous Exhaust Conditioning): Commission the sub-divertor exhaust extraction systems. Charge the liquid nitrogen-cooled panels to initialize the Argon-Frosting Cryosorption Layer and verify that the high-velocity mechanical turbomolecular pumps can continuously extract neutralized Helium-4 ash under steady-state gas-loading conditions. [1, 2]
+•	T-Plus 45 Days — 0400 Hours (Redeployment to Atlantic Coordinate Zone): Tow the re-engineered dual-vessel platform back out past the continental shelf to the designated Atlantic coordinates. Re-establish the anchor-last mooring lines and sync the line-of-sight telemetry arrays with the command yacht. [1]
+•	0800 Hours (Subsea Launch & Deep Hydrostatic Station Keeping): Flood the submarine ballast tanks to execute the deep submergence sequence. Hover at the target neutrality plane of 1,500 meters, allowing deep ocean water pressures and the constant 2°C temperature sink to stabilize the external hull dimensions. [1, 2, 3]
+PHASE 9: STEADY-STATE IGNITION SUSTAINMENT & EXTRACT LOOP
+Timeline: T-Plus 45 Days — 1300 Hours to Execution
+•	1300 Hours (Continuous Power Initialization): Engage the surface generator fleet to drive steady-state current down the transceiver node. The Sweeping Green LED Masts on the barge decks illuminate continuously, confirming that forward power is maintaining the subsea magnetic field loops open.
+•	1345 Hours (Plasma Current Flat-Top Achieved): Inject the continuous Deuterium and Helium-3 gas streams via the mass flow controllers. The LHCD system fires, successfully taking over the current drive from the solenoid and locking the plasma into a stable, time-stationary "Advanced Tokamak" configuration.
+•	1400 Hours (Steady-State Fusion Transition): Bring the core plasma density up to burning parameters. The reaction achieves self-sustaining ignition. The subsea thyristors invert to direct the continuous back-EMF conversion currents upward.
+•	1400:01 Hours (Continuous Atmospheric Sky-Beam Ignition): The surface current transformers register the continuous upward fusion back-feed. The green LED masts cut out. The switchgear instantly fires the heavy-duty DC contactors, striking the 60-Inch Carbon Arc Searchlight.
+•	1405 Hours (Sustained Cloud-Bounce Telemetry): Instead of a transient microsecond flash, the carbon arc sky-beam locks into a continuous, blinding 800-million-candlepower vertical blast into the Atlantic night sky. The intense column of light hits the cloud canopy, creating a massive, glowing atmospheric beacon visible to the naked eye from the coast 30 miles away.
+•	1500 Hours (Equilibrium Power Harvesting): The reaction is sustained continuously for one hour. The active Alpha-Channeling RF Network forces cold helium ash out to the tungsten divertor tiles, where it neutralizes into gas and is pumped away, keeping the core fuel un-diluted. The continuous megawatt-scale power surge coming up the line is systematically harvested by the surface Flywheel Energy Buffer, conditioned by the AFE inverters, and fed backward to drive the diesel generators as mechanical motor brakes in an equilibrium loop.
+•	1530 Hours (Controlled Burn Termination): The command yacht issues the stop sequence via the line-of-sight data bridge. The mass flow controllers choke off the isotopic fuel lines, safely extinguishing the plasma flame. The carbon arc sky-beam shuts down, signaling a successful, un-disrupted conclusion to the steady-state extraction campaign.
+
 
 
 
