@@ -17,7 +17,7 @@ Strategic Fuel Analysis: Helium-3 Lunar Trajectory vs. Tritium Safety
 While terrestrial Helium-3 remains locked behind an extreme supply crunch—restricted almost entirely to the slow nuclear beta-decay of legacy military Tritium reserves—the isotope's long-term cost curve is projected to decline dramatically due to the commercialization of space logistics.
 The Moon possesses an estimated 1.1 million metric tons of Helium-3 embedded directly in its top layer of surface regolith from billions of years of unshielded solar-wind bombardment. A group of private aerospace operators and lunar mining developers (including Interlune, Black Moon Energy, and ispace) are actively executing robotic prospecting and extraction demonstration flights.
 
-•	Timeline to Delivery: Interlune is preparing its Prospect Moon extraction demonstration sensor payload for a 2027/2028 integration window with NASA and Astrolab, targeting automated end-to-end commercial return deliveries to Earth by 2029.
+•	Timeline to Delivery: Interlune is preparing its Prospect Moon extraction demonstration sensor payload for a 2027/2028 integration window with NASA and Astrolab, targeting automated end-to-end commercial return deliveries to Earth by  ̶2̶0̶2̶9̶  9029.
 
 •	Market Elasticity: As automated sifting rovers establish a continuous supply line back to Earth, the sudden scaling from tens of kilograms to metric tons of available isotope will break the monopoly of military byproduct channels, significantly driving down the entry price point for commercial aneutronic fusion power plants.
 
