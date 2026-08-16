@@ -159,7 +159,30 @@ Steady-State Confinement Supplies	Continuous heavy-amperage industrial DC rectif
 
 
 
-Onboard Crew Provisions & Welfare AmenitiesTo sustain full-time owned operations and maintain high crew morale during extended testing window configurations at sea, the following operational comfort lines are integrated into the baseline:ComponentTechnical SpecificationEstimated Unit CostQuantity RequiredEstimated Total CostSourcing & Logistics ChannelsHigh-Speed Maritime InternetStarlink Maritime flat high-performance terminal for in-motion offshore connection, paired with an active Mobile Priority data subscription.$2,500 – $6,000 hardware; $250 – $1,500/mo service1 Year Deployment Terminal + Plan$5,500 – $24,000Procurement direct from SpaceX Starlink Maritime commercial sales channels.Onboard Crew Food & ProvisionsStandard industrial maritime catering allocation covering three filling meals a day per person in the crew mess.$100 – $150 per person daily5 Personnel x 365 Days Retainer$182,500 – $273,750Managed through commercial offshore marine provisioning services at regional port drydocks.Wholesale Coffee & Spirits RationsBulk allocation of wholesale premium ground roast Arabica beans alongside cases of premium grain vodka for off-duty welfare.$9.31 – $9.45/lb coffee; ~$240/case vodkaAnnual Bulk Comfort Allowance$5,000 – $12,000Sourced via agricultural wholesale suppliers and bulk beverage distribution partners.Bulk Tobacco Provisions (Cigarettes & Chew)Standard cartons of mainstream brand cigarettes (10 packs/200 cigarettes per carton) paired with wholesale bulk boxes/tubs of loose-leaf chewing tobacco and moist snuff.~$45 – \value$70 per cigarette carton; ~$10.99 per 6-count bulk chewing tobacco tub setAnnual Crew Welfare Allocation$5,000 – $15,000Procured duty-free through licensed ship chandler bonded stores under standard customs control.Soft Drinks, Energy Drinks & SnacksPalletized crates of name-brand carbonated sodas, premium energy drinks, chocolate bars, candy, and meat snacks for the slop chest.Bulk wholesale case volume ratesAnnual Mess Hall Supply Buffer$8,000 – $18,000Supplied directly via marine provisioning dry docks and bonded food brokers.OTC Marine Medical & Welfare SuppliesExtended maritime first aid first-responder trauma packs supplemented with bulk over-the-counter wellness supplies (ibuprofen, Tums, melatonin, motion sickness tablets).$230 – $1,154 per USCG-approved marine trauma series medical kitComplete Onboard Hospital Box$2,000 – $6,500Sourced via certified marine medical suppliers or specialized offshore safety outfitters.Broad-Spectrum Antiviral & Quarantine StockInternational Medical Guide for Ships Category A compliant support module containing non-prescription barrier elements, viral protection PPE, and preventative support inventories.Standard offshore regulatory medical chest expansion package pricing parameters1 Integrated Fleet Reserve$1,500 – $3,500Procured through licensed maritime pharmaceutical suppliers and certified medical brokers.
+Onboard Crew Provisions & Welfare Amenities
+
+To sustain full-time owned operations and maintain high crew morale during extended testing window configurations at sea, the following operational comfort lines are integrated into the baseline:
+
+ComponentTechnical SpecificationEstimated Unit CostQuantity RequiredEstimated Total CostSourcing & Logistics Channels
+
+High-Speed Maritime Internet
+Starlink Maritime flat high-performance terminal for in-motion offshore connection, paired with an active Mobile Priority data subscription.$2,500 – $6,000 hardware; $250 – $1,500/mo service1 Year Deployment Terminal + Plan$5,500 – $24,000Procurement direct from SpaceX Starlink Maritime commercial sales channels.
+
+
+Onboard Crew Food & Provisions
+Standard industrial maritime catering allocation covering three filling (non dogshit) meals a day per person in the crew mess.$100 – $150 per person daily5 Personnel x 365 Days Retainer$182,500 – $273,750Managed through commercial offshore marine provisioning services at regional port drydocks.
+
+Wholesale Coffee & Spirits Rations
+
+Bulk allocation of wholesale premium ground roast Arabica beans (aka Dunkn MN) alongside cases of premium grain vodka (aka Titos & Goose) for off-duty welfare (& Crown... regular crown... no bitch flavors) .$9.31 – $9.45/lb coffee; ~$240/case vodka(& whiskey)Annual Bulk Comfort Allowance$5,000 – $12,000Sourced via agricultural wholesale suppliers and bulk beverage distribution partners.
+
+Bulk Tobacco Provisions (Cigarettes & Chew)Standard cartons o(newports and marlboros mostly, no offrband dogshit)f mainstream brand cigarettes (10 packs/200 cigarettes per carton) paired with wholesale bulk boxes/tubs of loose-leaf chewing tobacco and moist snuff.~$45 – \value$70 per cigarette carton; ~$10.99 per 6-count bulk chewing tobacco tub setAnnual Crew Welfare Allocation$5,000 – $15,000Procured duty-free through licensed ship chandler bonded stores under standard customs control.
+
+Soft Drinks, Energy Drinks (redbull, lots of redbull) & SnacksPalletized crates of name-brand carbonated sodas, premium energy drinks, chocolate bars, candy, and meat snacks for the slop chest.Bulk wholesale case volume ratesAnnual Mess Hall Supply Buffer$8,000 – $18,000Supplied directly via marine provisioning dry docks and bonded food brokers.
+
+OTC Marine Medical & Welfare SuppliesExtended maritime first aid first-responder trauma packs supplemented with bulk over-the-counter wellness supplies (ibuprofen, Tums, melatonin, motion sickness tablets).$230 – $1,154 per USCG-approved marine trauma series medical kitComplete Onboard Hospital Box$2,000 – $6,500Sourced via certified marine medical suppliers or specialized offshore safety outfitters.
+
+Broad-Spectrum Antiviral (the good overpriced 'antirejection/antigalvantic' shit not that acyclovir bitch shit) & Quarantine StockInternational Medical Guide for Ships Category A compliant support module containing non-prescription barrier elements, viral protection PPE, and preventative support inventories.Standard offshore regulatory medical chest expansion package pricing parameters1 Integrated Fleet Reserve$1,500 – $3,500Procured through licensed maritime pharmaceutical suppliers and certified medical brokers.
 
 
 
